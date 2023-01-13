@@ -1,0 +1,377 @@
+/* ESTE CSS MANEJA A TODAS LAS PAGINAS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;  
+    text-decoration: none;
+  }
+  
+  
+body{
+  background-color: white;
+}
+
+nav{ /*  Contenedor de todo el header, se le debe entregar las medidas */
+  background: #f7f9f9;
+  height: 4.6rem;
+  width: 100%;
+  margin: auto;
+}
+  
+
+.enlace{  /* "container" del logo de la pagina */
+  position: absolute;
+  padding: 1rem 1rem;
+ /*  border: 2px solid black; */
+}
+.enlace .logo{ /* logo en si de la pagina */
+  height: 6.5rem;   
+  width: 8rem;
+  position: relative;
+  top: -2rem;
+  left: 2rem;
+}
+
+nav ul{  /* enviar elementos del navegador a la derecha */
+  float: right;
+  margin-right: 1rem;
+}
+nav ul li{  /* dejando las secciones del header en linea */
+  display: inline-block;
+  line-height: 4.6rem; /* con esto se centran en el navegador de forma vertical, se le debe poner el height total del navegador*/
+  margin: 0 0.2rem;
+}
+nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
+  color: rgba(10, 10, 10, 1);
+  font-size: 0.8rem;
+  padding: 0.5rem 0.5rem;
+  text-transform: uppercase; /* todo en mayuscula */
+  transition: all 1s ease;  /* el efecto hover que tendra sera mas suave */
+  letter-spacing: 0.1rem;
+}
+
+.activePage{  /* clase active, que solo se muestra en la pagina actual */
+    border-bottom: 2px solid blue;
+}
+
+.linea-horizontal {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid black;
+}
+
+.material-symbols-outlined {  /* google font  */
+   font-variation-settings:
+   'FILL' 0,
+   'wght' 500,
+   'GRAD' 0,
+   'opsz' 48
+ }
+.checkbtn .material-symbols-outlined {
+  font-size: 2.5rem; /* tamaño icono menu */
+}
+
+
+.checkbtn{  /* clase menu dropdown que solo se despliega en pantalla pequeña  */
+    font-size: 2rem;
+    color:black;
+    float: right; /* enviandolo a la derecha */
+    line-height: 6rem; 
+    margin-right: 3rem;
+    cursor: pointer;
+    display: none;   /* no se vera en pantalla grande, y en pantalla chica el display sera block con el mediaquerie*/
+}
+#check{  /* el ckeck del id nunca se vera, es solamente usado para activar o desactivar el efecto responsivo, ademas de usarlo por JS */
+    display: none;
+}
+
+.active{/* Clase active se añadira a al menu ul cuando se haga click en el icono del menu, funcion click de JS */
+  left:0;/* perdera los -100left que se le ah dado y se mostrara medio a medio en la pantalla */
+}
+
+.seccion1{ /* Seccion del boton cambiar idioma y texto */
+  position: relative; /* necesario el position relatie para la posicion absoluta del boton */
+  background-color: white;
+  width: 80%;
+  min-height: 10vh;
+  margin: 0.5rem auto;
+}
+#contenedorParrafo{
+ /*  border: 2px solid black; */
+  width: 80%;
+  display: inline-block;  
+  top: 0;
+  margin: 0.5rem;  
+}
+
+#parrafo{
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0.5rem;
+}
+
+#dark-mode-button{
+  font-size: 0.8rem;
+  position: absolute;
+  right: 0;
+  top: 0.1, 5rem;
+  transition: all 0.5s ease;
+  background-color: rgb(238, 229, 229);
+  border-radius: 5%;
+  padding: 0.3rem;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+#toggle-audio-button{
+  font-size: 0.8rem;
+  position: absolute;
+  right: 2rem;
+  top: 0.1,5rem;
+  transition: all 0.5s ease;
+  background-color: rgb(238, 229, 229);
+  border-radius: 5%;
+  padding: 0.3rem;
+  border: 1px solid black;
+  cursor: pointer;
+}
+#botonCambiarIdioma-id{
+  font-size: 0.8rem;
+  position: absolute;
+  right: 0;
+  background-color: rgb(238, 229, 229);
+  padding: 0.3rem;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 5%;
+  top: 2.5rem;
+  /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); */
+  transition: all 0.5s ease;  /* el efecto hover que tendra sera mas suave */
+}
+
+.contenedor2{ /* aca llegaran dinamicamente las palabras en ingles */
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-around;
+  width: 80%;
+  margin: 1rem auto 4rem auto;
+  /* border: 1px solid black; */
+}
+
+.palabra{ /* palabras generadas en ingles */
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin: 1rem;
+  font-weight: bold; 
+  cursor: pointer;
+  /* transition-delay: 4000ms; */
+  transition-duration: 1000ms;
+  box-shadow: 0 0 2px rgba(0,0,0,0.5);
+  letter-spacing: 0.1rem;
+}
+
+.palabra.click {
+  /* al hacerle click a una palabra se le aplican estos estilos */
+  transform: scale(1.05);
+  color: blue;
+  box-shadow: 0 0 2px rgba(0,0,0,0.5);
+  background-color: rgb(240, 238, 235, 0.5);
+  /* transition-delay: 1000ms; */
+}
+ 
+
+#myBtn{ /* Boton flecha para devolver la pagina al inicio */
+  background-color: #555;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  z-index: 1;
+  line-height: 2.2rem; /* usado para centrar el simbolo en el botn en caso de ser necesario.. */
+  text-align: center;
+  transition: all 0.5s ease;  /* el efecto hover que tendra sera mas suave */
+}
+#myBtn:before {    /* https://fontawesome.com/v5/cheatsheet/free/solid */
+  content: "\f106"; /* numero del simbolo de flecha, buscar en la pagina mas codigos.. */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 20px;
+}
+
+
+
+/* DROPDOWN VERBOS: presente, pasado, participio  */
+.dropdown {
+  position: relative;
+  display: inline
+}
+.dropdown-content {  /* contenido que se despliega */
+  display: none;    /* al cambiar a display block, se genera el efecto hover */
+  position: absolute;
+  opacity: 0.96;
+  background-color: rgb(238, 229, 229);
+  min-width: 8em;                  /* ancho minimo */
+  box-shadow: 0px 8px 16px rgb(94, 91, 91);
+  z-index: 2;
+  left: 0rem;
+}
+.dropdown-content a{
+  color: black;
+  padding: 0.9rem 0.5rem;    
+  display: block;    
+  font-size: 1rem;
+  transition: all 0.5s ease; 
+}
+
+
+
+/* Estilos para el modo oscuro */
+.dark-mode{
+  background-color: #121212;
+  color:white}
+.dark-mode nav ul li a{
+  color: white;}
+.dark-mode nav{
+  background-color: #111010}
+.dark-mode .seccion1{
+  background-color: #181818}
+.dark-mode .palabra{
+  border: 1px solid white;
+  background-color: #555;}  
+.dark-mode .palabra.click{
+  background-color: rgb(182, 180, 180);}
+.dark-mode .linea-horizontal{
+  border-bottom: 1px solid white;}
+.dark-mode .checkbtn .material-symbols-outlined {
+  color: white; /* tamaño icono menu */}
+
+/* Estilos para el modo claro, no fue necesario usarlo, ya que al quitar el dark mode, los valores vuelven por defecto... */
+/* .light-mode{
+  background-color: white;
+  color: black;
+}
+ */
+
+
+
+
+
+/* aca se hace el responsive para pantallas inferiores a 1400px */
+@media (max-width: 1400px){
+
+  .checkbtn{ /* el icono menu se muestra al cambiar su display de none a block */
+      display: block;
+  }
+
+  ul{  /* con esto las secciones del menu se mostraran abarcando casi toda la pantalla */
+      position: fixed; /*fijado */
+      z-index: 1;
+      width: 100%;
+      height: 94vh; /* alto 100% */
+      background: rgba(43, 77, 111, 0.98);
+      opacity: 0.98;
+      
+      top: 4.6rem;  /* se baja para visualizar el icono del menu y el logo, respetando el tamaño del nav de 4.6rem */
+      left: -100%; /* usado para ocultar las secciones del menu ul, pero al hacer click en el menu se mostrara con un movimiento de izquierda a derecha*/
+      text-align: center;
+      transition: all 0.7s; /* tiempo */
+  }
+  
+  nav ul li{ 
+      display: block; /* con esto los elementos se pondran en bloque uno arriba del otro */
+      margin: 3rem 0rem 0rem 0rem; /* arriba abajo 50px. 0 a los costados */
+      line-height: 2.5rem; /*orden vertical */
+  }
+ #acercaDe{
+    margin-bottom: 5rem;
+  }
+  nav ul li a{
+      font-size: 1rem; 
+      color: rgba(255, 255, 255, 1);
+      letter-spacing: 0.2rem;
+  }
+ 
+  .activePage{ /* Se desactiva la activePage */
+    border-bottom: none;
+    text-decoration: underline;
+  }
+
+  
+  .dropdown-content {  /* Menu desplegable Verbos */
+    background-color: rgb(238, 240, 241);
+    min-width: 10em;    /* ancho minimo */
+    z-index: 2;
+    left: -5rem;
+    top: 3rem;
+    border-radius: 5%;
+    opacity: 0.96;
+  }
+
+}
+
+
+@media screen and (max-width: 1000px) { /* se expande al 96% el texto del contenedor */
+  .contenedor2 {
+    width: 96%;
+    margin-top: 1rem;
+  }
+  .seccion1{
+    width: 96%;
+  }
+  #parrafo{
+    font-size: 0.9rem;
+  }
+  #contenedorParrafo{
+    width: 60%;
+    
+  }
+}
+
+@media screen and (max-width: 400px){
+  .checkbtn .material-symbols-outlined {  /* el simbolo menu responsivo se re-posiciona */
+    position: absolute;
+    margin-top: 1rem;
+  }
+  .enlace .logo{ 
+    left: 1rem;
+  }
+  #botonCambiarIdioma-id{
+    top: 3.5rem;
+    font-size: 0.9rem;
+  }
+}
+
+
+/* Se busca que los efecto hover unicamente funcionen en dispositivos con mouse y No en dispositivos tactiles */
+@media (pointer: fine) {
+  li a:hover {     
+    font-size: 0.9rem;
+    transition-duration: 1000ms;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid blue;
+  }
+  #botonCambiarIdioma-id:hover, #dark-mode-button:hover, #toggle-audio-button:hover{
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    scale: 1.05;
+  }
+  .palabra:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  #myBtn:hover{
+    scale: 1.1;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  .dropdown-content a:hover {   /* al pasar el mouse por los elementos seleccionados cambia su estilo */
+    background-color: #f1f1f1;
+    font-size: 1.03rem;
+  }
+}

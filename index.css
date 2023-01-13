@@ -1,0 +1,157 @@
+html {
+  height: 100vh;
+}
+
+#contenedorParrafo2{
+  /*  border: 2px solid black; */
+   width: 80%;
+   display: inline-block;  
+   top: 0;
+   margin: 0.5rem 0;  
+ }
+ 
+
+.seccion{ /*contenedor oraciones */
+   display: flex;
+   flex-flow: row wrap;/* row para respetar el orden creado desde los div en html y wrap para que se acomoden*/
+   width: 80%;
+   margin: auto;
+   /* max-height: 65vh; */
+ }
+ .oraciones{
+  margin-bottom: 2rem;
+  color: black;
+ }
+.column {
+   padding: 0.5rem;   
+   flex:50%;
+}
+li{
+  list-style: circle;
+  margin-bottom: 0.2rem;
+}
+
+
+.titulo{ /* oracion que se genera dinamicamente al hacerle click cambia */
+   font-weight: bolder;
+   cursor: pointer;
+   margin-bottom: 0.2rem;
+ }
+
+
+ .intro{
+   position: relative; /* necesario el position relatie para la posicion absoluta del boton */
+   background-color: white;
+   width: 80%;
+   min-height: 10vh;
+   margin: 0.5rem auto;
+ }
+ #dark-mode-button{
+  font-size: 0.8rem;
+  position: absolute;
+  right: 0;
+  top: 0.1,5rem;
+  transition: all 0.5s ease;
+  background-color: rgb(235, 230, 230);
+  border-radius: 5%;
+  padding: 0.3rem;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+
+.containerFooter{
+  width: 80%;
+  margin: 0.5rem auto 0 auto;
+  padding: 1rem; 
+}
+#footer{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 0.9rem;
+  font-family: sans-serif;
+}
+
+.material-symbols-outlined {  /* icono dark mode google font */
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+#tituloLogo{
+  font-weight: bold;
+  color: blue;
+}
+
+a.gramatica {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+ 
+/* Estilos para el modo oscuro */
+.dark-mode{
+   background-color: #121212;
+   color:white}
+ .dark-mode nav ul li a{
+   color: white;}
+ .dark-mode nav{
+   background-color: #111010}
+ .dark-mode .intro{
+   background-color: #181818}
+ .dark-mode .palabra{
+   border: 1px solid white;
+   background-color: #555;}
+ .dark-mode .palabra.click{
+   background-color: white;}
+ .dark-mode .linea-horizontal{
+   border-bottom: 1px solid white;}
+ .dark-mode .checkbtn .material-symbols-outlined {
+   color: white; /* tamaño icono menu */}
+.dark-mode .oraciones {
+      color: white; /* tamaño icono menu */}
+.dark-mode .seccion{
+  background-color: rgb(31, 30, 30);}
+.dark-mode .seccion1{
+  background-color: rgb(31, 30, 30);}
+.dark-mode .footer{
+  background-color: rgb(31, 30, 30);}
+.dark-mode .gramatica{
+  color: white;
+} 
+ /* Estilos para el modo claro, no fue necesario usarlo, ya que al quitar el dark mode, los valores vuelven por defecto... */
+ /* .light-mode{
+   background-color: white;
+   color: black;
+ }
+  */
+
+
+@media screen and (max-width: 1000px) { /* en celulares se expande al 100% el texto del contenedor */
+    .seccion{
+      width: 96%;   
+    }
+    
+    .footer{
+      width: 96%;
+    }
+}
+
+@media screen and (max-width: 1200px){
+   .column {
+      flex:100%; /* ocupen un 100% del espacio, osea una sola columna en la pagina */
+   }
+}
+
+
+
+
+
+
+
+
+

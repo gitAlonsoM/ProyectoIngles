@@ -1,0 +1,591 @@
+
+[
+    {
+    "ingles": "have",
+    "español": ["tener"]
+    },
+    {
+    "ingles": "do",
+    "español": ["hacer"]
+    },
+    {
+    "ingles": "say",
+    "español": ["decir (lo que alguien ha dicho)"]
+    },
+    {
+    "ingles": "get",
+    "español": ["obtener", "conseguir", "captar"]
+    },
+    {
+    "ingles": "make",
+    "español": ["hacer", "preparar"]
+    },
+    {
+    "ingles": "go",
+    "español": ["ir"]
+    },
+    {
+    "ingles": "know",
+    "español": ["saber"]
+    },
+    {
+    "ingles": "think",
+    "español": ["pensar"]
+    },
+    {
+    "ingles": "take",
+    "español": ["tomar"]
+    },
+    {
+     "ingles": "watch",
+     "español": ["ver", "mirar"]
+     },
+    {
+    "ingles": "see",
+    "español": ["ver", "comprender"]
+    },
+    {
+    "ingles": "look",
+    "español": ["mirar", "lucir"]
+    },
+    {
+    "ingles": "come",
+    "español": ["venir"]
+    },
+    {
+    "ingles": "want",
+    "español": ["querer"]
+    },
+    {
+    "ingles": "use",
+    "español": ["usar"]
+    },
+
+    {  
+    "ingles": "find",
+    "español": ["encontrar"]
+    },
+    {
+    "ingles": "give",
+    "español": ["dar"]
+    },
+    {
+    "ingles": "tell",
+    "español": ["decir (comunicar algo directamente)"]
+    },
+    {
+    "ingles": "work",
+    "español": ["trabajar"]
+    },
+    {
+    "ingles": "call",
+    "español": ["llamar"]
+    },
+    {
+    "ingles": "try",
+    "español": ["intentar"]
+    },
+    {
+    "ingles": "ask",
+    "español": ["preguntar"]
+    },
+    {
+    "ingles": "need",
+    "español": ["necesitar"]
+    },
+    {
+    "ingles": "feel",
+    "español": ["sentir"]
+    },
+    {
+    "ingles": "become",
+    "español": ["convertirse"]
+    },
+    {
+    "ingles": "leave",
+    "español": ["irse", "dejar"]
+    },
+    {
+    "ingles": "let",
+    "español": ["dejar", "permitir", "vamos"]
+    },
+
+    {
+    "ingles": "keep",
+    "español": ["guardar", "mantener"]
+    },
+    {
+    "ingles": "save",
+    "español": ["guardar (protección de algo)"]
+    },
+    {
+    "ingles": "start",
+    "español": ["comenzar"]
+    },
+    
+    {
+    "ingles": "show",
+    "español": ["mostrar"]
+    },
+    {
+    "ingles": "play",
+    "español": ["jugar"]
+    },
+    {
+    "ingles": "run",
+    "español": ["correr"]
+    },
+    {
+    "ingles": "move",
+    "español": ["mover"]
+    },
+    {
+    "ingles": "like",
+    "español": ["gustar"]
+    },
+    {
+    "ingles": "live",
+    "español": ["vivir"]
+    },
+    {
+    "ingles": "believe",
+    "español": ["creer"]
+    },
+    {
+    "ingles": "hold",
+    "español": ["sostener", "mantener"]
+    },
+    {
+    "ingles": "bring",
+    "español": ["traer"]
+    },
+    {
+    "ingles": "happen",
+    "español": ["suceder"]
+    },
+    {
+    "ingles": "must*",
+    "español": ["deber (obligación o necesidad)"]
+    },
+    {
+      "ingles": "should*",
+      "español": ["deberia(recomendación)"]
+    },
+    {
+      "ingles": "may*",
+      "español": ["puede", "podría", "(posibilidad o permiso)"]
+    },
+    {
+      "ingles": "can*",
+      "español": ["poder", "(habilidad o posibilidad)"]
+    },
+    {
+      "ingles": "might*",
+      "español": ["podría", "(posibilidad)"]
+    },
+    {
+      "ingles": "could*",
+      "español": ["podría", "podía", "(habilidad o posibilidad)"]
+    },
+    {
+    "ingles": "write",
+    "español": ["escribir"]
+    },
+    {
+    "ingles": "allow",
+    "español": ["permitir"]
+    },
+    
+    {
+    "ingles": "sit",
+    "español": ["sentarse"]
+    },
+    {
+    "ingles": "stand",
+    "español": ["estar de pie"]
+    },
+    {
+    "ingles": "lose",
+    "español": ["perder"]
+    },
+    {
+    "ingles": "pay",
+    "español": ["pagar"]
+    },
+    {
+    "ingles": "meet",
+    "español": ["reunirse", "encontrarse"]
+    },
+    {
+    "ingles": "include",
+    "español": ["incluir"]
+    },
+    {
+    "ingles": "continue",
+    "español": ["continuar"]
+    },
+    {
+    "ingles": "set",
+    "español": ["poner", "establecer"]
+    },
+    {
+    "ingles": "learn",
+    "español": ["aprender"]
+    },
+    {
+    "ingles": "change",
+    "español": ["cambiar"]
+    },
+    {
+    "ingles": "lead",
+    "español": ["conducir", "liderar"]
+    },
+    {
+    "ingles": "understand",
+    "español": ["entender"]
+    },
+  
+    {
+    "ingles": "follow",
+    "español": ["seguir"]
+    },
+    {
+    "ingles": "stop",
+    "español": ["parar"]
+    },
+    {
+    "ingles": "create",
+    "español": ["crear"]
+    },
+    {
+    "ingles": "speak",
+    "español": ["hablar"]
+    },
+    {
+    "ingles": "talk",
+    "español": ["hablar"]
+    },
+    {
+    "ingles": "read",
+    "español": ["leer"]
+    },
+    {
+    "ingles": "add",
+    "español": ["agregar"]
+    },
+    {
+    "ingles": "spend",
+    "español": ["gastar"]
+    },
+    {
+    "ingles": "grow",
+    "español": ["crecer"]
+    },
+    {
+    "ingles": "open",
+    "español": ["abrir"]
+    },
+    {
+        "ingles": "be",
+        "español": ["ser", "estar"]
+      },
+      {
+        "ingles": "sleep",
+        "español": ["dormir"]
+      },
+      {
+        "ingles": "laugh",
+        "español": ["reir"]
+      },
+      {
+        "ingles": "love",
+        "español": ["amar"]
+      },
+      {
+        "ingles": "hate",
+        "español": ["odiar"]
+      },
+      {
+        "ingles": "miss",
+        "español": ["fallar", "echar de menos"]
+      },
+      {
+        "ingles": "remember",
+        "español": ["recordar"]
+      },
+      {
+        "ingles": "wake up",
+        "español": ["despertar", "levantarse"]
+      },
+      {
+        "ingles": "drive",
+        "español": ["conducir"]
+      },
+      {
+        "ingles": "fly",
+        "español": ["volar"]
+      },
+      {
+        "ingles": "swim",
+        "español": ["nadar"]
+      },
+      {
+        "ingles": "eat",
+        "español": ["comer"]
+      },
+      {
+        "ingles": "listen",
+        "español": ["escuchar"]
+      },
+      {
+        "ingles": "drink",
+        "español": ["beber"]
+      },
+      {
+        "ingles": "cry",
+        "español": ["llorar"]
+      },
+      {
+        "ingles": "arrive",
+        "español": ["llegar"]
+        },
+        {
+        "ingles": "carry",
+        "español": ["llevar", "soportar"]
+        },
+        {
+        "ingles": "dance",
+        "español": ["bailar"]
+        },
+        {
+        "ingles": "draw",
+        "español": ["dibujar"]
+        },
+        {
+        "ingles": "feed",
+        "español": ["alimentar"]
+        },
+        {
+        "ingles": "hug",
+        "español": ["abrazar"]
+        },
+        {
+        "ingles": "jump",
+        "español": ["saltar"]
+        },
+        {
+        "ingles": "kick",
+        "español": ["dar patadas"]
+        },
+        {
+        "ingles": "paint",
+        "español": ["pintar"]
+        },
+        {
+        "ingles": "plant",
+        "español": ["plantar"]
+        },
+        {
+        "ingles": "ride",
+        "español": ["montar"]
+        },
+        {
+        "ingles": "sing",
+        "español": ["cantar"]
+        },
+        {
+        "ingles": "throw",
+        "español": ["lanzar"]
+        },
+        {
+        "ingles": "climb",
+        "español": ["escalar"]
+        },
+        {
+        "ingles": "dream",
+        "español": ["soñar"]
+        },
+        {
+        "ingles": "build",
+        "español": ["construir"]
+        },
+        {
+        "ingles": "catch",
+        "español": ["atrapar"]
+        },
+        {
+        "ingles": "cook",
+        "español": ["cocinar"]
+        },
+        {
+          "ingles": "teach",
+          "español": ["enseñar"]
+          },
+          {
+          "ingles": "apologize",
+          "español": ["disculparse"]
+          },
+          {
+          "ingles": "buy",
+          "español": ["comprar"]
+          },
+          {
+          "ingles": "decide",
+          "español": ["decidir"]
+          },
+          {
+          "ingles": "deliver",
+          "español": ["entregar"]
+          },
+          {
+          "ingles": "develop",
+          "español": ["desarrollar"]
+          },
+          {
+          "ingles": "enter",
+          "español": ["entrar"]
+          },
+          {
+          "ingles": "exist",
+          "español": ["existir"]
+          },
+          {
+          "ingles": "forgive",
+          "español": ["perdonar"]
+          },
+          {
+          "ingles": "forget",
+          "español": ["olvidar"]
+          },
+          {
+          "ingles": "fry",
+          "español": ["freir"]
+          },
+          {
+          "ingles": "greet",
+          "español": ["saludar"]
+          },
+          {
+          "ingles": "help",
+          "español": ["ayudar"]
+          },
+          {
+          "ingles": "injure",
+          "español": ["lesionar", "herir gravemente"]
+          },
+          {
+          "ingles": "hurt",
+          "español": ["lastimar", "herir levemente"]
+          },
+
+          {
+          "ingles": "kiss",
+          "español": ["besar"]
+          },
+          {
+          "ingles": "marry",
+          "español": ["casarse"]
+          },
+          {
+          "ingles": "repair",
+          "español": ["reparar"]
+          },
+          {
+          "ingles": "sell",
+          "español": ["vender"]
+          },
+          {
+            "ingles": "drop",
+            "español": ["Dejar caer algo"]
+            },
+
+          {
+            "ingles": "pull",
+            "español": ["jalar"]
+            },
+            {
+            "ingles": "push",
+            "español": ["empujar"]
+            },
+            {
+            "ingles": "turn",
+            "español": ["girar"]
+            },
+            {
+            "ingles": "wash",
+            "español": ["lavar"]
+            },
+            {
+            "ingles": "wipe",
+            "español": ["limpiar"]
+            },
+            {
+            "ingles": "search",
+            "español": ["buscar"]
+            },
+            {
+            "ingles": "seek",
+            "español": ["buscar"]
+            },
+            {
+            "ingles": "select",
+            "español": ["seleccionar"]
+            },
+            {
+            "ingles": "share",
+            "español": ["compartir"]
+            },
+            {
+            "ingles": "shout",
+            "español": ["gritar"]
+            },
+            {
+            "ingles": "sigh",
+            "español": ["suspirar"]
+            },
+            {
+            "ingles": "smile",
+            "español": ["sonreír"]
+            },
+            {
+            "ingles": "stay",
+            "español": ["quedarse"]
+            },
+            {
+            "ingles": "strike",
+            "español": ["golpear"]
+            },
+            {
+            "ingles": "succeed",
+            "español": ["tener éxito"]
+            },
+            {
+            "ingles": "swallow",
+            "español": ["tragar"]
+            },
+            {
+            "ingles": "travel",
+            "español": ["viajar"]
+            },
+            {
+            "ingles": "visit",
+            "español": ["visitar"]
+            },
+            {
+            "ingles": "wait",
+            "español": ["esperar"]
+            },
+            {
+            "ingles": "walk",
+            "español": ["caminar"]
+            },
+            {
+            "ingles": "waste",
+            "español": ["malgastar"]
+            },
+            {
+            "ingles": "win",
+            "español": ["ganar"]
+            }
+          ]
+

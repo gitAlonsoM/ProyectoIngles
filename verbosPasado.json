@@ -1,0 +1,562 @@
+[
+    {
+    "ingles": "had",
+    "español": ["había", "tenía"]
+    },
+    {
+    "ingles": "did",
+    "español": ["hizo"]
+    },
+    {
+    "ingles": "said",
+    "español": ["dijo"]
+    },
+    {
+    "ingles": "got",
+    "español": ["obtuvo", "consiguió", "captó"]
+    },
+    {
+    "ingles": "made",
+    "español": ["hizo", "preparó"]
+    },
+    {
+    "ingles": "went",
+    "español": ["fue"]
+    },
+    {
+    "ingles": "knew",
+    "español": ["sabía"]
+    },
+    {
+    "ingles": "thought",
+    "español": ["pensó"]
+    },
+    {
+    "ingles": "took",
+    "español": ["tomó"]
+    },
+    {
+    "ingles": "saw",
+    "español": ["vio"]
+    },
+    {
+    "ingles": "came",
+    "español": ["vino"]
+    },
+    {
+    "ingles": "wanted",
+    "español": ["quiso"]
+    },
+    {
+    "ingles": "used",
+    "español": ["usó"]
+    },
+    {
+    "ingles": "found",
+    "español": ["encontró"]
+    },
+    {
+    "ingles": "gave",
+    "español": ["dio"]
+    },
+    {
+    "ingles": "told",
+    "español": ["dijo"]
+    },
+    {
+    "ingles": "worked",
+    "español": ["trabajó"]
+    },
+    {
+    "ingles": "called",
+    "español": ["llamó"]
+    },
+    {
+    "ingles": "tried",
+    "español": ["intentó"]
+    },
+    {
+    "ingles": "asked",
+    "español": ["preguntó"]
+    },
+    {
+    "ingles": "needed",
+    "español": ["necesitó"]
+    },
+    {
+    "ingles": "felt",
+    "español": ["sintió"]
+    },
+    {
+    "ingles": "became",
+    "español": ["se convirtió"]
+    },
+    {
+    "ingles": "left",
+    "español": ["dejó"]
+    },
+    {
+    "ingles": "kept",
+    "español": ["mantuvo"]
+    },
+    {
+        "ingles": "started",
+        "español": ["comenzó"]
+        },
+        {
+        "ingles": "showed",
+        "español": ["mostró"]
+        },
+        {
+        "ingles": "played",
+        "español": ["jugó"]
+        },
+        {
+        "ingles": "ran",
+        "español": ["corrió"]
+        },
+        {
+        "ingles": "moved",
+        "español": ["movió"]
+        },
+        {
+        "ingles": "liked",
+        "español": ["gustó"]
+        },
+        {
+        "ingles": "lived",
+        "español": ["vivió"]
+        },
+        {
+        "ingles": "believed",
+        "español": ["creía"]
+        },
+        {
+        "ingles": "held",
+        "español": ["sostuvo"]
+        },
+        {
+        "ingles": "brought",
+        "español": ["trajo"]
+        },
+        {
+        "ingles": "happened",
+        "español": ["ocurrió"]
+        },
+        {
+        "ingles": "must have*",
+        "español": ["debía de"]
+        },
+        {
+        "ingles": "should have*",
+        "español": ["debía de"]
+        },
+        {
+        "ingles": "may have*",
+        "español": ["pudo haber"]
+        },
+        {
+        "ingles": "can have*",
+        "español": ["puede tener"]
+        },
+        {
+        "ingles": "might have*",
+        "español": ["podría haber"]
+        },
+        {
+        "ingles": "could have*",
+        "español": ["podría haber"]
+        },
+        {
+        "ingles": "wrote",
+        "español": ["escribió"]
+        },
+        {
+        "ingles": "allowed",
+        "español": ["permitió"]
+        },
+        {
+        "ingles": "sat",
+        "español": ["se sentó"]
+        },
+        {
+        "ingles": "stood",
+        "español": ["se paró"]
+        },
+        {
+        "ingles": "lost",
+        "español": ["perdió"]
+        },
+        {
+        "ingles": "paid",
+        "español": ["pagó"]
+        },
+        {
+        "ingles": "met",
+        "español": ["conoció"]
+        },
+        {
+        "ingles": "included",
+        "español": ["incluyó"]
+        },
+        {
+            "ingles": "continued",
+            "español": ["continuó"]
+            },
+            {
+            "ingles": "set",
+            "español": ["estableció"]
+            },
+            {
+            "ingles": "learned",
+            "español": ["aprendió"]
+            },
+            {
+            "ingles": "changed",
+            "español": ["cambió"]
+            },
+            {
+            "ingles": "led",
+            "español": ["dirigió", "lidero"]
+            },
+            {
+            "ingles": "understood",
+            "español": ["entendió"]
+            },
+            {
+            "ingles": "watched",
+            "español": ["miró"]
+            },
+            {
+            "ingles": "followed",
+            "español": ["siguió"]
+            },
+            {
+            "ingles": "stopped",
+            "español": ["detuvo"]
+            },
+            {
+            "ingles": "created",
+            "español": ["creó"]
+            },
+            {
+            "ingles": "spoke",
+            "español": ["habló"]
+            },
+            {
+            "ingles": "talked",
+            "español": ["habló"]
+            },
+            {
+            "ingles": "read",
+            "español": ["leyó"]
+            },
+            {
+            "ingles": "added",
+            "español": ["añadió"]
+            },
+            {
+            "ingles": "spent",
+            "español": ["gastó"]
+            },
+            {
+            "ingles": "grew",
+            "español": ["creció"]
+            },
+            {
+            "ingles": "opened",
+            "español": ["abrió"]
+            },
+            {
+            "ingles": "was",
+            "español": ["era", "estaba"]
+            },
+            {
+            "ingles": "slept",
+            "español": ["durmió"]
+            },
+            {
+            "ingles": "laughed",
+            "español": ["rió"]
+            },
+            {
+            "ingles": "loved",
+            "español": ["amó"]
+            },
+            {
+            "ingles": "hated",
+            "español": ["odio"]
+            },
+            {
+            "ingles": "missed",
+            "español": ["echó de menos"]
+            },
+            {
+            "ingles": "forgot",
+            "español": ["olvidó"]
+            },
+            {
+            "ingles": "remembered",
+            "español": ["recordó"]
+            },
+            {
+            "ingles": "woke up",
+            "español": ["despertó"]
+            },
+            {
+            "ingles": "drove",
+            "español": ["condujo"]
+            },
+            {
+                "ingles": "flew",
+                "español": ["voló"]
+                },
+                {
+                "ingles": "swam",
+                "español": ["nadó"]
+                },
+                {
+                "ingles": "ate",
+                "español": ["comió"]
+                },
+                {
+                "ingles": "listened",
+                "español": ["escuchó"]
+                },
+                {
+                "ingles": "drank",
+                "español": ["bebió"]
+                },
+                {
+                "ingles": "cried",
+                "español": ["lloró"]
+                },
+                {
+                "ingles": "arrived",
+                "español": ["llegó"]
+                },
+                {
+                "ingles": "carried",
+                "español": ["llevó"]
+                },
+                {
+                "ingles": "danced",
+                "español": ["bailó"]
+                },
+                {
+                    "ingles": "drew",
+                    "español": ["dibujó"]
+                    },
+                    {
+                    "ingles": "fed",
+                    "español": ["alimentó"]
+                    },
+                    {
+                    "ingles": "hugged",
+                    "español": ["abrazó"]
+                    },
+                    {
+                    "ingles": "jumped",
+                    "español": ["saltó"]
+                    },
+                    {
+                    "ingles": "kicked",
+                    "español": ["pateó"]
+                    },
+                    {
+                    "ingles": "painted",
+                    "español": ["pintó"]
+                    },
+                    {
+                    "ingles": "planted",
+                    "español": ["plantó"]
+                    },
+                    {
+                    "ingles": "rode",
+                    "español": ["montó"]
+                    },
+                    {
+                    "ingles": "sang",
+                    "español": ["cantó"]
+                    },
+                    {
+                    "ingles": "threw",
+                    "español": ["lanzó"]
+                    },
+                    {
+                    "ingles": "climbed",
+                    "español": ["trepar"]
+                    },
+                    {
+                    "ingles": "dreamed",
+                    "español": ["soñó"]
+                    },
+                    {
+                    "ingles": "built",
+                    "español": ["construyó"]
+                    },
+                    {
+    "ingles": "caught",
+    "español": ["atrapó"]
+    },
+    {
+    "ingles": "cooked",
+    "español": ["cocinó"]
+    },
+    {
+    "ingles": "taught",
+    "español": ["enseñó"]
+    },
+    {
+    "ingles": "apologized",
+    "español": ["se disculpó"]
+    },
+    {
+    "ingles": "bought",
+    "español": ["compró"]
+    },
+    {
+    "ingles": "decided",
+    "español": ["decidió"]
+    },
+    {
+    "ingles": "delivered",
+    "español": ["entregó"]
+    },
+    {
+    "ingles": "developed",
+    "español": ["desarrolló"]
+    },
+    {
+    "ingles": "entered",
+    "español": ["entró"]
+    },
+    {
+    "ingles": "existed",
+    "español": ["existió"]
+    },
+    {
+    "ingles": "forgave",
+    "español": ["perdonó"]
+    },
+    {
+    "ingles": "fried",
+    "español": ["fritó"]
+    },
+    {
+    "ingles": "greeted",
+    "español": ["saludó"]
+    },
+    {
+    "ingles": "helped",
+    "español": ["ayudó"]
+    },
+    {
+    "ingles": "injured",
+    "español": ["herió"]
+    },
+    {
+    "ingles": "kissed",
+    "español": ["besó"]
+    },
+    {
+    "ingles": "married",
+    "español": ["se casó"]
+    },
+    {
+    "ingles": "repaired",
+    "español": ["repañó"]
+    },
+    {
+    "ingles": "saved",
+    "español": ["guardó"]
+    },
+    {
+    "ingles": "sold",
+    "español": ["vendió"]
+    },
+    {
+    "ingles": "pulled",
+    "español": ["jaló"]
+    },
+    {
+    "ingles": "pushed",
+    "español": ["empujó"]
+    },
+    {
+    "ingles": "turned",
+    "español": ["giró"]
+    },
+    {
+    "ingles": "washed",
+    "español": ["lavó"]
+    },
+    {
+    "ingles": "wiped",
+    "español": ["limpió"]
+    },
+    {
+    "ingles": "searched",
+    "español": ["buscó"]
+    },
+                        {
+    "ingles": "sought",
+    "español": ["buscó"]
+    },
+    {
+    "ingles": "selected",
+    "español": ["seleccionó"]
+    },
+    {
+    "ingles": "shared",
+    "español": ["compartió"]
+    },
+    {
+    "ingles": "shouted",
+    "español": ["gritó"]
+    },
+    {
+    "ingles": "sighed",
+    "español": ["suspiró"]
+    },
+    {
+    "ingles": "smiled",
+    "español": ["sonrió"]
+    },
+    {
+    "ingles": "stayed",
+    "español": ["quedó"]
+    },
+    {
+    "ingles": "struck",
+    "español": ["golpeó"]
+    },
+    {
+    "ingles": "succeeded",
+    "español": ["tuvo éxito"]
+    },
+    {
+    "ingles": "swallowed",
+    "español": ["tragó"]
+    },
+    {
+    "ingles": "traveled",
+    "español": ["viajó"]
+    },
+    {
+    "ingles": "visited",
+    "español": ["visitó"]
+    },
+    {
+    "ingles": "waited",
+    "español": ["esperó"]
+    },
+    {
+    "ingles": "walked",
+    "español": ["caminó"]
+    },
+    {
+    "ingles": "won",
+    "español": ["ganó"]
+    }
+]

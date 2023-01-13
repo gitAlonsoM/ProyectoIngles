@@ -1,0 +1,548 @@
+[
+    {
+    "ingles": "having",
+    "español": ["teniendo"]
+    },
+    {
+    "ingles": "doing",
+    "español": ["haciendo"]
+    },
+    {
+    "ingles": "saying",
+    "español": ["diciendo (lo que alguien ha dicho)"]
+    },
+    {
+    "ingles": "getting",
+    "español": ["obteniendo"]
+    },
+    {
+    "ingles": "making",
+    "español": ["haciendo", "preparando"]
+    },
+    {
+    "ingles": "going",
+    "español": ["yendo"]
+    },
+    {
+    "ingles": "knowing",
+    "español": ["sabiendo"]
+    },
+    {
+    "ingles": "thinking",
+    "español": ["pensando"]
+    },
+    {
+    "ingles": "taking",
+    "español": ["tomando"]
+    },
+    {
+    "ingles": "watching",
+    "español": ["viendo"]
+    },
+    {
+    "ingles": "seeing",
+    "español": ["viendo"]
+    },
+    {
+    "ingles": "looking",
+    "español": ["mirando"]
+    },
+    {
+    "ingles": "coming",
+    "español": ["viniendo"]
+    },
+    {
+    "ingles": "wanting",
+    "español": ["queriendo"]
+    },
+    {
+    "ingles": "using",
+    "español": ["usando"]
+    },
+    {
+    "ingles": "finding",
+    "español": ["encontrando"]
+    },
+    {
+    "ingles": "giving",
+    "español": ["dando"]
+    },
+    {
+    "ingles": "telling",
+    "español": ["diciendo (algo a alguien)"]
+    },
+    {
+    "ingles": "working",
+    "español": ["trabajando"]
+    },
+    {
+    "ingles": "calling",
+    "español": ["llamando"]
+    },
+    {
+    "ingles": "trying",
+    "español": ["intentando"]
+    },
+    {
+    "ingles": "asking",
+    "español": ["pidiendo"]
+    },
+    {
+    "ingles": "needing",
+    "español": ["necesitando"]
+    },
+    {
+    "ingles": "feeling",
+    "español": ["sintiendo"]
+    },
+    {
+    "ingles": "becoming",
+    "español": ["convirtiéndose"]
+    },
+    {
+        "ingles": "leaving",
+        "español": ["dejando"]
+        },
+        {
+        "ingles": "letting",
+        "español": ["permitiendo", "dejando"]
+        },
+
+        {
+        "ingles": "keeping",
+        "español": ["guardando"]
+        },
+        {
+        "ingles": "saving",
+        "español": ["ahorrando"]
+        },
+        {
+        "ingles": "starting",
+        "español": ["comenzando"]
+        },
+        {
+        "ingles": "showing",
+        "español": ["mostrando"]
+        },
+        {
+        "ingles": "playing",
+        "español": ["jugando"]
+        },
+        {
+        "ingles": "running",
+        "español": ["corriendo"]
+        },
+        {
+        "ingles": "moving",
+        "español": ["moviendo"]
+        },
+        {
+        "ingles": "liking",
+        "español": ["gustando"]
+        },
+        {
+        "ingles": "living",
+        "español": ["viviendo"]
+        },
+        {
+        "ingles": "believing",
+        "español": ["creyendo"]
+        },
+        {
+        "ingles": "holding",
+        "español": ["sosteniendo"]
+        },
+        {
+        "ingles": "bringing",
+        "español": ["traendo"]
+        },
+        {
+        "ingles": "happening",
+        "español": ["sucediendo"]
+        },
+        {
+        "ingles": "writing",
+        "español": ["escribiendo"]
+        },
+        {
+        "ingles": "allowing",
+        "español": ["permitiendo"]
+        },
+        {
+        "ingles": "sitting",
+        "español": ["sentando"]
+        },
+        {
+        "ingles": "standing",
+        "español": ["estando de pie"]
+        },
+        {
+        "ingles": "losing",
+        "español": ["perdiendo"]
+        },
+        {
+        "ingles": "paying",
+        "español": ["pagando"]
+        },
+        {
+        "ingles": "meeting",
+        "español": ["reuniendo"]
+        },
+        {
+        "ingles": "including",
+        "español": ["incluyendo"]
+        },
+        {
+        "ingles": "continuing",
+        "español": ["continuando"]
+        },
+        {
+        "ingles": "setting",
+        "español": ["ajustando"]
+        },
+        {
+        "ingles": "learning",
+        "español": ["aprendiendo"]
+        },
+        {
+        "ingles": "changing",
+        "español": ["cambiando"]
+        },
+        {
+            "ingles": "creating",
+            "español": ["creando"]
+            },
+            {
+            "ingles": "speaking",
+            "español": ["hablando"]
+            },
+            {
+            "ingles": "talking",
+            "español": ["hablando"]
+            },
+            
+            {
+            "ingles": "reading",
+            "español": ["leyendo"]
+            },
+            {
+            "ingles": "adding",
+            "español": ["añadiendo"]
+            },
+            {
+            "ingles": "spending",
+            "español": ["gastando"]
+            },
+            {
+            "ingles": "growing",
+            "español": ["creciendo"]
+            },
+            {
+            "ingles": "opening",
+            "español": ["abriendo"]
+            },
+            {
+            "ingles": "being",
+            "español": ["siendo"]
+            },
+            {
+            "ingles": "sleeping",
+            "español": ["durmiendo"]
+            },
+            {
+            "ingles": "laughing",
+            "español": ["riendo"]
+            },
+            {
+            "ingles": "loving",
+            "español": ["amando"]
+            },
+            {
+            "ingles": "hating",
+            "español": ["odiando"]
+            },
+            {
+            "ingles": "missing",
+            "español": ["extrañando "]
+            },
+            {
+            "ingles": "remembering",
+            "español": ["recordando"]
+            },
+            {
+    "ingles": "eating",
+    "español": ["comiendo"]
+    },
+    {
+    "ingles": "listening",
+    "español": ["escuchando"]
+    },
+    {
+    "ingles": "drinking",
+    "español": ["bebiendo"]
+    },
+    {
+    "ingles": "crying",
+    "español": ["llorando"]
+    },
+    {
+    "ingles": "arriving",
+    "español": ["llegando"]
+    },
+    {
+    "ingles": "carrying",
+    "español": ["llevando"]
+    },
+    {
+    "ingles": "dancing",
+    "español": ["bailando"]
+    },
+    {
+    "ingles": "drawing",
+    "español": ["dibujando"]
+    },
+    {
+    "ingles": "feeding",
+    "español": ["alimentando"]
+    },
+    {
+    "ingles": "hugging",
+    "español": ["abrazando"]
+    },
+    {
+    "ingles": "jumping",
+    "español": ["saltando"]
+    },
+    {
+    "ingles": "kicking",
+    "español": ["pateando"]
+    },
+    {
+    "ingles": "painting",
+    "español": ["pintando"]
+    },
+    {
+    "ingles": "planting",
+    "español": ["plantando"]
+    },
+    {
+    "ingles": "riding",
+    "español": ["montando (vehículo o animal)"]
+    },
+    {
+    "ingles": "singing",
+    "español": ["cantando"]
+    },
+    {
+    "ingles": "throwing",
+    "español": ["lanzando"]
+    },
+    {
+    "ingles": "climbing",
+    "español": ["escalando"]
+    },
+    {
+    "ingles": "dreaming",
+    "español": ["soñando"]
+    },
+    {
+    "ingles": "building",
+    "español": ["construyendo"]
+    },
+    {
+    "ingles": "catching",
+    "español": ["cogiendo"]
+    },
+    {
+    "ingles": "cooking",
+    "español": ["cocinando"]
+    },
+    {
+    "ingles": "teaching",
+    "español": ["enseñando"]
+    },
+    {
+    "ingles": "apologizing",
+    "español": ["disculpando"]
+    },
+    {
+    "ingles": "buying",
+    "español": ["comprando"]
+    },
+    {
+    "ingles": "deciding",
+    "español": ["decidiendo"]
+    },
+    {
+    "ingles": "delivering",
+    "español": ["entregando"]
+    },
+    {
+    "ingles": "developing",
+    "español": ["desarrollando"]
+    },
+    {
+    "ingles": "entering",
+    "español": ["entrando"]
+    },
+    {
+    "ingles": "existing",
+    "español": ["existente"]
+    },
+    {
+    "ingles": "forgiving",
+    "español": ["perdonando"]
+    },
+    {
+    "ingles": "forgetting",
+    "español": ["olvidando"]
+    },
+    {
+    "ingles": "frying",
+    "español": ["friendo"]
+    },
+    {
+    "ingles": "greeting",
+    "español": ["saludando"]
+    },
+    {
+    "ingles": "helping",
+    "español": ["ayudando"]
+    },
+    {
+    "ingles": "injuring",
+    "español": ["heriendo"]
+    },
+    {
+    "ingles": "kissing",
+    "español": ["besando"]
+    },
+    {
+    "ingles": "marrying",
+    "español": ["casando"]
+    },
+    {
+    "ingles": "repairing",
+    "español": ["reparando"]
+    },
+    {
+    "ingles": "selling",
+    "español": ["vendiendo"]
+    },
+    {
+    "ingles": "pulling",
+    "español": ["tirando (hacia uno mismo)"]
+    },
+    {
+    "ingles": "pushing",
+    "español": ["empujando"]
+    },
+    {
+    "ingles": "leading",
+    "español": ["liderando"]
+    },
+    {
+    "ingles": "understanding",
+    "español": ["entendiendo"]
+    },
+    {
+    "ingles": "following",
+    "español": ["siguiendo"]
+    },
+    {
+    "ingles": "stopping",
+    "español": ["parando"]
+    },
+    {
+    "ingles": "flying",
+    "español": ["despertando"]
+    },
+    {
+    "ingles": "driving",
+    "español": ["conduciendo"]
+    },
+    {
+    "ingles": "flying",
+    "español": ["volando"]
+    },
+    {
+    "ingles": "swimming",
+    "español": ["nadando"]
+    },
+    {
+    "ingles": "turning",
+    "español": ["girando"]
+    },
+    {
+    "ingles": "washing",
+    "español": ["lavando"]
+    },
+    {
+    "ingles": "wiping",
+    "español": ["limpiando"]
+    },
+    {
+    "ingles": "searching",
+    "español": ["buscando"]
+    },
+    {
+    "ingles": "seeking",
+    "español": ["buscando"]
+    },
+    {
+    "ingles": "selecting",
+    "español": ["seleccionando"]
+    },
+    {
+    "ingles": "sharing",
+    "español": ["compartiendo"]
+    },
+    {
+    "ingles": "shouting",
+    "español": ["gritando"]
+    },
+    {
+    "ingles": "sighing",
+    "español": ["suspirando"]
+    },
+    {
+    "ingles": "smiling",
+    "español": ["sonriendo"]
+    },
+    {
+    "ingles": "staying",
+    "español": ["quedándose"]
+    },
+    {
+    "ingles": "striking",
+    "español": ["golpeando"]
+    },
+    {
+    "ingles": "succeeding",
+    "español": ["teniendo éxito"]
+    },
+    {
+    "ingles": "swallowing",
+    "español": ["tragando"]
+    },
+    {
+    "ingles": "traveling",
+    "español": ["viajando"]
+    },
+    {
+    "ingles": "visiting",
+    "español": ["visitando"]
+    },
+    {
+    "ingles": "waiting",
+    "español": ["esperando"]
+    },
+    {
+    "ingles": "walking",
+    "español": ["caminando"]
+    },
+    {
+    "ingles": "winning",
+    "español": ["ganando"]
+    }
+    ]

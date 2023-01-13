@@ -1,0 +1,566 @@
+[
+    {
+    "ingles": "beautiful",
+    "español": ["hermoso", "hermosa"]
+    },
+    {
+    "ingles": "ugly",
+    "español": ["feo", "fea"]
+    },
+    {
+    "ingles": "handsome",
+    "español": ["guapo", "bonito"]
+    },
+    {
+    "ingles": "pretty",
+    "español": ["lindo", "linda"]
+    },
+    {
+    "ingles": "dirty",
+    "español": ["sucio"]
+    },
+    {
+    "ingles": "clean",
+    "español": ["limpio"]
+    },
+    {
+    "ingles": "new",
+    "español": ["nuevo", "nueva"]
+    },
+    {
+    "ingles": "old",
+    "español": ["viejo", "vieja"]
+    },
+    {
+    "ingles": "young",
+    "español": ["joven"]
+    },
+    {
+    "ingles": "hot",
+    "español": ["caliente"]
+    },
+    {
+    "ingles": "cold",
+    "español": ["frío"]
+    },
+    {
+    "ingles": "wet",
+    "español": ["mojado"]
+    },
+    {
+    "ingles": "dry",
+    "español": ["seco"]
+    },
+    {
+    "ingles": "calm",
+    "español": ["calmo"]
+    },
+    {
+    "ingles": "noisy",
+    "español": ["ruidoso"]
+    },
+    {
+    "ingles": "loud",
+    "español": ["ruidoso (volumen alto)"]
+    },
+    {
+    "ingles": "quiet",
+    "español": ["tranquilo"]
+    },
+    {
+    "ingles": "unhappy",
+    "español": ["infeliz"]
+    },
+    {
+    "ingles": "strong",
+    "español": ["fuerte"]
+    },
+    {
+        "ingles": "big",
+        "español": ["grande"]
+        },
+        {
+        "ingles": "small",
+        "español": ["pequeño"]
+        },
+        {
+        "ingles": "little",
+        "español": ["pequeño"]
+        },
+        {
+        "ingles": "tall",
+        "español": ["alto"]
+        },
+        {
+        "ingles": "short",
+        "español": ["bajo", "corto"]
+        },
+        {
+        "ingles": "long",
+        "español": ["largo"]
+        },
+        {
+        "ingles": "wide",
+        "español": ["ancho", "de gran extensión"]
+        },
+        {
+        "ingles": "deep",
+        "español": ["profundo"]
+        },
+        
+        {
+        "ingles": "narrow",
+        "español": ["estrecho"]
+        },
+        {
+        "ingles": "thick",
+        "español": ["grueso"]
+        },
+        {
+        "ingles": "thin",
+        "español": ["delgado"]
+        },
+        {
+        "ingles": "heavy",
+        "español": ["pesado"]
+        },
+        {
+        "ingles": "light",
+        "español": ["ligero"]
+        },
+        {
+        "ingles": "large",
+        "español": ["grande"]
+        },
+        {
+        "ingles": "quick",
+        "español": ["rápido"]
+        },
+        {
+        "ingles": "fast",
+        "español": ["rápido"]
+        },
+        {
+        "ingles": "slow",
+        "español": ["lento"]
+        },
+        {
+        "ingles": "easy",
+        "español": ["fácil"]
+        },
+        {
+        "ingles": "hard",
+        "español": ["difícil, duro"]
+        },
+        {
+        "ingles": "happy",
+        "español": ["feliz"]
+        },
+        {
+        "ingles": "sad",
+        "español": ["triste"]
+        },
+        {
+        "ingles": "angry",
+        "español": ["enfadado"]
+        },
+       
+
+        {
+        "ingles": "afraid",
+        "español": ["asustado"]
+        },
+        {
+        "ingles": "scared",
+        "español": ["asustado"]
+        },
+
+        {
+        "ingles": "surprised",
+        "español": ["sorprendido"]
+        },
+        {
+        "ingles": "interested",
+        "español": ["interesado"]
+        },
+        {
+            "ingles": "bored",
+            "español": ["aburrido"]
+            },
+            {
+            "ingles": "tired",
+            "español": ["cansado"]
+            },
+            {
+            "ingles": "awake",
+            "español": ["despierto"]
+            },
+            {
+            "ingles": "hungry",
+            "español": ["hambriento"]
+            },
+            {
+            "ingles": "thirsty",
+            "español": ["sediento"]
+            },
+            {
+            "ingles": "full",
+            "español": ["lleno"]
+            },
+            {
+            "ingles": "busy",
+            "español": ["ocupado"]
+            },
+            {
+            "ingles": "free",
+            "español": ["libre"]
+            },
+            {
+            "ingles": "ready",
+            "español": ["listo"]
+            },
+            {
+            "ingles": "excited",
+            "español": ["emocionado"]
+            },
+            {
+            "ingles": "curious",
+            "español": ["curioso"]
+            },
+            {
+            "ingles": "disappointed",
+            "español": ["desilusionado"]
+            },
+            {
+            "ingles": "pleased",
+            "español": ["contento (formal)"]
+            },
+            {
+            "ingles": "glad",
+            "español": ["contento (inforal)"]
+            },
+            {
+            "ingles": "fortunate",
+            "español": ["afortunado"]
+            },
+            {
+            "ingles": "unfortunate",
+            "español": ["desafortunado"]
+            },
+            {
+            "ingles": "popular",
+            "español": ["popular"]
+            },
+            {
+            "ingles": "unpopular",
+            "español": ["impopular"]
+            },
+           
+            {
+                "ingles": "generous",
+                "español": ["generoso"]
+                },
+                {
+                "ingles": "stingy",
+                "español": ["avaro"]
+                },
+
+                {
+                "ingles": "wrong",
+                "español": ["incorrecto"]
+                },
+                {
+                "ingles": "right",
+                "español": ["correcto", "derecho"]
+                },
+
+                {
+                "ingles": "bright",
+                "español": ["brillo", "luz"]
+                },
+                {
+                "ingles": "dark",
+                "español": ["oscuro"]
+                },
+                {
+                "ingles": "elegant",
+                "español": ["elegante"]
+                },
+                {
+                "ingles": "sloppy",
+                "español": ["descuidado"]
+                },
+                {
+                "ingles": "fresh",
+                "español": ["fresco"]
+                },
+                {
+                "ingles": "rotten",
+                "español": ["podrido"]
+                },
+                {
+                "ingles": "soft",
+                "español": ["suave"]
+                },
+            
+                {
+                "ingles": "smooth",
+                "español": ["liso"]
+                },
+                {
+                "ingles": "rough",
+                "español": ["áspero"]
+                },
+                {
+                "ingles": "stiff",
+                "español": ["rígido"]
+                },
+                {
+                "ingles": "flexible",
+                "español": ["flexible"]
+                },
+                {
+                "ingles": "elastic",
+                "español": ["elástico"]
+                },
+                {
+                "ingles": "fragile",
+                "español": ["frágil"]
+                },
+                {
+                "ingles": "durable",
+                "español": ["duradero"]
+                },
+                {
+                "ingles": "warm",
+                "español": ["cálido"]
+                },
+                {
+                "ingles": "cool",
+                "español": ["fresco"]
+                },
+            
+                {
+                "ingles": "melodic",
+                "español": ["melódico"]
+                },
+                {
+                "ingles": "monotonous",
+                "español": ["monótono"]
+                },
+                {
+                "ingles": "rapid",
+                "español": ["rápido"]
+                },
+                {
+                "ingles": "slow",
+                "español": ["lento"]
+                },
+                {
+                    "ingles": "precise",
+                    "español": ["preciso"]
+                    },
+                    {
+                    "ingles": "inaccurate",
+                    "español": ["impreciso"]
+                    },
+
+
+                    {
+                    "ingles": "intelligent",
+                    "español": ["inteligente"]
+                    },
+                    {
+                    "ingles": "clever",
+                    "español": ["astuto", "creativo"]
+                    },
+                    {
+                    "ingles": "smart",
+                    "español": ["práctico", "inteligente"]
+                    },
+
+
+                    {
+                    "ingles": "stupid",
+                    "español": ["estúpido"]
+                    },
+                    {
+                    "ingles": "brave",
+                    "español": ["valiente"]
+                    },
+                    {
+                    "ingles": "cowardly",
+                    "español": ["cobarde"]
+                    },
+                    {
+                    "ingles": "bold",
+                    "español": ["valiente", "negrita"]
+                    },
+                    {
+                    "ingles": "timid",
+                    "español": ["tímido"]
+                    },
+                    {
+                    "ingles": "humble",
+                    "español": ["humilde"]
+                    },
+                    {
+                    "ingles": "proud",
+                    "español": ["orgulloso"]
+                    },
+                    {
+                    "ingles": "patient",
+                    "español": ["paciente"]
+                    },
+
+
+
+                    {
+                    "ingles": "impatient",
+                    "español": ["impaciente"]
+                    },
+                    {
+                    "ingles": "persistent",
+                    "español": ["persistente"]
+                    },
+                    {
+                    "ingles": "lazy",
+                    "español": ["perezoso"]
+                    },
+                    {
+                    "ingles": "loyal",
+                    "español": ["leal"]
+                    },
+                    {
+                    "ingles": "unfaithful",
+                    "español": ["infiel"]
+                    },
+                    {
+                    "ingles": "trustworthy",
+                    "español": ["de confianza"]
+                    },
+                    {
+                        "ingles": "untrustworthy",
+                        "español": ["poco confiable"]
+                        },
+                        {
+                        "ingles": "polite",
+                        "español": ["educado"]
+                        },
+                        {
+                        "ingles": "rude",
+                        "español": ["rudo"]
+                        },
+                        {
+                        "ingles": "respectful",
+                        "español": ["respetuoso"]
+                        },
+                        {
+                        "ingles": "disrespectful",
+                        "español": ["irrespetuoso"]
+                        },
+                        {
+                        "ingles": "poor",
+                        "español": ["pobre"]
+                        },
+                        {
+                        "ingles": "rich",
+                        "español": ["rico"]
+                        },      
+                        {
+                        "ingles": "neat",
+                        "español": ["ordenado"]
+                        },
+                        {
+                        "ingles": "messy",
+                        "español": ["desordenado"]
+                        },
+                        {
+                        "ingles": "organized",
+                        "español": ["organizado"]
+                        },
+                        {
+                        "ingles": "sensitive",
+                        "español": ["sensible"]
+                        },
+                        {
+                        "ingles": "insensitive",
+                        "español": ["insensible"]
+                        },
+                        {
+                        "ingles": "genuine",
+                        "español": ["auténtico"]
+                        },
+                        {
+                        "ingles": "fake",
+                        "español": ["falso"]
+                        },
+                        {
+                        "ingles": "original",
+                        "español": ["original"]
+                        },
+                        {
+                        "ingles": "copied",
+                        "español": ["copiado"]
+                        },
+                        {
+                            "ingles": "helpful",
+                            "español": ["útil"]
+                            },
+                            {
+                            "ingles": "harmful",
+                            "español": ["dañino"]
+                            },
+                            {
+                            "ingles": "faithful",
+                            "español": ["fiel"]
+                            },
+                            {
+                            "ingles": "unreliable",
+                            "español": ["poco fiable"]
+                            },
+                            {
+                            "ingles": "energetic",
+                            "español": ["energético"]
+                            },
+                            {
+                            "ingles": "lethargic",
+                            "español": ["letárgico"]
+                            },
+                            {
+                            "ingles": "curious",
+                            "español": ["curioso"]
+                            },
+                            {
+                            "ingles": "uninterested",
+                            "español": ["indiferente"]
+                            },
+                            {
+                            "ingles": "resourceful",
+                            "español": ["ingenioso"]
+                            },
+                            {
+                            "ingles": "dependent",
+                            "español": ["dependiente"]
+                            },
+                            {
+                            "ingles": "independent",
+                            "español": ["independiente"]
+                            },
+                            {
+                            "ingles": "forgiving",
+                            "español": ["perdonador"]
+                            },
+                            {
+                            "ingles": "unforgiving",
+                            "español": ["implacable"]
+                            },
+                            {
+                            "ingles": "thoughtful",
+                            "español": ["pensativo"]
+                            }
+]
+
+
+            
+    

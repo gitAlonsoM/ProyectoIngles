@@ -1,0 +1,542 @@
+[
+    {
+    "ingles": "had",
+    "español": ["había", "tenía"]
+    },
+    {
+    "ingles": "done",
+    "español": ["hecho"]
+    },
+    {
+    "ingles": "said",
+    "español": ["dicho"]
+    },
+    {
+    "ingles": "gotten",
+    "español": ["conseguido"]
+    },
+    {
+    "ingles": "made",
+    "español": ["hecho"]
+    },
+    {
+    "ingles": "gone",
+    "español": ["ido"]
+    },
+    {
+    "ingles": "known",
+    "español": ["conocido"]
+    },
+    {
+    "ingles": "been",
+    "español": ["sido"]
+    },
+    {
+    "ingles": "become",
+    "español": ["convertido", "llegado a ser"]
+    },
+    {
+    "ingles": "thought",
+    "español": ["pensado"]
+    },
+    {
+    "ingles": "taken",
+    "español": ["tomado"]
+    },
+    {
+    "ingles": "seen",
+    "español": ["visto"]
+    },
+    {
+    "ingles": "come",
+    "español": ["venido"]
+    },
+    {
+    "ingles": "wanted",
+    "español": ["querido"]
+    },
+    {
+    "ingles": "used",
+    "español": ["utilizado"]
+    },
+    {
+    "ingles": "found",
+    "español": ["encontrado"]
+    },
+    {
+    "ingles": "given",
+    "español": ["dado"]
+    },
+    {
+    "ingles": "told",
+    "español": ["contado"]
+    },
+    {
+    "ingles": "worked",
+    "español": ["trabajado"]
+    },
+    {
+    "ingles": "called",
+    "español": ["llamado"]
+    },
+    {
+    "ingles": "tried",
+    "español": ["intentado"]
+    },
+    {
+    "ingles": "asked",
+    "español": ["preguntado"]
+    },
+    {
+    "ingles": "needed",
+    "español": ["necesitado"]
+    },
+    {
+    "ingles": "felt",
+    "español": ["sentido"]
+    },
+    {
+    "ingles": "left",
+    "español": ["dejado"]
+    },
+    {
+    "ingles": "kept",
+    "español": ["mantenido"]
+    },
+    {
+        "ingles": "started",
+        "español": ["empezado"]
+        },
+        {
+        "ingles": "shown",
+        "español": ["mostrado"]
+        },
+        {
+        "ingles": "played",
+        "español": ["jugado"]
+        },
+        {
+        "ingles": "run",
+        "español": ["corrido"]
+        },
+        {
+        "ingles": "moved",
+        "español": ["movido"]
+        },
+        {
+        "ingles": "liked",
+        "español": ["gustado"]
+        },
+        {
+        "ingles": "lived",
+        "español": ["vivido"]
+        },
+        {
+        "ingles": "believed",
+        "español": ["creído"]
+        },
+        {
+        "ingles": "held",
+        "español": ["sostenido"]
+        },
+        {
+        "ingles": "brought",
+        "español": ["traído"]
+        },
+        {
+        "ingles": "happened",
+        "español": ["sucedido"]
+        },
+        {
+        "ingles": "written",
+        "español": ["escrito"]
+        },
+        {
+        "ingles": "allowed",
+        "español": ["permitido"]
+        },
+        {
+        "ingles": "sat",
+        "español": ["sentado"]
+        },
+        {
+        "ingles": "stood",
+        "español": ["parado"]
+        },
+        {
+        "ingles": "lost",
+        "español": ["perdido"]
+        },
+        {
+        "ingles": "paid",
+        "español": ["pagado"]
+        },
+        {
+        "ingles": "met",
+        "español": ["encontrado"]
+        },
+        {
+        "ingles": "included",
+        "español": ["incluido"]
+        },
+        {
+        "ingles": "continued",
+        "español": ["continuado"]
+        },
+        {
+            "ingles": "set",
+            "español": ["puesto"]
+            },
+            {
+            "ingles": "learned",
+            "español": ["aprendido"]
+            },
+            {
+            "ingles": "changed",
+            "español": ["cambiado"]
+            },
+            {
+            "ingles": "led",
+            "español": ["dirigido"]
+            },
+            {
+            "ingles": "understood",
+            "español": ["entendido"]
+            },
+            {
+            "ingles": "watched",
+            "español": ["mirado"]
+            },
+            {
+            "ingles": "followed",
+            "español": ["seguido"]
+            },
+            {
+            "ingles": "stopped",
+            "español": ["parado"]
+            },
+            {
+            "ingles": "created",
+            "español": ["creado"]
+            },
+            {
+            "ingles": "spoken",
+            "español": ["hablado"]
+            },
+            {
+            "ingles": "read",
+            "español": ["leído"]
+            },
+            {
+            "ingles": "added",
+            "español": ["añadido"]
+            },
+            {
+            "ingles": "spent",
+            "español": ["gastado"]
+            },
+            {
+            "ingles": "grown",
+            "español": ["crecido"]
+            },
+            {
+            "ingles": "opened",
+            "español": ["abierto"]
+            },
+            {
+            "ingles": "been",
+            "español": ["sido"]
+            },
+            {
+            "ingles": "slept",
+            "español": ["dormido"]
+            },
+            {
+            "ingles": "laughed",
+            "español": ["reído"]
+            },
+            {
+            "ingles": "loved",
+            "español": ["amado"]
+            },
+            {
+            "ingles": "hated",
+            "español": ["odiado"]
+            },
+            {
+            "ingles": "missed",
+            "español": ["echado de menos"]
+            },
+            {
+            "ingles": "forgotten",
+            "español": ["olvidado"]
+            },
+            {
+            "ingles": "remembered",
+            "español": ["recordado"]
+            },
+            {
+            "ingles": "woken up",
+            "español": ["despertado"]
+            },
+            {
+            "ingles": "driven",
+            "español": ["conducido"]
+            },
+            {
+            "ingles": "flown",
+            "español": ["vuelto"]
+            },
+            {
+            "ingles": "swum",
+            "español": ["nadado"]
+            },
+            {
+                "ingles": "eaten",
+                "español": ["comido"]
+                },
+                {
+                "ingles": "listened",
+                "español": ["escuchado"]
+                },
+                {
+                "ingles": "drunk",
+                "español": ["bebido"]
+                },
+                {
+                "ingles": "cried",
+                "español": ["llorado"]
+                },
+                {
+                "ingles": "arrived",
+                "español": ["llegado"]
+                },
+                {
+                "ingles": "carried",
+                "español": ["llevado"]
+                },
+                {
+                "ingles": "danced",
+                "español": ["bailado"]
+                },
+                {
+                "ingles": "drawn",
+                "español": ["dibujado"]
+                },
+                {
+                "ingles": "fed",
+                "español": ["alimentado"]
+                },
+                {
+                "ingles": "hugged",
+                "español": ["abrazado"]
+                },
+                {
+                "ingles": "jumped",
+                "español": ["saltado"]
+                },
+                {
+                    "ingles": "kicked",
+                    "español": ["pateado"]
+                    },
+                    {
+                    "ingles": "painted",
+                    "español": ["pintado"]
+                    },
+                    {
+                    "ingles": "planted",
+                    "español": ["plantado"]
+                    },
+                    {
+                    "ingles": "ridden",
+                    "español": ["montado"]
+                    },
+                    {
+                    "ingles": "sung",
+                    "español": ["cantado"]
+                    },
+                    {
+                    "ingles": "thrown",
+                    "español": ["lanzado"]
+                    },
+                    {
+                    "ingles": "climbed",
+                    "español": ["escalado"]
+                    },
+                    {
+                    "ingles": "dreamed",
+                    "español": ["soñado"]
+                    },
+                    {
+                    "ingles": "built",
+                    "español": ["construido"]
+                    },
+                    {
+                    "ingles": "caught",
+                    "español": ["atrapado"]
+                    },
+                    {
+                    "ingles": "cooked",
+                    "español": ["cocinado"]
+                    },
+                    {
+                    "ingles": "taught",
+                    "español": ["enseñado"]
+                    },
+                    {
+                        "ingles": "apologized",
+                        "español": ["disculpado"]
+                        },
+                        {
+                        "ingles": "bought",
+                        "español": ["comprado"]
+                        },
+                        {
+                        "ingles": "decided",
+                        "español": ["decidido"]
+                        },
+                        {
+                        "ingles": "delivered",
+                        "español": ["entregado"]
+                        },
+                        {
+                        "ingles": "developed",
+                        "español": ["desarrollado"]
+                        },
+                        {
+                        "ingles": "entered",
+                        "español": ["entrado"]
+                        },
+                        {
+                        "ingles": "existed",
+                        "español": ["existido"]
+                        },
+                        {
+                        "ingles": "forgiven",
+                        "español": ["perdonado"]
+                        },
+                        {
+                        "ingles": "fried",
+                        "español": ["frito"]
+                        },
+                        {
+                        "ingles": "greeted",
+                        "español": ["saludado"]
+                        },
+                        {
+                        "ingles": "helped",
+                        "español": ["ayudado"]
+                        },
+                        {
+                        "ingles": "injured",
+                        "español": ["herido"]
+                        },
+                        {
+                        "ingles": "kissed",
+                        "español": ["besado"]
+                        },
+                        {
+                        "ingles": "married",
+                        "español": ["casado"]
+                        },
+                        {
+                        "ingles": "repaired",
+                        "español": ["reparado"]
+                        },
+                        {
+                        "ingles": "saved",
+                        "español": ["guardado"]
+                        },
+                        {
+                        "ingles": "sold",
+                        "español": ["vendido"]
+                        },
+                        {
+                        "ingles": "pulled",
+                        "español": ["tirado"]
+                        },
+                        {
+                        "ingles": "pushed",
+                        "español": ["empujado"]
+                        },
+                        {
+                        "ingles": "turned",
+                        "español": ["girado"]
+                        },
+                        {
+                        "ingles": "washed",
+                        "español": ["lavado"]
+                        },
+                        {
+                        "ingles": "wiped",
+                        "español": ["limpiado"]
+                        },
+                        {
+                        "ingles": "searched",
+                        "español": ["buscado"]
+                        },
+                        {
+                        "ingles": "sought",
+                        "español": ["buscado"]
+                        },
+                        {
+                        "ingles": "selected",
+                        "español": ["seleccionado"]
+                        },
+                        {
+                        "ingles": "shared",
+                        "español": ["compartido"]
+                        },
+                        {
+                            "ingles": "shouted",
+                            "español": ["gritado"]
+                            },
+                            {
+                            "ingles": "sighed",
+                            "español": ["suspirado"]
+                            },
+                            {
+                            "ingles": "smiled",
+                            "español": ["sonreído"]
+                            },
+                            {
+                            "ingles": "snapped",
+                            "español": ["chasqueado"]
+                            },
+                            {
+                            "ingles": "stayed",
+                            "español": ["quedado"]
+                            },
+                            {
+                            "ingles": "struck",
+                            "español": ["golpeado"]
+                            },
+                            {
+                            "ingles": "succeeded",
+                            "español": ["triunfado"]
+                            },
+                            {
+                            "ingles": "swallowed",
+                            "español": ["tragado"]
+                            },
+                            {
+                            "ingles": "traveled",
+                            "español": ["viajado"]
+                            },
+                            {
+                            "ingles": "visited",
+                            "español": ["visitado"]
+                            },
+                            {
+                            "ingles": "waited",
+                            "español": ["esperado"]
+                            },
+                            {
+                            "ingles": "walked",
+                            "español": ["caminado"]
+                            },
+                            {
+                            "ingles": "won",
+                            "español": ["ganado"]
+                            }
+                        ]
