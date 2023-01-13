@@ -82,6 +82,7 @@ function speak(text) {
         const locutor = new SpeechSynthesisUtterance();
         locutor.text = text;
         locutor.voice = englishVoice;
+        locutor.voice.lang = 'en-US'; //forzar audio en en-US
         locutor.rate = 0.65; //velocidad audio
         locutor.pitch = 1.1; //tono de voz
         window.speechSynthesis.speak(locutor);
