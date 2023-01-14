@@ -1,18 +1,18 @@
 
 /* Usado para generar el menu responsivo */
 const checkbox = document.querySelector('#check');
-const elUl = document.getElementById("elUl")
+const header = document.getElementById("header")
 
 checkbox.addEventListener('click', () => {
   // Si el checkbox está marcado, agregamos la clase "active" al label
   if (checkbox.checked) {
-    elUl.style.overflow = "auto"; /* overflow usado para poder scrolear en el menu responsive, */
+    header.style.overflow = "auto"; /* overflow usado para poder scrolear en el menu responsive, */
     document.body.style.overflow = 'hidden'; /* overflow usado para no poder scrollear la pagina body mientras esta activo el menu resposive, o mas bien mientras este con el check el checkbox */
     
-    elUl.classList.add('active');
+    header.classList.add('active');
   } else {
     // Si no está marcado, quitamos la clase "active" del label
-    elUl.classList.remove('active');
+    header.classList.remove('active');
     document.body.style.overflow = 'auto';
   }
 });
@@ -154,9 +154,6 @@ function colorTitulos(){
 });
 
 }
-
-
-
 
 
 

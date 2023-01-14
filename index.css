@@ -2,7 +2,7 @@ html {
   height: 100vh;
 }
 
-#contenedorParrafo2{
+#presentacion{
   /*  border: 2px solid black; */
    width: 80%;
    display: inline-block;  
@@ -11,7 +11,7 @@ html {
  }
  
 
-.seccion{ /*contenedor oraciones */
+.contenedorOraciones{ 
    display: flex;
    flex-flow: row wrap;/* row para respetar el orden creado desde los div en html y wrap para que se acomoden*/
    width: 80%;
@@ -80,7 +80,7 @@ li{
   'opsz' 48
 }
 
-#tituloLogo{
+#tituloPagina{
   font-weight: bold;
   color: blue;
 }
@@ -114,7 +114,7 @@ a.gramatica {
    color: white; /* tamaño icono menu */}
 .dark-mode .oraciones {
       color: white; /* tamaño icono menu */}
-.dark-mode .seccion{
+.dark-mode .contenedorOraciones{
   background-color: rgb(31, 30, 30);}
 .dark-mode .seccion1{
   background-color: rgb(31, 30, 30);}
@@ -131,8 +131,8 @@ a.gramatica {
   */
 
 
-@media screen and (max-width: 1000px) { /* en celulares se expande al 100% el texto del contenedor */
-    .seccion{
+@media screen and (max-width: 1000px) { /* en celulares se expande al 96% el texto del contenedor */
+    .contenedorOraciones{
       width: 96%;   
     }
     

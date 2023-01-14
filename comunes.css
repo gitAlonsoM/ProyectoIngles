@@ -152,7 +152,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
   transition: all 0.5s ease;  /* el efecto hover que tendra sera mas suave */
 }
 
-.contenedor2{ /* aca llegaran dinamicamente las palabras en ingles */
+.contenedorPalabras{ /* aca llegaran dinamicamente las palabras en ingles */
   display: flex;
   flex-flow: row wrap;
   justify-content:space-around;
@@ -319,7 +319,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 @media screen and (max-width: 1000px) { /* se expande al 96% el texto del contenedor */
-  .contenedor2 {
+  .contenedorPalabras {
     width: 96%;
     margin-top: 1rem;
   }
