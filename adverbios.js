@@ -66,6 +66,7 @@ toggleAudioButton.addEventListener("click", () => {
 });
 
 
+let englishVoice = null; //necesario declarla globalmente vacia para que luego se le asigne un valor con la voz encontrada
 
 //Función para buscar una voz en inglés en el dispositivo
 window.speechSynthesis.onvoiceschanged = () => {
