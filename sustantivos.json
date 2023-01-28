@@ -4,10 +4,6 @@
     "español": ["aire"]
     },
     {
-    "ingles": "area",
-    "español": ["área"]
-    },
-    {
     "ingles": "book",
     "español": ["libro"]
     },
@@ -15,6 +11,17 @@
     "ingles": "business",
     "español": ["negocio"]
     },
+
+    {
+        "ingles": "brown",
+        "español": ["marrón, cafe"]
+        },
+
+        {
+            "ingles": "gray",
+            "español": ["gris"]
+            },
+          
     {
     "ingles": "case",
     "español": ["caso"]
@@ -27,6 +34,28 @@
     "ingles": "country",
     "español": ["país"]
     },
+    {
+    "ingles": "cousin",
+    "español": ["primo(a)"]
+    },
+    {
+        "ingles": " uncle",
+        "español": ["tío"]
+        },
+        {
+            "ingles": " aunt",
+            "español": ["tía"]
+            },
+            {
+                "ingles": " nephew",
+                "español": ["sobrino"]
+                },
+                {
+                    "ingles": " niece",
+                    "español": ["sobrina"]
+                    },
+            
+        
     {
     "ingles": "width",
     "español": ["anchura"]
@@ -85,6 +114,10 @@
     "ingles": "thigh",
     "español": ["muslo"]
     },
+    {
+        "ingles": "stomach",
+        "español": ["estómago"]
+        },
     {
     "ingles": "foot",
     "español": ["pie"]
@@ -174,10 +207,7 @@
         "ingles": "money",
         "español": ["dinero"]
         },
-        {
-        "ingles": "month",
-        "español": ["mes"]
-        },
+        
         {
         "ingles": "mother",
         "español": ["madre"]
@@ -194,10 +224,7 @@
         "ingles": "miss",
         "español": ["señorita"]
         },
-        {
-        "ingles": "night",
-        "español": ["noche"]
-        },
+      
         {
         "ingles": "number",
         "español": ["número"]
@@ -238,10 +265,43 @@
         "ingles": "school",
         "español": ["escuela"]
         },
+      
         {
         "ingles": "state",
         "español": ["estado"]
         },
+        {
+            "ingles": "church",
+            "español": ["iglesia"]
+            },
+            {
+            "ingles": "foundation",
+            "español": ["fundación"]
+            },
+            {
+            "ingles": "union",
+            "español": ["sindicato"]
+            },
+            {
+            "ingles": "society",
+            "español": ["sociedad"]
+            },
+            {
+            "ingles": "partnership",
+            "español": ["sociedad"]
+            },
+            {
+            "ingles": "network",
+            "español": ["red"]
+            },
+            {
+            "ingles": "league",
+            "español": ["liga"]
+            },
+            {
+            "ingles": "guild",
+            "español": ["gremio"]
+            },
         {
         "ingles": "story",
         "español": ["historia"]
@@ -279,6 +339,92 @@
         "español": ["semana"]
         },
         {
+            "ingles": "month",
+            "español": ["mes"]
+            },
+            {
+                "ingles": "year",
+                "español": ["año"]
+                },
+                {
+                    "ingles": "night",
+                    "español": ["noche"]
+                    },
+
+                    {
+                        "ingles": "summer",
+                        "español": ["verano"]
+                        },
+                        {
+                        "ingles": "autumn",
+                        "español": ["otoño"]
+                        },
+                        {
+                        "ingles": "winter",
+                        "español": ["invierno"]
+                        },
+                        {
+                        "ingles": "spring",
+                        "español": ["primavera"]
+                        },
+                            {
+                            "ingles": "decade",
+                            "español": ["década"]
+                            },
+                            {
+                            "ingles": "century",
+                            "español": ["siglo"]
+                            },
+                            {
+                            "ingles": "morning",
+                            "español": ["mañana"]
+                            },
+                            {
+                            "ingles": "afternoon",
+                            "español": ["tarde"]
+                            },
+                            {
+                            "ingles": "evening",
+                            "español": ["noche"]
+                            },
+                            {
+                            "ingles": "season",
+                            "español": ["estación"]
+                            },
+                            {
+                            "ingles": "holiday",
+                            "español": ["vacaciones"]
+                            },
+                            {
+                            "ingles": "weekend",
+                            "español": ["fin de semana"]
+                            },
+                            {
+                            "ingles": "weekday",
+                            "español": ["día laborable"]
+                            },
+                            {
+                            "ingles": "sunrise",
+                            "español": ["amanecer"]
+                            },
+                            {
+                            "ingles": "sunset",
+                            "español": ["atardecer"]
+                            },
+                            {
+                            "ingles": "noon",
+                            "español": ["mediodía"]
+                            },
+                            {
+                            "ingles": "midnight",
+                            "español": ["medianoche"]
+                            },
+                            {
+                            "ingles": "dawn",
+                            "español": ["alba"]
+                            },               
+
+        {
         "ingles": "woman",
         "español": ["mujer"]
         },
@@ -294,10 +440,7 @@
         "ingles": "world",
         "español": ["mundo"]
         },
-        {
-        "ingles": "year",
-        "español": ["año"]
-        },
+        
         {
         "ingles": "young",
         "español": ["joven"]
@@ -467,8 +610,6 @@
     "ingles": "landscape",
     "español": ["paisaje"]
     },
-
-
 
     {
     "ingles": "river",
@@ -1241,24 +1382,81 @@
     "ingles": "ship",
     "español": ["barco"]
     },
+  
     {
-    "ingles": "summer",
-    "español": ["verano"]
-    },
-    {
-    "ingles": "autumn",
-    "español": ["otoño"]
-    },
-    {
-    "ingles": "winter",
-    "español": ["invierno"]
-    },
-    {
-    "ingles": "spring",
-    "español": ["primavera"]
-    }
-                    
-            
+        "ingles": "gold",
+        "español": ["dorado"]
+        },
+        {
+            "ingles": "silver",
+            "español": ["plateado"]
+            },
+        
+                
+                {
+                    "ingles": "freedom",
+                    "español": ["libertad"]
+                },
+                {
+                    "ingles": "luck",
+                    "español": ["suerte"]
+                },
+                {
+                    "ingles": "happiness",
+                    "español": ["felicidad"]
+                },
+                {
+                    "ingles": "justice",
+                    "español": ["justicia"]
+                },
+                {
+                    "ingles": "knowledge",
+                    "español": ["conocimiento"]
+                },
+                {
+                    "ingles": "hope",
+                    "español": ["esperanza"]
+                },
+                {
+                    "ingles": "faith",
+                    "español": ["fe"]
+                },
+                {
+                    "ingles": "trust",
+                    "español": ["confianza"]
+                },
+                {
+                    "ingles": "courage",
+                    "español": ["valentía"]
+                },
+                {
+                    "ingles": "integrity",
+                    "español": ["integridad"]
+                },
+                {
+                    "ingles": "equality",
+                    "español": ["igualdad"]
+                },
+                {
+                    "ingles": "meeting",
+                    "español": ["reunión"]
+                    },
+                    {
+                        "ingles": "party",
+                        "español": ["fiesta"]
+                        },
+                        {
+                            "ingles": "concert",
+                            "español": ["concierto"]
+                            },
+                            {
+                                "ingles": "performance",
+                                "español": ["actuación"]
+                                },
+                                {
+                                    "ingles": "race",
+                                    "español": ["carrera"]
+                                    }
     
 ]
 
