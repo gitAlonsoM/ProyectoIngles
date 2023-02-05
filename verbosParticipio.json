@@ -24,6 +24,14 @@
         "español": ["significado","intencionado"]
         },
 
+        {
+            "ingles": "cared",
+            "español": ["cuidado", "preocupado"]
+            },
+            {
+            "ingles": "worried",
+            "español": ["preocupado", "inquietado"]
+            },
     {
     "ingles": "gone",
     "español": ["ido"]

@@ -23,6 +23,16 @@
         "ingles": "meant",
         "español": ["significó", "quería decir"]
         },
+        {
+            "ingles": "cared",
+            "español": ["cuidó", "se preocupó"]
+            },
+            {
+            "ingles": "worried",
+            "español": ["se preocupó", "se inquietó"]
+            },
+
+
     {   
     "ingles": "went",
     "español": ["fue"]

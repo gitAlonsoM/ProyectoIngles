@@ -25,9 +25,14 @@
       "español": ["significar", "querer decir"]
       },
   
-
-
-
+      {
+        "ingles": "care",
+        "español": ["cuidar", "preocuparse"]
+        },
+        {
+        "ingles": "worry",
+        "español": ["preocuparse", "inquietarse"]
+        },
     {
     "ingles": "go",
     "español": ["ir"]

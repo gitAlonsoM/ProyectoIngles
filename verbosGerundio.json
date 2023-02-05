@@ -188,6 +188,17 @@
         "ingles": "meeting",
         "español": ["reuniendo"]
         },
+
+        {
+            "ingles": "caring",
+            "español": ["cuidando", "preocupándose"]
+            },
+            {
+            "ingles": "worrying",
+            "español": ["preocupándose", "inquietándose"]
+            },
+
+
         {
         "ingles": "including",
         "español": ["incluyendo"]
