@@ -2,12 +2,29 @@ html {
   height: 100vh;
 }
 
-#presentacion{
+#presentacion1{
   /*  border: 2px solid black; */
    width: 80%;
    display: inline-block;  
    top: 0;
    margin: 0.5rem 0;  
+   font-weight: bold;
+   font-size: 1.1rem;
+   text-transform: uppercase;
+  color: rgb(8, 18, 18);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+   
+   
+ }
+
+#presentacion2{
+  /*  border: 2px solid black; */
+   width: 80%;
+   display: inline-block;  
+   top: 0;
+   margin: 0.5rem 0;  
+   font-weight: lighter;
+   
  }
  
 
@@ -36,6 +53,7 @@ li{
    font-weight: bolder;
    cursor: pointer;
    margin-bottom: 0.2rem;
+  
  }
 
 
@@ -50,7 +68,7 @@ li{
   font-size: 0.8rem;
   position: absolute;
   right: 0;
-  top: 0.1,5rem;
+  top: 0.2rem;
   transition: all 0.5s ease;
   background-color: rgb(235, 230, 230);
   border-radius: 5%;
@@ -80,9 +98,17 @@ li{
   'opsz' 48
 }
 
-#tituloPagina{
+#tituloPagina1{
   font-weight: bold;
   color: blue;
+  font-size: 1.1rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+#tituloPagina2{
+  font-weight: bold;
+  color: blue;
+  
 }
 
 a.gramatica {

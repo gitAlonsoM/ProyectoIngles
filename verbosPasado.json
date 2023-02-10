@@ -157,30 +157,7 @@
         "ingles": "happened",
         "español": ["ocurrió"]
         },
-        {
-        "ingles": "must have*",
-        "español": ["debía de"]
-        },
-        {
-        "ingles": "should have*",
-        "español": ["debía de"]
-        },
-        {
-        "ingles": "may have*",
-        "español": ["pudo haber"]
-        },
-        {
-        "ingles": "can have*",
-        "español": ["puede tener"]
-        },
-        {
-        "ingles": "might have*",
-        "español": ["podría haber"]
-        },
-        {
-        "ingles": "could have*",
-        "español": ["podría haber"]
-        },
+    
         {
         "ingles": "wrote",
         "español": ["escribió"]
@@ -213,10 +190,7 @@
         "ingles": "included",
         "español": ["incluyó"]
         },
-        {
-            "ingles": "continued",
-            "español": ["continuó"]
-            },
+
             {
             "ingles": "set",
             "español": ["estableció"]
@@ -572,5 +546,66 @@
     {
     "ingles": "won",
     "español": ["ganó"]
-    }
+    },
+    {
+        "ingles": "ended",
+        "español": ["terminó"]
+        },
+        {
+        "ingles": "rested",
+        "español": ["descansó"]
+        },
+        {
+        "ingles": "rented",
+        "español": ["alquiló"]
+        },
+        {
+        "ingles": "mixed",
+        "español": ["mezcló"]
+        },
+        {
+        "ingles": "finished",
+        "español": ["terminó", "acabó"]
+        },
+        {
+        "ingles": "fixed",
+        "español": ["arregló", "reparó"]
+        },
+        {
+        "ingles": "touched",
+        "español": ["tocó", "sintió"]
+        },
+        {
+        "ingles": "passed",
+        "español": ["pasó", "aprobó"]
+        },
+        {
+        "ingles": "studied",
+        "español": ["estudió"]
+        },
+        {
+        "ingles": "answered",
+        "español": ["respondió", "dio respuesta"]
+        },
+        {
+        "ingles": "destroyed",
+        "español": ["destruyó"]
+        },
+        {
+        "ingles": "died",
+        "español": ["murió"]
+        },
+        {
+        "ingles": "grabbed",
+        "español": ["agarró", "cogió"]
+        },
+        {
+        "ingles": "preferred",
+        "español": ["prefirió"]
+        },
+        {
+        "ingles": "arranged",
+        "español": ["organizó", "arregló"]
+        }
+        
 ]

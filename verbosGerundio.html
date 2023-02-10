@@ -13,85 +13,82 @@
 </head>
 <body class="light-mode">
 
-    
-<nav>
+    <header>
+        <nav>
 
-    <input type="checkbox" id="check">
-    <label for="check" class="checkbtn"> <!-- label asociado al input for = id -->
-        <span class="material-symbols-outlined">
-            menu
-        </span>
-    </label>
-
-
-    <!-- <li ><a href="#" class="logo">PalabraPorPalabra</a> </li> -->
-
-    <a href="#" class="enlace"> <!-- logo de la pagina -->
-        <img src="logo.png" alt="logo" class="logo">
-    </a>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn"> <!-- label asociado al input for = id -->
+                <span class="material-symbols-outlined">
+                    menu
+                </span>
+            </label>
 
 
-    <ul id="header">    
-        <li >  <a href="index.html">Inicio</a> </li>
-        <li ><a href="comunes.html">Comunes</a> </li>
-        <div class="dropdown"> 
-            <li><a class="dropdown-btn activePage" href="#">Verbos</a></li>
-            <div class="dropdown-content">
-                <a href="verbos.html">Presente</a>
-                <a href="verbosGerundio.html">Gerundio</a>
-                <a href="verbosPasado.html">Pasado</a>
-                <a href="verbosParticipio.html">Participio</a>
-                
-            </div>
-        </div>
-        <li><a href="sustantivos.html">Sustantivos</a></li>
-        <li><a href="adjetivos.html">Adjetivos</a></li>
-        <li><a href="preposiciones.html">Preposiciones</a></li>
-        <li><a href="conectores.html">Conectores</a></li>
-        <li><a href="adverbios.html">Adverbios</a></li>  
-        <li id="acercaDe"> <a href="#">Acerca de</a>  </li>
-      
-    </ul>
+            <!-- <li ><a href="#" class="logo">PalabraPorPalabra</a> </li> -->
 
-</nav>
+            <a href="#" class="enlace"> <!-- logo de la pagina -->
+                <img src="logo.png" alt="logo" class="logo">
+            </a>
+
+
+            <ul id="header">    
+                <li >  <a href="index.html">Inicio</a> </li>
+                <li ><a href="comunes.html">Comunes</a> </li>
+                <div class="dropdown"> 
+                    <li><a class="dropdown-btn activePage" href="#">Verbos</a></li>
+                    <div class="dropdown-content">
+                        <a href="verbos.html">Presente</a>
+                        <a href="verbosGerundio.html">Gerundio</a>
+                        <a href="verbosPasado.html">Pasado</a>
+                        <a href="verbosParticipio.html">Participio</a>
+                        
+                    </div>
+                </div>
+                <li><a href="sustantivos.html">Sustantivos</a></li>
+                <li><a href="adjetivos.html">Adjetivos</a></li>
+                <li><a href="preposiciones.html">Preposiciones</a></li>
+                <li><a href="conectores.html">Conectores</a></li>
+                <li><a href="adverbios.html">Adverbios</a></li> 
+                <li ><a href="frases.html">Frases</a></li>       
+                <li id="acercaDe"> <a href="#">Acerca de</a>  </li>
+            
+            </ul>
+        </nav>
+    </header>
+
     <div class="linea-horizontal"></div>
     
 
-    
-    <section class="seccion1">
+    <main>
+        <section class="seccion1">
 
-        <div id="contenedorParrafo">
-            <p id="parrafo" >Los <span style="font-weight: bolder;">verbos en gerundio</span> son palabras que se utilizan para describir acciones, estados o procesos que están en progreso. Esta lista incluye los verbos en gerundio más utilizados.</p>
-        </div> 
-          
-        <button id="dark-mode-button">
-            <span class="material-symbols-outlined" id="darkIcon">
-                dark_mode
-            </span>
-        </button>  
+            <div id="contenedorParrafo">
+                <p id="parrafo" >Los <span style="font-weight: bolder;">verbos en gerundio</span> son palabras que se utilizan para describir acciones, estados o procesos que están en progreso. Esta lista incluye los verbos en gerundio más utilizados.</p>
+            </div> 
+            
+            <button id="dark-mode-button">
+                <span class="material-symbols-outlined" id="darkIcon">
+                    dark_mode
+                </span>
+            </button>  
+            
+            <button id="toggle-audio-button">
+                <span class="material-symbols-outlined" id="audio">
+                    volume_off
+                </span>
+            </button>
         
-        <button id="toggle-audio-button">
-            <span class="material-symbols-outlined" id="audio">
-                volume_off
-            </span>
-        </button>
-    
-    
-    </section>
-
-
-
-          
-    <div class="contenedorPalabras" ></div>
         
+        </section>
 
-    
-<!-- Btn para regresar al incio de la pagina -->
-<button onclick="topFunction()" id="myBtn" title="Go to top"></button>
-   
+        <section>
+            <div class="contenedorPalabras" ></div>
+        
+            <!-- Btn para regresar al incio de la pagina -->
+            <button onclick="topFunction()" id="myBtn" title="Go to top"></button>
+        </section>
 
-    
-
+    </main>
 
 
 <script src="verbosGerundio.js"></script>

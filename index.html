@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Idioma Unido</title>
+
+    <!-- AGREGAR ETIQUETA META DE DESCRIPCION -->
+
     <link rel="stylesheet" href="comunes.css">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -15,144 +18,155 @@
 
 
 <body class="light-mode">
-    
-<nav>
-
-    <input type="checkbox" id="check">
-    <label for="check" class="checkbtn"> <!-- label asociado al input for = id -->
-        <span class="material-symbols-outlined">
-            menu
-        </span>
-    </label>
-
-
-    <a href="#" class="enlace"> <!-- logo de la pagina -->
-        <img src="logo.png" alt="logo" class="logo">
-    </a>
-
-
-    <ul id="header">    
-        <li class="activePage"><a href="index.html">Inicio</a> </li>
-        <li ><a href="comunes.html">Comunes</a> </li>
-
-        <div class="dropdown"> 
-            <li><a class="dropdown-btn" href="#">Verbos</a></li>
-            <div class="dropdown-content">
-                <a href="verbos.html">Presente</a>
-                <a href="verbosGerundio.html">Gerundio</a>
-                <a href="verbosPasado.html">Pasado</a>
-                <a href="verbosParticipio.html">Participio</a>
-            </div>
-        </div>
-
-        <li><a href="sustantivos.html">Sustantivos</a></li>
-        <li><a href="adjetivos.html">Adjetivos</a></li>
-        <li><a href="preposiciones.html">Preposiciones</a></li>
-        <li ><a href="conectores.html">Conectores</a></li>
-        <li><a href="adverbios.html">Adverbios</a></li>          
-        <li id="acercaDe" > <a href="#">Acerca de</a>  </li>
-      
-
-    </ul>
-
-</nav>
-
-    <div class="linea-horizontal"></div>
-
-    <section class="seccion1">
-
-        <div id="presentacion">
-            <p >
-                En <span id="tituloPagina">IdiomaUnido</span> encontrarás más de 1.500 palabras altamente utilizadas en inglés. Al hacer clic en ellas, podrás ver su traducción al español de manera inmediata. En las secciones de la página encontrarás verbos, sustantivos, adjetivos y otras partes de la gramática en inglés. Esperamos que disfrutes y te sea útil en tu proceso de aprendizaje.
-            </p>
-        </div>   
+ 
+    <header>
+        <nav>
         
-        <button id="dark-mode-button">
-            <span class="material-symbols-outlined" id="darkIcon">
-                dark_mode
-            </span>
-        </button>   
-    
-    </section>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn"> <!-- label asociado al input for = id -->
+                <span class="material-symbols-outlined">
+                    menu
+                </span>
+            </label>
 
-    <section class="contenedorOraciones">
 
-        <div class="column">
-            <div class="oraciones">
-                <p class="titulo" id="titulo1">The musician plays a strange song on the piano under the stars during the summer.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> musician, piano, stars, summer.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> plays.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> strange.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> on.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> during.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> under, on, during.</li>
+            <a href="#" class="enlace"> <!-- logo de la pagina -->
+                <img src="logo.png" alt="logo" class="logo">
+            </a>
 
-            </div> 
-    
-            <div class="oraciones">
-                <p class="titulo" id="titulo2">The scientist conducts experiments in the laboratory with sophisticated equipment.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> scientist, experiments, laboratory, equipment.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> conducts.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> sophisticated.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> in.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> with.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> in, with.</li>
 
-            </div> 
-            <div class="oraciones">
-                <p class="titulo" id="titulo3">The child paints a colorful picture of a beautiful landscape.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> child, picture, landscape.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> paints.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> colorful, beautiful.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> of.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> of.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> of.</li>
+            <ul id="header">    
+                <li class="activePage"><a href="index.html">Inicio</a> </li>
+                <li ><a href="comunes.html">Comunes</a> </li>
 
-            </div> 
-            
-        </div>
-    
-        <div class="column">
-            <div class="oraciones">
-                <p class="titulo" id="titulo4">The chef prepares a delicious meal with fresh ingredients.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> chef, meal.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> prepares.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> delicious.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> with.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> with.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> with.</li>
+                <div class="dropdown"> 
+                    <li><a class="dropdown-btn" href="#">Verbos</a></li>
+                    <div class="dropdown-content">
+                        <a href="verbos.html">Presente</a>
+                        <a href="verbosGerundio.html">Gerundio</a>
+                        <a href="verbosPasado.html">Pasado</a>
+                        <a href="verbosParticipio.html">Participio</a>
+                    </div>
+                </div>
 
-            </div> 
+                <li><a href="sustantivos.html">Sustantivos</a></li>
+                <li><a href="adjetivos.html">Adjetivos</a></li>
+                <li><a href="preposiciones.html">Preposiciones</a></li>
+                <li ><a href="conectores.html">Conectores</a></li>
+                <li><a href="adverbios.html">Adverbios</a></li>      
+                <li ><a href="frases.html">Frases</a></li>          
+                <li id="acercaDe" > <a href="#">Acerca de</a>  </li>      
 
-            <div class="oraciones">
-                <p class="titulo" id="titulo5">She sings a beautiful song about love and happiness.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> she, song, love, happiness.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> sings.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> beautiful.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> about.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> about.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> about.</li>
+            </ul>
+        </nav>
+    </header>
 
-            </div> 
-            
-            <div class="oraciones">
-                <p class="titulo" id="titulo6">The cat gracefully plays with a colorful toy.</p>
-                <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> cat, toy.</li>
-                <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> plays.</li>
-                <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> colorful.</li>
-                <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> with.</li>
-                <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> gracefully.</li>
-                <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> with.</li>
-                
-            </div> 
-        </div>
-    </section>
 
     <div class="linea-horizontal"></div>
 
-    <section class="containerFooter">
+
+    <main>
+        
+        <section class="seccion1">
+
+            <div >
+                <h1 id="presentacion1"> 
+                    Aprende inglés con <span id="tituloPagina1">IdiomaUnido</span> aumentando tu vocabulario y mejorando tu listening
+                </h1>
+
+                <h2 id="presentacion2"> 
+                    En <span id="tituloPagina2">IdiomaUnido</span> encontrarás más de 1.500 palabras altamente utilizadas en inglés. Al hacer clic en ellas, podrás escuchar y ver su traducción al español o ingles de manera inmediata. En las secciones de la página encontrarás verbos, sustantivos, adjetivos, frases y otras partes de la gramática en inglés. Esperamos que disfrutes y te sea útil en tu proceso de aprendizaje.
+                </h2>
+                
+            </div>   
+            
+            <button id="dark-mode-button">
+                <span class="material-symbols-outlined" id="darkIcon">
+                    dark_mode
+                </span>
+            </button>   
+        
+        </section>
+
+        <section class="contenedorOraciones">
+
+            <div class="column">
+                <div class="oraciones">
+                    <p class="titulo" id="titulo1">The musician plays a strange song on the piano under the stars during the summer.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> musician, piano, stars, summer.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> plays.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> strange.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> on.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> during.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> under, on, during.</li>
+
+                </div> 
+        
+                <div class="oraciones">
+                    <p class="titulo" id="titulo2">The scientist conducts experiments in the laboratory with sophisticated equipment.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> scientist, experiments, laboratory, equipment.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> conducts.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> sophisticated.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> in.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> with.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> in, with.</li>
+
+                </div> 
+                <div class="oraciones">
+                    <p class="titulo" id="titulo3">The child paints a colorful picture of a beautiful landscape.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> child, picture, landscape.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> paints.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> colorful, beautiful.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> of.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> of.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> of.</li>
+
+                </div> 
+                
+            </div>
+        
+            <div class="column">
+                <div class="oraciones">
+                    <p class="titulo" id="titulo4">The chef prepares a delicious meal with fresh ingredients.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> chef, meal.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> prepares.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> delicious.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> with.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> with.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> with.</li>
+
+                </div> 
+
+                <div class="oraciones">
+                    <p class="titulo" id="titulo5">She sings a beautiful song about love and happiness.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> she, song, love, happiness.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> sings.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> beautiful.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> about.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> about.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> about.</li>
+
+                </div> 
+                
+                <div class="oraciones">
+                    <p class="titulo" id="titulo6">The cat gracefully plays with a colorful toy.</p>
+                    <li><a class="gramatica" href="sustantivos.html"><span>Sustantivos:</span></a> cat, toy.</li>
+                    <li><a class="gramatica" href="verbos.html"><span>Verbos:</span></a> plays.</li>
+                    <li><a class="gramatica" href="adjetivos.html"><span>Adjetivos:</span></a> colorful.</li>
+                    <li><a class="gramatica" href="conectores.html"><span>Conectores:</span></a> with.</li>
+                    <li><a class="gramatica" href="adverbios.html"><span>Adverbios:</span></a> gracefully.</li>
+                    <li><a class="gramatica" href="preposiciones.html"><span>Preposiciones:</span></a> with.</li>
+                    
+                </div> 
+            </div>
+        </section>
+    </main> 
+
+    <div class="linea-horizontal"></div>
+
+    <footer class="containerFooter">
        <p id="footer"> "¡Espero que disfrutes de su estadía, gracias por visitarnos!. Página web creada por Alonso Miranda M. "</p>
-    </section>
+    </footer>
 
 
    

@@ -265,7 +265,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 /* aca se hace el responsive para pantallas inferiores a 1400px */
-@media (max-width: 1400px){
+@media (max-width: 1425px){
 
   .checkbtn{ /* el icono menu se muestra al cambiar su display de none a block */
       display: block;

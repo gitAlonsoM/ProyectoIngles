@@ -177,28 +177,28 @@
     "español": ["suceder"]
     },
     {
-    "ingles": "must*",
+    "ingles": "must",
     "español": ["deber (obligación o necesidad)"]
     },
     {
-      "ingles": "should*",
-      "español": ["deberia(recomendación)"]
+      "ingles": "should",
+      "español": ["deberia (recomendación o consejo)"]
     },
     {
-      "ingles": "may*",
-      "español": ["puede", "podría", "(posibilidad o permiso)"]
+      "ingles": "may",
+      "español": ["puedo, puede (posibilidad o permiso)"]
     },
     {
-      "ingles": "can*",
-      "español": ["poder", "(habilidad o posibilidad)"]
+      "ingles": "can",
+      "español": ["poder", "(capacidad de hacer algo)"]
     },
     {
-      "ingles": "might*",
-      "español": ["podría", "(posibilidad)"]
+      "ingles": "might",
+      "español": ["podría", "tal vez", "(posibilidad con incertidumbre)"]
     },
     {
-      "ingles": "could*",
-      "español": ["podría", "podía", "(habilidad o posibilidad)"]
+      "ingles": "could",
+      "español": ["podría", "podía", "(capacidad condicionada de hacer algo)"]
     },
     {
     "ingles": "write",
@@ -599,6 +599,68 @@
             {
             "ingles": "win",
             "español": ["ganar"]
-            }
-          ]
+            },
+            {
+              "ingles": "end",
+              "español": ["terminar"]
+              },
+              {
+              "ingles": "rest",
+              "español": ["descansar"]
+              },
+              {
+              "ingles": "rent",
+              "español": ["alquilar"]
+              },
+              {
+              "ingles": "mix",
+              "español": ["mezclar"]
+              },
+              {
+              "ingles": "finish",
+              "español": ["terminar", "acabar"]
+              },
+              {
+              "ingles": "fix",
+              "español": ["arreglar", "reparar"]
+              },
+              {
+              "ingles": "touch",
+              "español": ["tocar", "sentir"]
+              },
+              {
+              "ingles": "pass",
+              "español": ["pasar", "aprobar"]
+              },
+              {
+              "ingles": "study",
+              "español": ["estudiar"]
+              },
+              {
+              "ingles": "answer",
+              "español": ["responder", "dar respuesta"]
+              },
+              {
+              "ingles": "destroy",
+              "español": ["destruir"]
+              },
+              {
+              "ingles": "die",
+              "español": ["morir"]
+              },
+              {
+              "ingles": "grab",
+              "español": ["agarrar", "coger"]
+              },
+              {
+              "ingles": "prefer",
+              "español": ["preferir"]
+              },
+              {
+              "ingles": "arrange",
+              "español": ["organizar", "arreglar"]
+              }
+]
+
+          
 

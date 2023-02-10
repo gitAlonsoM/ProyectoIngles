@@ -76,6 +76,10 @@
     "español": ["fuerte"]
     },
     {
+        "ingles": "weak",
+        "español": ["débil"]
+        },
+    {
         "ingles": "big",
         "español": ["grande"]
         },
@@ -120,6 +124,10 @@
         "ingles": "thin",
         "español": ["delgado"]
         },
+        {
+            "ingles": "fat",
+            "español": ["gordo"]
+            },
         {
         "ingles": "heavy",
         "español": ["pesado"]
@@ -364,7 +372,10 @@
                     "ingles": "inaccurate",
                     "español": ["impreciso"]
                     },
-
+                    {
+                        "ingles": "foolish",
+                        "español": ["tonto"]
+                        },
 
                     {
                     "ingles": "intelligent",
@@ -558,7 +569,25 @@
                             {
                             "ingles": "thoughtful",
                             "español": ["pensativo"]
-                            }
+                            },
+                            {
+                                "ingles": "nervous",
+                                "español": ["nervioso"]
+                                },
+                               
+                                {
+                                "ingles": "difficult",
+                                "español": ["difícil"]
+                                },
+                                {
+                                    "ingles": "easy",
+                                    "español": ["fácil"]
+                                    },                                                  
+                                {
+                                "ingles": "serious",
+                                "español": ["serio"]
+                                }
+                             
 ]
 
 

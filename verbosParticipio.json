@@ -551,5 +551,65 @@
                             {
                             "ingles": "won",
                             "español": ["ganado"]
-                            }
+                            },
+                            {
+                                "ingles": "ended",
+                                "español": ["terminado"]
+                                },
+                                {
+                                "ingles": "rested",
+                                "español": ["descansado"]
+                                },
+                                {
+                                "ingles": "rented",
+                                "español": ["alquilado"]
+                                },
+                                {
+                                "ingles": "mixed",
+                                "español": ["mezclado"]
+                                },
+                                {
+                                "ingles": "finished",
+                                "español": ["terminado", "acabado"]
+                                },
+                                {
+                                "ingles": "fixed",
+                                "español": ["arreglado", "reparado"]
+                                },
+                                {
+                                "ingles": "touched",
+                                "español": ["tocado", "sentido"]
+                                },
+                                {
+                                "ingles": "passed",
+                                "español": ["pasado", "aprobado"]
+                                },
+                                {
+                                "ingles": "studied",
+                                "español": ["estudiado"]
+                                },
+                                {
+                                "ingles": "answered",
+                                "español": ["respondido", "dado respuesta"]
+                                },
+                                {
+                                "ingles": "destroyed",
+                                "español": ["destruido"]
+                                },
+                                {
+                                "ingles": "died",
+                                "español": ["muerto"]
+                                },
+                                {
+                                "ingles": "grabbed",
+                                "español": ["agarrado", "cogido"]
+                                },
+                                {
+                                "ingles": "preferred",
+                                "español": ["preferido"]
+                                },
+                                {
+                                "ingles": "arranged",
+                                "español": ["organizado", "arreglado"]
+                                }
                         ]
