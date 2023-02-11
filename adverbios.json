@@ -552,10 +552,6 @@
     "español": ["desde entonces"]
     },
     {
-    "ingles": "for",
-    "español": ["por"]
-    },
-    {
     "ingles": "for a while",
     "español": ["por un rato"]
     },
@@ -710,7 +706,11 @@
     {
     "ingles": "still",
     "español": ["todavía"]
-    }
+    },
+    {
+        "ingles": "anymore",
+        "español": ["ya no"]
+        }
                                 
 ]
     

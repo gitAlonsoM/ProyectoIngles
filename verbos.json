@@ -659,7 +659,59 @@
               {
               "ingles": "arrange",
               "español": ["organizar", "arreglar"]
-              }
+              },
+              {
+                "ingles": "borrow",
+                "español": ["tomar prestado"]
+                },
+                {
+                "ingles": "lend",
+                "español": ["prestar"]
+                },
+                {
+                "ingles": "swear",
+                "español": ["jurar", "protestar"]
+                },
+                {
+                "ingles": "shoot",
+                "español": ["disparar", "film", "tomar fotos"]
+                },
+                {
+                "ingles": "count",
+                "español": ["contar", "calcular"]
+                },
+                {
+                "ingles": "celebrate",
+                "español": ["celebrar", "festejar"]
+                },
+                {
+                "ingles": "knock",
+                "español": ["golpear", "llamar a la puerta"]
+                },
+                {
+                "ingles": "shop",
+                "español": ["ir de compras", "comprar"]
+                },
+                {
+                "ingles": "brush",
+                "español": ["cepillar", "cepillar"]
+                },
+                {
+                "ingles": "exercise",
+                "español": ["ejercitar", "entrenar"]
+                },
+                {
+                "ingles": "sail",
+                "español": ["navegar", "viajar en barco"]
+                },
+                {
+                "ingles": "fish",
+                "español": ["pescar"]
+                },
+                {
+                "ingles": "hunt",
+                "español": ["cazar", "buscar"]
+                }
 ]
 
           

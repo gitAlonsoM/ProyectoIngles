@@ -555,5 +555,57 @@
     {
     "ingles": "winning",
     "español": ["ganando"]
-    }
+    },
+    {
+        "ingles": "borrowing",
+        "español": ["tomando prestado"]
+        },
+        {
+        "ingles": "lending",
+        "español": ["prestando"]
+        },
+        {
+        "ingles": "swearing",
+        "español": ["jurando", "protestando"]
+        },
+        {
+        "ingles": "shooting",
+        "español": ["disparando", "filmando", "tomando fotos"]
+        },
+        {
+        "ingles": "counting",
+        "español": ["contando", "calculando"]
+        },
+        {
+        "ingles": "celebrating",
+        "español": ["celebrando", "festejando"]
+        },
+        {
+        "ingles": "knocking",
+        "español": ["golpeando", "llamando a la puerta"]
+        },
+        {
+        "ingles": "shopping",
+        "español": ["yendo de compras", "comprando"]
+        },
+        {
+        "ingles": "brushing",
+        "español": ["cepillando", "cepillando"]
+        },
+        {
+        "ingles": "exercising",
+        "español": ["ejercitando", "entrenando"]
+        },
+        {
+        "ingles": "sailing",
+        "español": ["navegando", "viajando en barco"]
+        },
+        {
+        "ingles": "fishing",
+        "español": ["pescando"]
+        },
+        {
+        "ingles": "hunting",
+        "español": ["cazando", "buscando"]
+        }
     ]

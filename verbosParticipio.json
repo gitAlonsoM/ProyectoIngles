@@ -611,5 +611,57 @@
                                 {
                                 "ingles": "arranged",
                                 "español": ["organizado", "arreglado"]
-                                }
+                                },
+                                {
+                                    "ingles": "borrowed",
+                                    "español": ["tomado prestado"]
+                                    },
+                                    {
+                                    "ingles": "lent",
+                                    "español": ["prestado"]
+                                    },
+                                    {
+                                    "ingles": "sworn",
+                                    "español": ["jurado", "protestado"]
+                                    },
+                                    {
+                                    "ingles": "shot",
+                                    "español": ["disparado", "filmado", "fotografiado"]
+                                    },
+                                    {
+                                    "ingles": "counted",
+                                    "español": ["contado", "calculado"]
+                                    },
+                                    {
+                                    "ingles": "celebrated",
+                                    "español": ["celebrado", "festejado"]
+                                    },
+                                    {
+                                    "ingles": "knocked",
+                                    "español": ["golpeado", "llamado a la puerta"]
+                                    },
+                                    {
+                                    "ingles": "shopped",
+                                    "español": ["ido de compras", "comprado"]
+                                    },
+                                    {
+                                    "ingles": "brushed",
+                                    "español": ["cepillo", "cepillar"]
+                                    },
+                                    {
+                                    "ingles": "exercised",
+                                    "español": ["ejercitado", "entrenado"]
+                                    },
+                                    {
+                                    "ingles": "sailed",
+                                    "español": ["navegado", "viajado en barco"]
+                                    },
+                                    {
+                                    "ingles": "fished",
+                                    "español": ["pescado"]
+                                    },
+                                    {
+                                    "ingles": "hunted",
+                                    "español": ["cazado", "buscado"]
+                                    }
                         ]

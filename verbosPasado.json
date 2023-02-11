@@ -606,6 +606,58 @@
         {
         "ingles": "arranged",
         "español": ["organizó", "arregló"]
-        }
+        },
+        {
+            "ingles": "borrowed",
+            "español": ["tomó prestado"]
+            },
+            {
+            "ingles": "lent",
+            "español": ["prestó"]
+            },
+            {
+            "ingles": "swore",
+            "español": ["juró", "protestó"]
+            },
+            {
+            "ingles": "shot",
+            "español": ["disparó", "filmó", "tomó fotos"]
+            },
+            {
+            "ingles": "counted",
+            "español": ["contó", "calculó"]
+            },
+            {
+            "ingles": "celebrated",
+            "español": ["celebró", "festejó"]
+            },
+            {
+            "ingles": "knocked",
+            "español": ["golpeó", "llamó a la puerta"]
+            },
+            {
+            "ingles": "shopped",
+            "español": ["fue de compras", "compró"]
+            },
+            {
+            "ingles": "brushed",
+            "español": ["cepillar", "cepillar"]
+            },
+            {
+            "ingles": "exercised",
+            "español": ["ejercitó", "entrenó"]
+            },
+            {
+            "ingles": "sailed",
+            "español": ["navegó", "viajó en barco"]
+            },
+            {
+            "ingles": "fished",
+            "español": ["pescó"]
+            },
+            {
+            "ingles": "hunted",
+            "español": ["cazó", "buscó"]
+            }
         
 ]

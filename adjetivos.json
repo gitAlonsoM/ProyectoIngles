@@ -586,7 +586,119 @@
                                 {
                                 "ingles": "serious",
                                 "español": ["serio"]
-                                }
+                                },
+                                {
+                                    "ingles": "lonely",
+                                    "español": ["solo", "triste"]
+                                    },
+                                    {
+                                    "ingles": "alone",
+                                    "español": ["solo", "sin compañía"]
+                                    },
+                                    {
+                                    "ingles": "taller",
+                                    "español": ["más alto"]
+                                    },
+                                    {
+                                    "ingles": "shorter",
+                                    "español": ["más corto"]
+                                    },
+                                    {
+                                    "ingles": "heavier",
+                                    "español": ["más pesado"]
+                                    },
+                                    {
+                                    "ingles": "lighter",
+                                    "español": ["más ligero"]
+                                    },
+                                    {
+                                    "ingles": "faster",
+                                    "español": ["más rápido"]
+                                    },
+                                    {
+                                    "ingles": "slower",
+                                    "español": ["más lento"]
+                                    },
+                                    {
+                                    "ingles": "wider",
+                                    "español": ["más ancho"]
+                                    },
+                                    {
+                                    "ingles": "higher",
+                                    "español": ["más alto"]
+                                    },
+                                    {
+                                    "ingles": "lower",
+                                    "español": ["más bajo"]
+                                    },
+                                    {
+                                    "ingles": "longer",
+                                    "español": ["más largo"]
+                                    },
+                                    {
+                                    "ingles": "younger",
+                                    "español": ["más joven"]
+                                    },
+                                    {
+                                    "ingles": "older",
+                                    "español": ["más viejo"]
+                                    },
+                                    {
+                                    "ingles": "stronger",
+                                    "español": ["más fuerte"]
+                                    },
+                                    {
+                                    "ingles": "weaker",
+                                    "español": ["más débil"]
+                                    },
+                                    {
+                                    "ingles": "happier",
+                                    "español": ["más feliz"]
+                                    },
+                                    {
+                                    "ingles": "sadder",
+                                    "español": ["más triste"]
+                                    },
+                                    {
+                                    "ingles": "richer",
+                                    "español": ["más rico"]
+                                    },
+                                    {
+                                    "ingles": "poorer",
+                                    "español": ["más pobre"]
+                                    },
+                                    {
+                                    "ingles": "smarter",
+                                    "español": ["más inteligente"]
+                                    },
+                                    {
+                                    "ingles": "dumber",
+                                    "español": ["más tonto"]
+                                    },
+                                    {
+                                    "ingles": "bigger",
+                                    "español": ["más grande"]
+                                    },
+                                    {
+                                    "ingles": "smaller",
+                                    "español": ["más pequeño"]
+                                    },
+                                    {
+                                    "ingles": "better",
+                                    "español": ["mejor"]
+                                    },
+                                    {
+                                    "ingles": "worse",
+                                    "español": ["peor"]
+                                    },
+                                    {
+                                    "ingles": "more",
+                                    "español": ["más"]
+                                    },
+                                    {
+                                    "ingles": "less",
+                                    "español": ["menos"]
+                                    }
                              
 ]
 

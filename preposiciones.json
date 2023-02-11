@@ -13,7 +13,7 @@
     },
     {
     "ingles": "for",
-    "español": ["durante, por"]
+    "español": ["durante, por, para"]
     },
     {
     "ingles": "on",
@@ -317,7 +317,11 @@
         {
         "ingles": "because of",
         "español": ["porque", "debido a"]
-        }
+        },
+        {
+            "ingles": "than",
+            "español": ["más que"]
+            }
 
 
     ]
