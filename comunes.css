@@ -39,6 +39,9 @@ nav ul{  /* enviar elementos del navegador a la derecha */
   float: right;
   margin-right: 1rem;
 }
+
+
+
 nav ul li{  /* dejando las secciones del header en linea */
   display: inline-block;
   line-height: 4.6rem; /* con esto se centran en el navegador de forma vertical, se le debe poner el height total del navegador*/
@@ -311,10 +314,10 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
       transition: all 0.7s; /* tiempo */
   }
   
-  nav ul li{ 
+  nav ul li{   /* controlar el espaciado de las secciones en el menu responsivo */
       display: block; /* con esto los elementos se pondran en bloque uno arriba del otro */
-      margin: 3rem 0rem 0rem 0rem; /* arriba abajo 50px. 0 a los costados */
-      line-height: 2.5rem; /*orden vertical */
+      margin: 2rem 0rem 0rem 0rem; 
+      line-height: 1.2rem; /*orden vertical */
   }
  #acercaDe{
     margin-bottom: 5rem;
@@ -323,6 +326,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
       font-size: 1rem; 
       color: rgba(255, 255, 255, 1);
       letter-spacing: 0.2rem;
+
   }
  
   .activePage{ /* Se desactiva la activePage */
@@ -376,6 +380,41 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 }
 
 
+
+
+/* controlar responsive altura maxima menu resposivo, la separacion de las secciones dependiendo la altura del dispositivo */
+@media screen and (max-height: 700px){
+  nav ul li{   
+    margin: 1.5rem 0rem 0rem 0rem; 
+    line-height: 1.2rem; 
+}
+}
+@media screen and (max-height: 600px){
+  nav ul li{   
+    margin: 1.2rem 0rem 0rem 0rem; 
+    line-height: 1rem; 
+} 
+}
+@media screen and (max-height: 500px){
+  nav ul li{   
+    margin: 1rem 0rem 0rem 0rem; 
+    line-height: 0.8rem; 
+} 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Se busca que los efecto hover unicamente funcionen en dispositivos con mouse y No en dispositivos tactiles */
 @media (pointer: fine) {
   li a:hover {     
@@ -388,6 +427,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
     scale: 1.05;
   }
+  
   .palabra:hover{
     transform: scale(1.05);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
@@ -400,4 +440,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
     background-color: #f1f1f1;
     font-size: 1.03rem;
   }
+ 
+ 
+  
 }

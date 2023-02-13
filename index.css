@@ -54,8 +54,8 @@ li{
 
 .titulo{ /* oracion que se genera dinamicamente al hacerle click cambia */
    font-weight: bolder;
-   cursor: pointer;
    margin-bottom: 0.2rem;
+   cursor: pointer;  
   
  }
 
@@ -78,6 +78,7 @@ li{
   padding: 0.3rem;
   border: 1px solid black;
   cursor: pointer;
+  
 }
 
 
@@ -121,19 +122,6 @@ a.gramatica {
 
 
 
- 
-/* Estilos para el modo oscuro */
-  
-
-
-
-
- /* Estilos para el modo claro, no fue necesario usarlo, ya que al quitar el dark mode, los valores vuelven por defecto... */
- /* .light-mode{
-   background-color: white;
-   color: black;
- }
-  */
 
 
 @media screen and (max-width: 1000px) { /* en celulares se expande al 96% el texto del contenedor */
