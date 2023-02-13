@@ -94,10 +94,12 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 .seccion1{ /* Seccion del boton cambiar idioma y texto */
   position: relative; /* necesario el position relatie para la posicion absoluta del boton */
-  background-color: white;
   width: 80%;
   min-height: 10vh;
   margin: 0.5rem auto;
+  padding: 0.5rem;
+  background-color: white;
+  box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
 }
 #contenedorParrafo{
  /*  border: 2px solid black; */
@@ -147,7 +149,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
   cursor: pointer;
   border: 1px solid black;
   border-radius: 5%;
-  top: 2.5rem;
+  top: 3rem;
   /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); */
   transition: all 0.5s ease;  /* el efecto hover que tendra sera mas suave */
 }
@@ -159,6 +161,9 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
   width: 80%;
   margin: 1rem auto 4rem auto;
   /* border: 1px solid black; */
+  padding: 0.5rem;
+  background-color: white;
+  box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.2);
 }
 
 .palabra{ /* palabras generadas en ingles */
@@ -233,12 +238,14 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 
-/* Estilos para el modo oscuro */
+/* Estilos para el modo oscuro */  
 .dark-mode{
   background-color: #121212;
   color:white}
 .dark-mode nav ul li a{
   color: white;}
+.dark-mode .contenedorPalabras{
+  background-color: #181818}
 .dark-mode nav{
   background-color: #111010}
 .dark-mode .seccion1{

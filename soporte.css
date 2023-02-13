@@ -1,0 +1,72 @@
+#iframeid {
+  width: 100%;
+  height: 1100px;
+  /* border: 2px solid black; */
+  margin: 50px auto;
+  /* box-shadow: 5px 5px 5px #888888; */
+}
+
+#iframePadre{
+  width: 80%;
+  margin: 1rem auto;
+
+  padding: 0.5rem;
+  background-color: white;
+  box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+}
+
+
+
+#titleQuestion{
+  margin: 1rem 0;
+}
+
+.containerPreguntas{
+  width: 80%;
+  margin: 1rem auto;
+  padding: 30px;
+  padding: 0.5rem;
+  background-color: white;
+  box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+}
+
+
+.preguntas{
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  
+}
+
+.preguntas h3::before { /* usado para poner un "icono" de listado */
+  content: "\27aa";
+  font-size: 20px;
+  margin-right: 10px;
+  color: #333;
+}
+
+
+
+.respuestas{
+  list-style-type: none;
+  display: none;
+}
+.respuestas li{
+  list-style:inside;
+}
+
+
+
+@media screen and (max-width: 1000px) { /* en celulares se expande al 96% los contenedores */
+
+  #iframePadre{
+    width: 96%;
+  }
+
+  .containerPreguntas{
+    width: 96%;
+  }
+}
+

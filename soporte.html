@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idioma Unido</title>
+
+    <!-- AGREGAR ETIQUETA META DE DESCRIPCION -->
+
+    <link rel="stylesheet" href="comunes.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="soporte.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+     <!-- https://fontawesome.com/icons?d=gallery&s=solid&m=free -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+
+
+
+<body class="light-mode">
+ 
+    <header>
+        <nav>
+        
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn"> <!-- label asociado al input for = id -->
+                <span class="material-symbols-outlined">
+                    menu
+                </span>
+            </label>
+
+
+            <a href="index.html" class="enlace"> <!-- logo de la pagina -->
+                <img src="logo.png" alt="logo" class="logo">
+            </a>
+
+
+            <ul id="header">    
+                <li ><a href="index.html">Inicio</a> </li>
+                <li ><a href="comunes.html">Comunes</a> </li>
+
+                <div class="dropdown"> 
+                    <li><a class="dropdown-btn" href="#">Verbos</a></li>
+                    <div class="dropdown-content">
+                        <a href="verbos.html">Presente</a>
+                        <a href="verbosGerundio.html">Gerundio</a>
+                        <a href="verbosPasado.html">Pasado</a>
+                        <a href="verbosParticipio.html">Participio</a>
+                    </div>
+                </div>
+
+                <li><a href="sustantivos.html">Sustantivos</a></li>
+                <li><a href="adjetivos.html">Adjetivos</a></li>
+                <li><a href="preposiciones.html">Preposiciones</a></li>
+                <li ><a href="conectores.html">Conectores</a></li>
+                <li><a href="adverbios.html">Adverbios</a></li>      
+                <li ><a href="frases.html">Frases</a></li>          
+                <li class="activePage" > <a href="Soporte.html">Soporte</a>  </li>      
+
+            </ul>
+        </nav>
+    </header>
+
+
+    <div class="linea-horizontal"></div>
+
+
+    <main>
+        
+        <section class="seccion1">
+            <h1>Acerca de IdiomaUnido</h1>
+            <p>IdiomaUnido es una plataforma en línea dedicada a ayudar a las personas a aprender inglés de manera efectiva. Desde su creación en 2018, nuestro objetivo ha sido brindar una experiencia de aprendizaje en línea accesible y emocionante para todos aquellos interesados en mejorar su inglés.</p>
+            <p>El fundador de IdiomaUnido, John Doe, es un apasionado del aprendizaje de idiomas y un entusiasta de la tecnología. Después de pasar años viajando y aprendiendo idiomas en el extranjero, John decidió combinar su amor por los idiomas con su experiencia en tecnología para crear una plataforma que ayudara a las personas a aprender inglés de manera más eficiente. </p>
+            <h2>Nuestro equipo está compuesto por expertos en el aprendizaje de idiomas y en tecnología, quienes trabajan juntos para crear una experiencia de usuario única y enriquecedora. </h2>
+            <p>Si tienes alguna pregunta o sugerencia sobre IdiomaUnido, por favor no dudes en ponerte en contacto con nosotros. Estaremos encantados de ayudarte. Puedes enviarnos un correo electrónico a info@idiomaunido.com o llamarnos al número 555-555-5555. </p>
+            <p>Gracias por visitar IdiomaUnido y esperamos que disfrutes de tu experiencia de aprendizaje con nosotros. ¡Buena suerte en tu camino hacia el dominio del inglés!</p>
+
+            <button id="dark-mode-button">
+                <span class="material-symbols-outlined" id="darkIcon">
+                    dark_mode
+                </span>
+            </button>   
+
+        </section>
+
+
+        
+        <section>
+            
+          
+            <div class="containerPreguntas">
+                
+                <div>
+                    <h2 id="titleQuestion">Preguntas frencuentes</h2>
+                </div>  
+                
+
+                <div class="preguntas">
+                  <h3>¿Por qué no se escucha la traducción?</h3>  
+                </div>
+                <ul class="respuestas">
+                  <li style="list-style: none;">Por favor, activa el icono de sonido en la parte superior derecha de la página web y asegúrate de que tu dispositivo tenga el volumen adecuado antes de hacer clic en las palabras y escuchar su traducción.</li>
+                </ul>
+              
+
+                <div class="preguntas">
+                  <h3>Ya he activado el icono de sonido y mi dispositivo tiene el volumen adecuado, pero la traducción no se escucha en inglés o no se escucha correctamente.</h3>            
+                </div>
+                <ul class="respuestas">
+                  <li style="list-style: none;">Para generar la voz en la traducción, utilizamos el sintetizador de voz que tengas en tu propio dispositivo. Si no se emite audio o no se emite en inglés, deberás activar la síntesis de voz en inglés en tu dispositivo siguiendo la siguiente ruta:</li>
+                    
+                    <div class="preguntas">
+                        <h2>En android</h2>
+                    </div>
+                    <ul class="respuestas">
+                        <li>Vaya a "Ajustes" y seleccione "Idioma y teclado".</li>
+                        <li>Seleccione "Voz y síntesis de texto".</li>
+                        <li>Seleccione "Voz" y busque una voz en inglés (Estados Unidos).</li>
+                        <li>Seleccione la voz en inglés deseada y configure como predeterminada.</li>
+                    </ul>
+
+                    <div class="preguntas">
+                        <h2>En iOS</h2>
+                    </div>
+                    <ul class="respuestas">
+                        <li>Vaya a "Ajustes" y seleccione "General".</li>
+                        <li>Seleccione "Accesibilidad".</li>
+                        <li>Seleccione "Voz".</li>
+                        <li>Seleccione "Voz de síntesis de texto" y busque una voz en inglés (Estados Unidos).</li>
+                        <li>Seleccione la voz en inglés deseada y configure como predeterminada.</li>
+                    </ul>
+
+                    <div class="preguntas">
+                        <h2>En Windows</h2>
+                    </div>
+                    <ul class="respuestas">
+                        <li>Vaya a "Inicio" y seleccione "Configuración".</li>
+                        <li>Seleccione "Sistema".</li>
+                        <li>Seleccione "Voz".</li>
+                        <li>Seleccione una voz en inglés (Estados Unidos) y configure como predeterminada.</li>
+                    </ul>
+
+                    <div class="preguntas">
+                        <h2>En macOS</h2>
+                    </div>
+                    <ul class="respuestas">
+                        <li>Vaya al menú "Apple" y seleccione "Preferencias del Sistema".</li>
+                        <li>Seleccione "Accesibilidad".</li>
+                        <li>Seleccione "Voz".</li>
+                        <li>Seleccione "Voz de síntesis de texto" y busque una voz en inglés (Estados Unidos).</li>
+                        <li>Seleccione la voz en inglés deseada y configure como predeterminada.</li>
+                    </ul>
+
+
+                    <li style="list-style: none; font-style: italic;">Es posible que los pasos varíen ligeramente dependiendo de la versión del sistema operativo y del modelo y marca de teléfono o computadora. Se recomienda consultar la documentación del dispositivo para obtener instrucciones más detalladas sobre cómo activar la síntesis de voz en inglés.</li>
+
+                </ul>
+              
+
+
+
+                <div class="preguntas">
+                  <h3>Pregunta 3</h3>
+                  
+                </div>
+                <ul class="respuestas">
+                  <li>respuestas 3.1</li>
+                  <li>respuestas 3.2</li>
+                </ul>
+            </div>
+             
+        </section>
+
+
+
+        <section id="iframePadre">
+
+            <iframe id="iframeid" src="https://docs.google.com/forms/d/e/1FAIpQLSflMP-v-4OMlwNvxEdbcXo9-He0IHdYhPcX4G0_n88dafao7g/viewform?embedded=true" width="640" height="925" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>        </section>
+   
+        </section>    
+
+
+
+
+
+
+        
+    </main> 
+
+    <div class="linea-horizontal"></div>
+
+    <footer class="containerFooter">
+       <p id="footer"> "¡Espero que disfrutes de su estadía, gracias por visitarnos!. Página web creada por Alonso Miranda M. "</p>
+    </footer>
+
+
+   
+    <!-- Btn para regresar al incio de la pagina -->
+    <button onclick="topFunction()" id="myBtn" title="Go to top"></button>
+        
+
+
+<script src="soporte.js"></script>
+
+    
+   
+</body>
+</html>
