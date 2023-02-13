@@ -43,12 +43,6 @@ function topFunction() { /* usada unicamente para que el desplazamiento hacia la
 
 
 
-
-
-
-
-
-
 /* DARK MODE */
 document.getElementById('dark-mode-button').addEventListener('click', function() {
   // Obtener la clase actual del elemento body
@@ -84,6 +78,7 @@ function colorTitulos(){
 });
 
 }
+
 
 
 
@@ -128,3 +123,5 @@ preguntas.forEach(pregunta => {
     }
   });
 });
+
+

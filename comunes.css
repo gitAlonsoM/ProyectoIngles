@@ -300,7 +300,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
       display: block;
   }
 
-  ul{  /* con esto las secciones del menu se mostraran abarcando casi toda la pantalla */
+  nav ul{  /* con esto las secciones del menu se mostraran abarcando casi toda la pantalla */
       position: fixed; /*fijado */
       z-index: 1;
       width: 100%;
