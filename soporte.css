@@ -21,6 +21,16 @@
   margin: 1rem 0;
 }
 
+.containerNosotros{
+  width: 94%;
+}
+.textoNosotros:before { /* usado para poner un "icono" de listado */
+  content: "\25aa";
+  font-size: 20px;
+  margin-right: 10px;
+  color: #333;
+}
+
 .containerPreguntas{
   width: 80%;
   margin: 1rem auto;

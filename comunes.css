@@ -259,6 +259,26 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
   border-bottom: 1px solid white;}
 .dark-mode .checkbtn .material-symbols-outlined {
   color: white; /* tamaño icono menu */}
+.dark-mode #presentacion1, .dark-mode #presentacion2{
+  color: white;}    
+.dark-mode .contenedorOraciones{
+  background-color: rgb(31, 30, 30);}
+.dark-mode .footer{
+  background-color: rgb(31, 30, 30);}
+.dark-mode .gramatica{
+  color: white;} 
+.dark-mode .oraciones {
+  color: white; /* tamaño icono menu */}
+.dark-mode .textoNosotros:before{
+  color: white;} 
+.dark-mode .preguntas h3::before{
+  color: white;} 
+.dark-mode #iframePadre {
+  background-color: #181818}
+.dark-mode .containerPreguntas {
+  background-color: #181818}
+.dark-mode .intro{
+  background-color: #181818}
 
 /* Estilos para el modo claro, no fue necesario usarlo, ya que al quitar el dark mode, los valores vuelven por defecto... */
 /* .light-mode{
@@ -266,7 +286,6 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
   color: black;
 }
  */
-
 
 
 

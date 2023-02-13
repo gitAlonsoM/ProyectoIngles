@@ -123,41 +123,11 @@ a.gramatica {
 
  
 /* Estilos para el modo oscuro */
-.dark-mode{
-   background-color: #121212;
-   color:white}
-  .dark-mode #presentacion1, .dark-mode #presentacion2{
-    color: white;}
- .dark-mode nav ul li a{
-   color: white;}
- .dark-mode nav{
-   background-color: #111010}
- .dark-mode .intro{
-   background-color: #181818}
- .dark-mode .palabra{
-   border: 1px solid white;
-   background-color: #555;}
-  .dark-mode #iframePadre {
-    background-color: #181818}
-  .dark-mode .containerPreguntas {
-    background-color: #181818}
- .dark-mode .palabra.click{
-   background-color: white;}
- .dark-mode .linea-horizontal{
-   border-bottom: 1px solid white;}
- .dark-mode .checkbtn .material-symbols-outlined {
-   color: white; /* tamaño icono menu */}
-.dark-mode .oraciones {
-      color: white; /* tamaño icono menu */}
-.dark-mode .contenedorOraciones{
-  background-color: rgb(31, 30, 30);}
-.dark-mode .seccion1{
-  background-color: rgb(31, 30, 30);}
-.dark-mode .footer{
-  background-color: rgb(31, 30, 30);}
-.dark-mode .gramatica{
-  color: white;
-} 
+  
+
+
+
+
  /* Estilos para el modo claro, no fue necesario usarlo, ya que al quitar el dark mode, los valores vuelven por defecto... */
  /* .light-mode{
    background-color: white;
