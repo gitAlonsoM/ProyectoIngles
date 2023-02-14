@@ -681,7 +681,172 @@
                         {
                         "ingles": "I enjoy reading.",
                         "español": ["Me gusta leer."]
-                        }
+                        },
+
+                        {
+                        "ingles": "Can you speak English?",
+                        "español": ["¿Puedes hablar inglés?"]
+                        },
+                        {
+                        "ingles": "Yes, I can speak English fluently.",
+                        "español": ["Sí, puedo hablar inglés con fluidez."]
+                        },
+                        {
+                        "ingles": "Can you tell me about yourself?",
+                        "español": ["¿Me puedes hablar sobre ti mismo?"]
+                        },
+                        {
+                        "ingles": "Why did you leave your last job?",
+                        "español": ["¿Por qué dejaste tu último trabajo?"]
+                        },
+                        {
+                        "ingles": "I resigned for personal reasons",
+                        "español": ["Renuncié por razones personales."]
+                        },
+                        {
+                        "ingles": "What are your greatest strengths?",
+                        "español": ["¿Cuáles son tus mayores fortalezas?"]
+                        },
+                        {
+                        "ingles": "What are your weaknesses?",
+                        "español": ["¿Cuáles son tus debilidades?"]
+                        },
+                        {
+                        "ingles": "Where is the nearest pharmacy?",
+                        "español": ["¿Dónde está la farmacia más cercana?"]
+                        },
+                        {
+                        "ingles": "Two blocks away.",
+                        "español": ["A dos cuadras de aquí."]
+                        },
+                        {
+                        "ingles": "How much is this?",
+                        "español": ["¿Cuánto cuesta esto?"]
+                        },
+                        {
+                        "ingles": "Can you help me find a hotel?",
+                        "español": ["¿Me puede ayudar a encontrar un hotel?"]
+                        },
+                        {
+                        "ingles": "Where is the bathroom?",
+                        "español": ["¿Dónde está el baño?"]
+                        },
+                        {
+                            "ingles": "What time does the store open and close?",
+                            "español": ["¿A qué hora abre y cierra la tienda?"]
+                            },
+                            {
+                            "ingles": "The store opens at 9 AM and closes at 6 PM.",
+                            "español": ["La tienda abre a las 9 AM y cierra a las 6 PM."]
+                            },
+                            {
+                            "ingles": "How much does the bus cost to downtown?",
+                            "español": ["¿Cuánto cuesta el autobús para el centro de la ciudad?"]
+                            },
+                            {
+                            "ingles": "The bus fare to downtown is $2 per trip",
+                            "español": ["El precio del autobús para el centro de la ciudad es de $2 por viaje."]
+                            },
+                            {
+                            "ingles": "Take it easy.",
+                            "español": ["Tómalo con calma."]
+                            },
+                            {
+                            "ingles": "No way.",
+                            "español": ["De ninguna manera."]
+                            },
+                            {
+                            "ingles": "It's a deal.",
+                            "español": ["Está hecho."]
+                            },
+                            {
+                            "ingles": "That's enough.",
+                            "español": ["Eso es suficiente."]
+                            },
+                            {
+                            "ingles": "Let's do it.",
+                            "español": ["Hagámoslo."]
+                            },
+                            {
+                            "ingles": "Let's roll.",
+                            "español": ["Vamos a ello."]
+                            },
+                            {
+                            "ingles": "You're kidding me.",
+                            "español": ["Me estás tomando el pelo."]
+                            },
+                            {
+                                "ingles": "What is your favorite book?",
+                                "español": ["¿Cuál es tu libro favorito?"]
+                                },
+                                {
+                                "ingles": "My favorite book is 'To Kill a Mockingbird.'",
+                                "español": ["Mi libro favorito es 'Matar a un ruiseñor.'" ]
+                                },
+                                {
+                                "ingles": "Do you like to travel?",
+                                "español": ["¿Te gusta viajar?"]
+                                },
+                                {
+                                "ingles": "Yes, I do.",
+                                "español": ["Sí, lo hago."]
+                                },
+                                {
+                                "ingles": "Do you have any hobbies?",
+                                "español": ["¿Tienes algún pasatiempo?"]
+                                },
+                                {
+                                "ingles": "I enjoy reading.",
+                                "español": ["Me gusta leer."]
+                                },
+                                {
+                                "ingles": "It's a small world.",
+                                "español": ["Es un mundo pequeño."]
+                                },
+                                {
+                                "ingles": "Don't give up.",
+                                "español": ["No te rindas."]
+                                },
+                                {
+                                "ingles": "Take your time.",
+                                "español": ["Tómate tu tiempo."]
+                                },
+                                {
+                                "ingles": "Let's get started.",
+                                "español": ["Empecemos."]
+                                },
+                                {
+                                "ingles": "I'm on it.",
+                                "español": ["Estoy en ello."]
+                                },
+                                {
+                                "ingles": "It's all good.",
+                                "español": ["Todo está bien."]
+                                },
+                                {
+                                "ingles": "Don't worry.",
+                                "español": ["No te preocupes."]
+                                },
+                                {
+                                "ingles": "Get out of here",
+                                "español": ["Sal de aquí"]
+                                },
+                                {
+                                "ingles": "Get on with it",
+                                "español": ["Continúa con eso"]
+                                },
+                                {
+                                "ingles": "Let's get together later.",
+                                "español": ["Vamos a juntarnos más tarde."]
+                                },
+                                {
+                                "ingles": "Can you get the door?",
+                                "español": ["¿Puedes abrir la puerta?"]
+                                },
+                                {
+                                "ingles": "I have to get my car fixed.",
+                                "español": ["Tengo que arreglar mi auto."]
+                                }
      ]
 
 

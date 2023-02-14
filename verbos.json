@@ -10,7 +10,7 @@
     },
     {
     "ingles": "say",
-    "español": ["decir (lo que alguien ha dicho)"]
+    "español": ["decir"]
     },
     {
     "ingles": "get",
@@ -84,7 +84,7 @@
     },
     {
     "ingles": "tell",
-    "español": ["decir (comunicar algo directamente)"]
+    "español": ["decir"]
     },
     {
     "ingles": "work",
