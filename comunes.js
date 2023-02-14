@@ -40,7 +40,7 @@ let idiomaActual = "español"; // Asignamos el idioma actual
       botonCambiarIdioma.textContent = "Español";
     } else {
       idiomaActual = "ingles";
-      botonCambiarIdioma.textContent = "Ingles";
+      botonCambiarIdioma.textContent = "Inglés";
     }
     // Borra todos los elementos actuales del contenedorPalabras
     contenedorPalabras.textContent = "";

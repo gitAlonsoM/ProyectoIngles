@@ -294,7 +294,7 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 /* aca se hace el responsive para pantallas inferiores a 1400px */
-@media (max-width: 1425px){
+@media (max-width: 1530px){
 
   .checkbtn{ /* el icono menu se muestra al cambiar su display de none a block */
       display: block;
@@ -383,33 +383,32 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 /* controlar responsive altura maxima menu resposivo, la separacion de las secciones dependiendo la altura del dispositivo */
+
+@media screen and (max-height: 750px){
+  nav ul li{   
+    margin: 1.8rem 0rem 0rem 0rem; 
+    line-height: 1.2rem; 
+}}
 @media screen and (max-height: 700px){
   nav ul li{   
     margin: 1.5rem 0rem 0rem 0rem; 
     line-height: 1.2rem; 
-}
-}
+}}
+@media screen and (max-height: 650px){
+  nav ul li{   
+    margin: 1.3rem 0rem 0rem 0rem; 
+    line-height: 1.1rem; 
+}}
 @media screen and (max-height: 600px){
   nav ul li{   
     margin: 1.2rem 0rem 0rem 0rem; 
     line-height: 1rem; 
-} 
-}
+}}
 @media screen and (max-height: 500px){
   nav ul li{   
     margin: 1rem 0rem 0rem 0rem; 
     line-height: 0.8rem; 
-} 
-}
-
-
-
-
-
-
-
-
-
+}}
 
 
 
