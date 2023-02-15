@@ -25,14 +25,14 @@ const seccion1 = document.querySelector(".seccion1")
 let idiomaActual = "español"; // Asignamos el idioma actual
 
 
-  //boton para cambiar el idioma
-  let botonCambiarIdioma = document.createElement("button");
-  botonCambiarIdioma.textContent = "Español";
-  botonCambiarIdioma.id= "botonCambiarIdioma-id"
-  seccion1.appendChild(botonCambiarIdioma);
+//boton para cambiar el idioma
+let botonCambiarIdioma = document.createElement("button");
+botonCambiarIdioma.textContent = "Español";
+botonCambiarIdioma.id= "botonCambiarIdioma-id"
+seccion1.appendChild(botonCambiarIdioma);
 
 
-  botonCambiarIdioma.addEventListener("click", ()=> {
+botonCambiarIdioma.addEventListener("click", ()=> {
     // Cambia el valor de idiomaActual a "español" o "ingles" según corresponda
     
     if (idiomaActual === "ingles") {
@@ -46,12 +46,11 @@ let idiomaActual = "español"; // Asignamos el idioma actual
     contenedorPalabras.textContent = "";
     // Vuelve a llamar a la función pintarCards con los datos actualizados
     pintarCards(data, idiomaActual);
-  });
+});
 
 
 
 /* Usado para activar o desactivar el audio desde el usuario */
-
 let audioEnabled = false; //Variable global que indica si el audio está habilitado o no
 const toggleAudioButton = document.getElementById("toggle-audio-button"); 
 
@@ -64,7 +63,6 @@ toggleAudioButton.addEventListener("click", () => {
     audio.textContent = "volume_off";
   }
 });
-
 
 
 let englishVoice = null; //necesario declarla globalmente vacia para que luego se le asigne un valor con la voz encontrada
@@ -98,8 +96,10 @@ function speak(text) {
 
 
 
+/* Creacion de fragment para evitar reflow del for, todas las palabras se agregaran al fragment y luego el fragmente se agregara al "contenedorPalabras"*/
+const fragmentX = document.createDocumentFragment()
 
-//Función principal para pintar todas las palabras desde json
+//Función principal para pintar todas las palabras desde json en "contenedorPalabras" de html
 pintarCards = (data, idiomaActual) => { 
   for (let i = 0; i < data.length; i++) {
 
@@ -126,9 +126,11 @@ pintarCards = (data, idiomaActual) => {
       speak(data[i].ingles); //llamado a la funcion para generar el audio en la palabra concreta a la que se clickea
     });
 
-    contenedorPalabras.appendChild(palabra); 
+    fragmentX.appendChild(palabra);  //se agregan las palabras en el fragment
   }
+  contenedorPalabras.appendChild(fragmentX); //finalmente se agrega el fragment a contenedor palabras
 };
+
 
 
 /* Usado para generar el menu responsivo */

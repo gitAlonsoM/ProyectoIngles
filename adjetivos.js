@@ -96,11 +96,6 @@ function speak(text) {
 
 
 
-
-/* SI FUNCIONA, REPLICAR EL CODIGO EN EL RESTO.... */
-
-
-
 /* Creacion de fragment para evitar reflow del for, todas las palabras se agregaran al fragment y luego el fragmente se agregara al "contenedorPalabras"*/
 const fragmentX = document.createDocumentFragment()
 
@@ -135,14 +130,6 @@ pintarCards = (data, idiomaActual) => {
   }
   contenedorPalabras.appendChild(fragmentX); //finalmente se agrega el fragment a contenedor palabras
 };
-
-
-
-
-
-
-
-
 
 
 
@@ -223,7 +210,9 @@ document.querySelector(".dropdown-btn").addEventListener("click", function(e) {
     dropdownContent.style.display = "block";
   }
 });
-/* AL HACER CLICK FUERA DEL MENU, ESTE SE CIERRA */
+
+
+/* AL HACER CLICK FUERA DEL del menu de verbos (presente, pasado,etc), ESTE SE CIERRA */
 document.querySelector("body").addEventListener("click", function(e) {
   // Si el elemento clicado no es el mismo que el elemento "dropdown-btn" ni un descendiente del mismo
   if (!e.target.closest(".dropdown-btn")) {

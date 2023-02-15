@@ -562,6 +562,75 @@
             {
             "ingles": "there",
             "español": ["allí" , "ahí"]
+            },
+            {
+              "ingles": "little",
+              "espanol": ["pequeño"]
+            },
+            {
+              "ingles": "own",
+              "espanol": ["propio"]
+            },
+            {
+              "ingles": "same",
+              "espanol": ["igual"]
+            },
+            {
+              "ingles": "end",
+              "espanol": ["final"]
+            },
+            {
+              "ingles": "different",
+              "espanol": ["diferente"]
+            },
+            {
+              "ingles": "high",
+              "espanol": ["alto"]
+            },
+            {
+              "ingles": "old",
+              "espanol": ["viejo"]
+            },
+            {
+              "ingles": "large",
+              "espanol": ["grande"]
+            },
+            {
+              "ingles": "next",
+              "espanol": ["siguiente"]
+            },
+            {
+              "ingles": "feel",
+              "espanol": ["sentir"]
+            },
+            {
+              "ingles": "right",
+              "espanol": ["correcto"]
+            },
+            {
+              "ingles": "few",
+              "espanol": ["pocos"]
+            },
+            {
+              "ingles": "small",
+              "espanol": ["pequeño"]
+            },
+            {
+              "ingles": "last",
+              "espanol": ["último"]
+            },
+            {
+              "ingles": "try",
+              "espanol": ["intentar"]
+            },
+            {
+              "ingles": "group",
+              "espanol": ["grupo"]
+            },
+            {
+              "ingles": "country",
+              "espanol": ["país"]
             }
+            
               
         ]

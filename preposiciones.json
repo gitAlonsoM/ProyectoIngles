@@ -321,8 +321,131 @@
         {
             "ingles": "than",
             "español": ["más que"]
-            }
-
+            },
+            {
+                "ingles": "aboard",
+                "español": ["a bordo"]
+                },
+                {
+                "ingles": "amid",
+                "español": ["en medio de"]
+                },
+                {
+                "ingles": "as far as",
+                "español": ["tan lejos como"]
+                },
+                {
+                "ingles": "on account of",
+                "español": ["debido a"]
+                },
+                {
+                "ingles": "round",
+                "español": ["alrededor de"]
+                },
+                {
+                "ingles": "unlike",
+                "español": ["a diferencia de"]
+                },
+                {
+                "ingles": "with regard to",
+                "español": ["con respecto a"]
+                },
+                {
+                "ingles": "considering",
+                "español": ["considerando"]
+                },
+                {
+                "ingles": "except",
+                "español": ["excepto"]
+                },
+                {
+                "ingles": "following",
+                "español": ["siguiente", "después de"]
+                },
+                {
+                "ingles": "regarding",
+                "español": ["con respecto a", "en relación con"]
+                },
+                {
+                "ingles": "according to",
+                "español": ["según"]
+                },
+                {
+                "ingles": "ahead of",
+                "español": ["delante de"]
+                },
+                {
+                "ingles": "along with",
+                "español": ["junto con"]
+                },
+                {
+                "ingles": "apart from",
+                "español": ["aparte de"]
+                },
+                {
+                "ingles": "aside from",
+                "español": ["aparte de"]
+                },
+                {
+                "ingles": "away of",
+                "español": ["lejos de"]
+                },
+                {
+                "ingles": "by means of",
+                "español": ["por medio de"]
+                },
+                {
+                "ingles": "due to",
+                "español": ["debido a"]
+                },
+                {
+                "ingles": "except for",
+                "español": ["excepto por"]
+                },
+                {
+                "ingles": "in accordance with",
+                "español": ["de acuerdo con"]
+                },
+                {
+                "ingles": "in addition to",
+                "español": ["además de"]
+                },
+                {
+                "ingles": "in case of",
+                "español": ["en caso de"]
+                },
+                {
+                "ingles": "in place of",
+                "español": ["en lugar de"]
+                },
+                {
+                "ingles": "in spite of",
+                "español": ["a pesar de"]
+                },
+                {
+                "ingles": "inside of",
+                "español": ["dentro de"]
+                },
+                {
+                "ingles": "instead of",
+                "español": ["en lugar de"]
+                },
+                {
+                "ingles": "near to",
+                "español": ["cerca de"]
+                },
+                {
+                "ingles": "next to",
+                "español": ["junto a"]
+                },
+                {
+                "ingles": "opposite of",
+                "español": ["enfrente de"]
+                },
+                {
+                "ingles": "prior to",
+                "español": ["antes de"]
+                }
 
     ]
 
