@@ -10,7 +10,7 @@ html {
    margin: 0.5rem 0;  
    font-weight: bold;
    font-size: 1.1rem;
-   text-transform: uppercase;
+   /* text-transform: uppercase; */
   color: rgb(8, 18, 18);
   font-family:Georgia, 'Times New Roman', Times, serif;
  
@@ -104,14 +104,14 @@ li{
 
 #tituloPagina1{
   font-weight: bold;
-  color: blue;
+  color: RGB(82, 113, 255);
   font-size: 1.1rem;
   font-family:Georgia, 'Times New Roman', Times, serif;
   
 }
 #tituloPagina2{
   font-weight: bold;
-  color: blue;
+  color:RGB(82, 113, 255);
   
 }
 

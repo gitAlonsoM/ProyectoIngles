@@ -658,6 +658,10 @@
             {
             "ingles": "hunted",
             "español": ["cazó", "buscó"]
+            },
+            {
+                "ingles": "began",
+                "español": ["empezó", "comenzó"]
             }
         
 ]

@@ -28,10 +28,10 @@ nav{ /*  Contenedor de todo el header, se le debe entregar las medidas */
  /*  border: 2px solid black; */
 }
 .enlace .logo{ /* logo en si de la pagina */
-  height: 6.5rem;   
-  width: 8rem;
+  height: 10rem;   
+  width: 10rem;
   position: relative;
-  top: -2rem;
+  top: -3.8rem;
   left: 2rem;
 }
 

@@ -711,7 +711,11 @@
                 {
                 "ingles": "hunt",
                 "español": ["cazar", "buscar"]
-                }
+                },
+                {
+                  "ingles": "begin",
+                  "español": ["empezar", "comenzar"]
+              }
 ]
 
           

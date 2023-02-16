@@ -663,5 +663,10 @@
                                     {
                                     "ingles": "hunted",
                                     "español": ["cazado", "buscado"]
+                                    },
+                                    {
+                                        "ingles": "begun",
+                                        "español": ["empezado", "comenzado"]
                                     }
+                                    
                         ]

@@ -607,5 +607,10 @@
         {
         "ingles": "hunting",
         "español": ["cazando", "buscando"]
+        },
+        {
+            "ingles": "beginning",
+            "español": ["empezando", "comenzando"]
         }
+        
     ]
