@@ -846,7 +846,109 @@
                                 {
                                 "ingles": "I have to get my car fixed.",
                                 "español": ["Tengo que arreglar mi auto."]
-                                }
+                                },
+                                {    "ingles": "Did the food taste good?",    "español": ["¿La comida estaba buena?"]
+  },
+  {
+    "ingles": "Yes, it was delicious.",
+    "español": ["Sí, estaba deliciosa."]
+  },
+  {
+    "ingles": "Did the movie make you cry?",
+    "español": ["¿La película te hizo llorar?"]
+  },
+  {
+    "ingles": "No, it was not that sad.",
+    "español": ["No, no fue tan triste."]
+  },
+  {
+    "ingles": "Did the book interest you?",
+    "español": ["¿Te interesó el libro?"]
+  },
+  {
+    "ingles": "Yes, it was very engaging.",
+    "español": ["Sí, fue muy interesante."]
+  },
+  {
+    "ingles": "Where is the park?",
+    "español": ["¿Dónde está el parque?"]
+  },
+  {
+    "ingles": "Sorry, I don't know.",
+    "español": ["Lo siento, no lo sé."]
+  },
+  {
+    "ingles": "What time is the meeting?",
+    "español": ["¿A qué hora es la reunión?"]
+  },
+  {
+    "ingles": "It starts at 3 PM.",
+    "español": ["Comienza a las 3 de la tarde."]
+  },
+  {
+    "ingles": "What movie did they watch?",
+    "español": ["¿Qué película vieron?"]
+  },
+  {
+    "ingles": "I'm not sure, I wasn't there.",
+    "español": ["No estoy seguro, no estuve allí."]
+  },
+  {
+    "ingles": "What time is the concert?",
+    "español": ["¿A qué hora es el concierto?"]
+  },
+  {
+    "ingles": "It starts at 8 PM.",
+    "español": ["Comienza a las 8 de la noche."]
+  },
+  {
+    "ingles": "Who broke the vase?",
+    "español": ["¿Quién rompió el jarrón?"]
+  },
+  {
+    "ingles": "Who drinks coffee?",
+    "español": ["¿Quién bebe café?"]
+    },
+    {
+    "ingles": "Sarah and Tom both drink coffee.",
+    "español": ["Sarah y Tom ambos beben café."]
+    },
+    {
+    "ingles": "Who helps him?",
+    "español": ["¿Quién le ayuda a él?"]
+    },
+    {
+    "ingles": "He usually does things by himself.",
+    "español": ["Él usualmente hace las cosas solo."]
+    },
+    {
+    "ingles": "Who stole my pen?",
+    "español": ["¿Quién me robó mi pluma?"]
+    },
+    {
+    "ingles": "What inspired them?",
+    "español": ["¿Qué les inspiró?"]
+    },
+    {
+    "ingles": "They were inspired by a famous artist.",
+    "español": ["Se inspiraron en un famoso artista."]
+    },
+    {
+    "ingles": "What caused the problem?",
+    "español": ["¿Qué causó el problema?"]
+    },
+    {
+    "ingles": "What made her angry?",
+    "español": ["¿Qué la hizo enojar?"]
+    },
+    {
+    "ingles": "What is making that noise?",
+    "español": ["¿Qué está haciendo ese ruido?"]
+    },
+    {
+    "ingles": "What brought you to this city?",
+    "español": ["¿Qué te trajo a esta ciudad?"]
+    }
      ]
 
 
