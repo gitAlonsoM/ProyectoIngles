@@ -424,13 +424,18 @@ nav ul li a{  /* cambiando estilo a las palabras en el header o navegador */
 
 
 /* Se busca que los efecto hover unicamente funcionen en dispositivos con mouse y No en dispositivos tactiles */
-@media (pointer: fine) {
-  li a:hover {     
-    font-size: 0.9rem;
-    transition-duration: 1000ms;
+@media (pointer: fine){
+  nav ul li a:hover {     
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
     border-bottom: 1px solid blue;
   }
+
+  nav ul li:hover {
+    transform: scale(1.05);
+    transition-duration: 0.3s;
+  }
+
+
   #botonCambiarIdioma-id:hover, #dark-mode-button:hover, #toggle-audio-button:hover{
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
     scale: 1.05;
