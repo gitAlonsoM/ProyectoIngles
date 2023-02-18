@@ -698,7 +698,11 @@
                                     {
                                     "ingles": "less",
                                     "español": ["menos"]
-                                    }
+                                    },
+                                    {
+                                        "ingles": "able",
+                                        "español": ["capaz", "habil"]
+                                        }
                              
 ]
 
