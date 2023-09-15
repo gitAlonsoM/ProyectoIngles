@@ -1,0 +1,106 @@
+[
+
+  {
+    "ingles": "the most",
+    "español": ["el/la/los/las más"]
+  },
+  {
+    "ingles": "the least",
+    "español": ["el/la/los/las menos"]
+  },
+  {
+    "ingles": "fastest",
+    "español": ["el más rapido"]
+  },
+  {
+    "ingles": "slowest",
+    "español": ["el más lento"]
+  },
+  {
+    "ingles": "softest",
+    "español": ["el más suave"]
+  },
+  {
+    "ingles": "hardest",
+    "español": ["el más duro"]
+  },
+  {
+    "ingles": "cutest",
+    "español": ["el más bonito"]
+  },
+  {
+    "ingles": "cutest",
+    "español": ["el más sabio"]
+  },
+  {
+    "ingles": "largest",
+    "español": ["el más largo"]
+  },
+  {
+    "ingles": "hottest",
+    "español": ["el más caliente"]
+  },
+  {
+    "ingles": "thinnest",
+    "español": ["el más delgado"]
+  },
+  {
+    "ingles": "biggest",
+    "español": ["el más grande"]
+  },
+  {
+    "ingles": "happiest",
+    "español": ["el más feliz"]
+  },
+  {
+    "ingles": "angriest",
+    "español": ["el más enojado"]
+  },
+  {
+    "ingles": "easiest",
+    "español": ["el más facil"]
+  },
+  {
+    "ingles": "farthest",
+    "español": ["el más lejano"]
+  },
+
+  {
+    "ingles": "best",
+    "español": ["el mejor"]
+  },
+  {
+    "ingles": "worst",
+    "español": ["el peor"]
+  },
+  {
+    "ingles": "least",
+    "español": ["el menos"]
+  },
+ 
+
+
+
+
+
+  {
+    "ingles": "most careful",
+    "español": ["el más cuidadoso"]
+  },
+  {
+    "ingles": "most modern",
+    "español": ["el más moderno"]
+  },
+  {
+    "ingles": "most honest",
+    "español": ["el más honesto"]
+  },
+  {
+    "ingles": "most intelligent",
+    "español": ["el más inteligente"]
+  },
+  {
+    "ingles": "most transparent",
+    "español": ["el más transparente"]
+  }
+]

@@ -3,18 +3,12 @@
     "ingles": "How are you?",
     "español": ["¿Cómo estás?"]
     },
-    {
-    "ingles": "What's up?",
-    "español": ["¿Qué tal?"]
-    },
+    
     {
     "ingles": "I'm fine, thanks",
     "español": ["Estoy bien, gracias"]
     },
-    {
-    "ingles": "How about you?",
-    "español": ["¿Y tú?"]
-    },
+   
     {
     "ingles": "I'm sorry",
     "español": ["Lo siento"]
@@ -31,6 +25,30 @@
     "ingles": "It's nice to see you",
     "español": ["Es agradable verte"]
     },
+    
+    {
+      "ingles": "What's up?",
+      "español": ["¿Qué tal?"]
+      },
+      {
+          "ingles": "What's next?",
+          "español": ["¿Qué sigue?"]
+      },
+  
+      {
+          "ingles": "How about you?",
+          "español": ["¿Y tú?"]
+          },
+          {
+              "ingles": "Hey there",
+              "español": ["Hola"]
+              },
+              {
+                  "ingles": "How's work going?",
+                  "español": ["¿Cómo va el trabajo?"]
+                  },
+  
+  
     {
     "ingles": "Good morning",
     "español": ["Buenos días"]
@@ -55,10 +73,7 @@
     "ingles": "I'm in a rush",
     "español": ["Estoy apurado"]
     },
-    {
-    "ingles": "What's next?",
-    "español": ["¿Qué sigue?"]
-    },
+   
     {
     "ingles": "Excuse me",
     "español": ["Perdón"]
@@ -67,10 +82,7 @@
     "ingles": "Thank you",
     "español": ["Gracias"]
     },
-    {
-    "ingles": "Hey there",
-    "español": ["Hola"]
-    },
+    
     {
     "ingles": "You're welcome",
     "español": ["De nada"]
@@ -115,10 +127,7 @@
         "ingles": "What do you like to do?",
         "español": ["¿Qué te gusta hacer?"]
         },
-        {
-        "ingles": "How's work going?",
-        "español": ["¿Cómo va el trabajo?"]
-        },
+       
         {
         "ingles": "Have a good day",
         "español":["Que tengas un buen día"]
@@ -191,6 +200,7 @@
     "ingles": "What's new?",
     "español": ["¿Qué hay de nuevo?"]
     },
+
     {
     "ingles": "Nothing much",
     "español": ["No demasiado"]

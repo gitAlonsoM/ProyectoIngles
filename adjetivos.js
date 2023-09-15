@@ -223,4 +223,27 @@ document.querySelector("body").addEventListener("click", function(e) {
 
 
 
+//Recorrer el .json y mostrar en consola nombres repetidos.
+fetch('adjetivos.json')
+  .then((response) => response.json())
+  .then((data) => {
+    const nombresEnIngles = new Set();
+    const nombresRepetidos = [];
+
+    data.forEach((element) => {
+      if (nombresEnIngles.has(element.ingles)) {
+        nombresRepetidos.push(element.ingles);
+      } else {
+        nombresEnIngles.add(element.ingles);
+      }
+    });
+
+    if (nombresRepetidos.length > 0) {
+      console.log("Nombres en inglés repetidos:");
+      console.log(nombresRepetidos);
+    } else {
+      console.log("No hay nombres en inglés repetidos.");
+    }
+  })
+  .catch((error) => console.error(error));
 

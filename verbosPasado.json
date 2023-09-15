@@ -13,7 +13,7 @@
     },
     {
     "ingles": "got",
-    "español": ["obtuvo", "consiguió", "captó"]
+    "español": ["obtuvo", "consiguió"]
     },
     {
     "ingles": "made",
@@ -107,7 +107,7 @@
     },
     {
     "ingles": "left",
-    "español": ["dejó"]
+    "español": ["dejó", "se fue"]
     },
     {
     "ingles": "kept",

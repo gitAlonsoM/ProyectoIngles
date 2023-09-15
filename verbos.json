@@ -14,7 +14,7 @@
     },
     {
     "ingles": "get",
-    "español": ["obtener", "conseguir", "captar"]
+    "español": ["obtener"]
     },
     {
     "ingles": "make",
@@ -120,7 +120,7 @@
     },
     {
     "ingles": "let",
-    "español": ["dejar", "permitir", "vamos"]
+    "español": ["dejar", "permitir"]
     },
 
     {

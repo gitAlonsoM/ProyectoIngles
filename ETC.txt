@@ -1,0 +1,93 @@
+
+SE HAN REVISADO LOS ADJETIVOS, ADVERBIOS Y VERBOS EN PRESENTE
+
+
+
+
+=====   ADVERBIOS. ELIMINADOS POR NO USO, REVISAR Y AGREGAR  ==============
+{
+    "ingles": "subsequently",
+    "español": ["posteriormente"]
+    },
+{
+    "ingles": "swiftly",
+    "español": ["rápidamente"]
+    },
+    {
+        "ingles": "meanwhile",
+        "español": ["mientras tanto"]
+        },
+ {
+    "ingles": "not at all",
+    "español": ["para nada"]
+  },
+{
+    "ingles": "somehow",
+    "español": ["de alguna manera"]
+  },
+ {
+    "ingles": "straight",
+    "español": ["recto"]
+  },
+{
+    "ingles": "roughly",
+    "español": ["aproximadamente"]
+  },
+
+
+
+
+
+============= EXPRESIONES ==================
+{
+    "ingles": "how far",
+    "español": ["hasta dónde"]
+  },
+  {
+    "ingles": "how old",
+    "español": ["cuántos años"]
+  },
+
+  {
+    "ingles": "how else",
+    "español": ["de qué otra manera"]
+  },
+
+   {
+    "ingles": "all day",
+    "español": ["todo el día"]
+  },
+
+  {
+    "ingles": "all week",
+    "español": ["toda la semana"]
+  },
+
+
+
+
+
+=============  ADJETIVOS ===============
+  {
+    "ingles": "unfaithful",
+    "español": ["infiel"]
+  },
+  {
+    "ingles": "trustworthy",
+    "español": ["de confianza"]
+  },
+  {
+    "ingles": "untrustworthy",
+    "español": ["poco confiable"]
+  },
+  {
+    "ingles": "unreliable",
+    "español": ["poco fiable"]
+  },
+
+
+
+
+
+
+
