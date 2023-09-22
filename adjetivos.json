@@ -7,7 +7,6 @@
     "ingles": "ugly",
     "español": ["feo", "fea"]
   },
-
   {
     "ingles": "handsome",
     "español": ["guapo", "bonito"]
@@ -66,7 +65,7 @@
   },
   {
     "ingles": "quiet",
-    "español": ["tranquilo"]
+    "español": ["tranquilo", "silencioso"]
   },
   {
     "ingles": "unhappy",
@@ -233,7 +232,11 @@
   },
   {
     "ingles": "disappointed",
-    "español": ["desilusionado"]
+    "español": ["desilusionado", "decepcionado"]
+  },
+  {
+    "ingles": "jealous",
+    "español": ["celoso", "envidioso"]
   },
   {
     "ingles": "pleased",

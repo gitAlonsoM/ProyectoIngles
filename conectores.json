@@ -1,367 +1,346 @@
 [
-    {
-    "ingles": "and",
-    "español": ["y"]
-    },
-    {
-    "ingles": "or",
-    "español": ["o"]
-    },
-    {
-    "ingles": "but",
-    "español": ["pero"]
-    },
-    {
-    "ingles": "so",
-    "español": ["entonces"]
-    },
-    {
-    "ingles": "for",
-    "español": ["porque"]
-    },
-    {
-    "ingles": "nor",
-    "español": ["ni"]
-    },
-    {
-    "ingles": "yet",
-    "español": ["sin embargo, todavia"]
-    },
-    {
-    "ingles": "because",
-    "español": ["porque"]
-    },
-    {
-    "ingles": "since",
-    "español": ["desde que"]
-    },
-    {
-    "ingles": "as",
-    "español": ["como"]
-    },
-    {
-    "ingles": "if",
-    "español": ["si"]
-    },
-    {
-        "ingles": "while",
-        "español": ["mientras"]
-        },
-        {
-        "ingles": "until",
-        "español": ["hasta que"]
-        },
-        {
-        "ingles": "whether",
-        "español": ["si"]
-        },
-        {
-        "ingles": "before",
-        "español": ["antes de"]
-        },
-        {
-        "ingles": "after",
-        "español": ["después de"]
-        },
-        {
-        "ingles": "although",
-        "español": ["aunque"]
-        },
-        {
-        "ingles": "as if",
-        "español": ["como si"]
-        },
-        {
-        "ingles": "as long as",
-        "español": ["mientras"]
-        },
-        {
-        "ingles": "as though",
-        "español": ["como si"]
-        },
-        {
-        "ingles": "even if",
-        "español": ["incluso si"]
-        },
-        {
-        "ingles": "even though",
-        "español": ["aunque"]
-        },
-        {
-        "ingles": "once",
-        "español": ["una vez"]
-        },
-        {
-        "ingles": "rather than",
-        "español": ["en lugar de"]
-        },
-        {
-        "ingles": "unless",
-        "español": ["a menos que"]
-        },
-        {
-        "ingles": "after all",
-        "español": ["después de todo"]
-        },
-        {
-        "ingles": "as well as",
-        "español": ["así como"]
-        },
-        
-    
-    {
-    "ingles": "rather",
-    "español": ["más bien"]
-    },
-    {
-    "ingles": "though",
-    "español": ["aunque"]
-    },
-    {
-    "ingles": "and so",
-    "español": ["y así"]
-    },
-    {
-    "ingles": "despite",
-    "español": ["a pesar de"]
-    },
-    {
+  {
     "ingles": "however",
     "español": ["sin embargo"]
-    },
-    {
+  },
+  {
+    "ingles": "and",
+    "español": ["y"]
+  },
+  {
+    "ingles": "or",
+    "español": ["o"]
+  },
+  {
+    "ingles": "but",
+    "español": ["pero"]
+  },
+  {
+    "ingles": "so",
+    "español": ["entonces", "así que"]
+  },
+  {
+    "ingles": "for",
+    "español": ["para"]
+  },
+  {
+    "ingles": "because",
+    "español": ["porque"]
+  },
+  {
+    "ingles": "since",
+    "español": ["desde"]
+  },
+  {
+    "ingles": "as",
+    "español": ["como"]
+  },
+  {
+    "ingles": "if",
+    "español": ["si"]
+  },
+  {
+    "ingles": "while",
+    "español": ["mientras", "durante"]
+  },
+  {
+    "ingles": "until",
+    "español": ["hasta que"]
+  },
+
+  {
+    "ingles": "before",
+    "español": ["antes de"]
+  },
+  {
+    "ingles": "after",
+    "español": ["después de"]
+  },
+
+  {
+    "ingles": "once",
+    "español": ["una vez"]
+  },
+  {
+    "ingles": "twice",
+    "español": ["dos veces"]
+  },
+  {
+    "ingles": "three times",
+    "español": ["tres veces"]
+  },
+
+{
+
+    "ingles": "then",
+    "español": ["entonces", "luego"]
+  },
+{
+    "ingles": "next",
+    "español": ["siguiente"]
+  },
+  {
+    "ingles": "also",
+    "español": ["también", "además"]
+  },
+  {
+    "ingles": "too",
+    "español": ["también", "demasiado"]
+  },
+{
+    "ingles": "actually",
+    "español": ["en realidad", "de hecho"]
+  },
+  {
+    "ingles": "anyway",
+    "español": ["de todos modos"]
+  },
+
+  {
+    "ingles": "like",
+    "español": ["como"]
+  },
+
+  {
+    "ingles": "still",
+    "español": ["todavía", "aún"]
+  },
+{
+    "ingles": "than",
+    "español": ["que"]
+  },
+  
+  {
+    "ingles": "nor",
+    "español": ["ni"]
+  },
+  {
+    "ingles": "yet",
+    "español": ["aún"]
+  },
+  
+  {
+    "ingles": "whether",
+    "español": ["si"]
+  },
+  
+  {
+    "ingles": "though",
+    "español": ["aunque", "si bien"]
+  },
+  {
+    "ingles": "although",
+    "español": ["aunque", "si bien"]
+  },
+
+  {
+    "ingles": "unless",
+    "español": ["a menos que"]
+  },
+
+  {
+    "ingles": "rather than",
+    "español": ["más bien", "en lugar de", "preferir"]
+  },
+  {
+    "ingles": "instead of",
+    "español": ["en lugar de" , "en cambio"]
+  },
+  
+  {
+    "ingles": "despite",
+    "español": ["a pesar de"]
+  },
+  
+  {
+    "ingles": "otherwise",
+    "español": ["de otra manera", "de lo contrario"]
+  },
+ 
+  {
+    "ingles": "thus",
+    "español": ["por tanto", "de esta manera"]
+  },
+  
+  {
+    "ingles": "besides",
+    "español": ["además"]
+  },
+  
+  {
+    "ingles": "afterwards",
+    "español": ["después"]
+  },
+  {
+    "ingles": "mostly",
+    "español": ["en su mayoría", "principalmente"]
+  },
+
+  {
+    "ingles": "consequently",
+    "español": ["por consiguiente"]
+  },
+
+  {
+    "ingles": "first of all",
+    "español": ["en primer lugar"]
+  },
+  {
+    "ingles": "secondly",
+    "español": ["en segundo lugar"]
+  },
+
+
+  {
+    "ingles": "in fact",
+    "español": ["de hecho"]
+  },
+
+  {
+    "ingles": "what’s more",
+    "español": ["además"]
+  },
+  {
+    "ingles": "or else",
+    "español": ["o bien"]
+  },
+  {
+    "ingles": "so that",
+    "español": ["para que"]
+  },
+  {
+    "ingles": "at first",
+    "español": ["al principio"]
+  },
+
+  {
+    "ingles": "for instance",
+    "español": ["por ejemplo"]
+  },
+
+  {
+    "ingles": "apart from",
+    "español": ["aparte de"]
+  },
+
+  {
+    "ingles": "in short",
+    "español": ["en resumen"]
+  },
+
+  {
+    "ingles": "as if",
+    "español": ["como si"]
+  },
+  {
+    "ingles": "as long as",
+    "español": ["siempre que"]
+  },
+  {
+    "ingles": "as though",
+    "español": ["como si"]
+  },
+  {
+    "ingles": "even if",
+    "español": ["incluso si"]
+  },
+  {
+    "ingles": "even though",
+    "español": ["aunque", "a pesar de que"]
+  },
+  {
+    "ingles": "rather than",
+    "español": ["en lugar de"]
+  },
+  {
+    "ingles": "after all",
+    "español": ["después de todo"]
+  },
+  {
+    "ingles": "and so",
+    "español": ["y así"]
+  },
+  {
+    "ingles": "or rather",
+    "español": ["o mejor dicho"]
+  },
+  {
+    "ingles": "even so",
+    "español": ["sin embargo"]
+  },
+
+
+  {
+    "ingles": "on the contrary",
+    "español": ["por el contrario"]
+  },
+  {
+    "ingles": "in other matters",
+    "español": ["en otros asuntos"]
+  },
+  {
+    "ingles": "in order to",
+    "español": ["con el fin de"]
+  },
+  {
+    "ingles": "by means of",
+    "español": ["por medio de"]
+  },
+  {
+    "ingles": "for lack of",
+    "español": ["por falta de"]
+  },
+
+  {
+    "ingles": "this is why",
+    "español": ["por eso"]
+  },
+  {
+    "ingles": "not even if",
+    "español": ["ni siquiera si"]
+  },
+  {
+    "ingles": "regardless of",
+    "español": ["independientemente de"]
+  },
+
+  {
+    "ingles": "so as to",
+    "español": ["para que"]
+  },
+  {
+    "ingles": "in the beginning",
+    "español": ["al principio"]
+  },
+  {
+    "ingles": "last of all",
+    "español": ["por último"]
+  },
+
+  {
+    "ingles": "all in all",
+    "español": ["en general"]
+  },
+
+  {
+    "ingles": "as well as",
+    "español": ["así como"]
+  },
+
+  {
     "ingles": "on the one hand",
     "español": ["por un lado"]
-    },
-    {
+  },
+  {
     "ingles": "on the other hand",
     "español": ["por otro lado"]
-    },
-    {
-    "ingles": "otherwise",
-    "español": ["de otra manera"]
-    },
-    {
-        "ingles": "second",
-        "español": ["segundo"]
-        },
-        {
-        "ingles": "then",
-        "español": ["entonces"]
-        },
-        {
-        "ingles": "next",
-        "español": ["siguiente"]
-        },
-        {
-        "ingles": "also",
-        "español": ["también"]
-        },
-        {
-        "ingles": "too",
-        "español": ["también"]
-        },
-        {
-        "ingles": "in fact",
-        "español": ["de hecho"]
-        },
-        {
-        "ingles": "actually",
-        "español": ["en realidad"]
-        },
-        {
-        "ingles": "anyway",
-        "español": ["de todos modos"]
-        },
-        {
-        "ingles": "besides",
-        "español": ["además"]
-        },
-        {
-        "ingles": "by the way",
-        "español": ["por cierto"]
-        },
-        {
-        "ingles": "that is to say",
-        "español": ["es decir"]
-        },
-        {
-        "ingles": "in addition",
-        "español": ["además"]
-        },
-        {
-        "ingles": "such as",
-        "español": ["como"]
-        },
-        {
-        "ingles": "like",
-        "español": ["como"]
-        },
-        {
-        "ingles": "above all",
-        "español": ["sobre todo"]
-        },
-        {
-        "ingles": "or rather",
-        "español": ["o mejor dicho"]
-        },
-        {
-        "ingles": "even so",
-        "español": ["sin embargo"]
-        },
-        {
-        "ingles": "still",
-        "español": ["todavía"]
-        },
-        {
-        "ingles": "instead",
-        "español": ["en cambio"]
-        },
-        {
-        "ingles": "on the contrary",
-        "español": ["por el contrario"]
-        },
-        {
-        "ingles": "in other matters",
-        "español": ["en otros asuntos"]
-        },
-        {
-        "ingles": "because of",
-        "español": ["a causa de"]
-        },
-        {
-        "ingles": "in order to",
-        "español": ["con el fin de"]
-        },
-        {
-        "ingles": "by means of",
-        "español": ["por medio de"]
-        },
-        {
-        "ingles": "for lack of",
-        "español": ["por falta de"]
-        },
-        {
-            "ingles": "thanks to",
-            "español": ["gracias a"]
-            },
-            {
-            "ingles": "this is why",
-            "español": ["por eso"]
-            },
-            {
-            "ingles": "than",
-            "español": ["que"]
-            },
-            {
-            "ingles": "though",
-            "español": ["aunque"]
-            },
-            {
-            "ingles": "not even if",
-            "español": ["ni siquiera si"]
-            },
-            {
-            "ingles": "regardless of",
-            "español": ["independientemente de"]
-            },
-            {
-            "ingles": "thus",
-            "español": ["por tanto"]
-            },
-            {
-            "ingles": "consequently",
-            "español": ["por consiguiente"]
-            },
-            {
-            "ingles": "besides",
-            "español": ["además"]
-            },
-            {
-            "ingles": "what’s more",
-            "español": ["además"]
-            },
-            {
-            "ingles": "or else",
-            "español": ["o bien"]
-            },
-            {
-            "ingles": "so that",
-            "español": ["para que"]
-            },
-            {
-            "ingles": "so as to",
-            "español": ["para que"]
-            },
-            {
-            "ingles": "secondly",
-            "español": ["en segundo lugar"]
-            },
-            {
-            "ingles": "afterwards",
-            "español": ["después"]
-            },
-            {
-            "ingles": "in the beginning",
-            "español": ["al principio"]
-            },
-            {
-            "ingles": "at first",
-            "español": ["al principio"]
-            },
-            {
-            "ingles": "joined",
-            "español": ["unido"]
-            },
-            {
-            "ingles": "likewise",
-            "español": ["igualmente"]
-            },
-            {
-            "ingles": "last of all",
-            "español": ["por último"]
-            },
-            {
-            "ingles": "for instance",
-            "español": ["por ejemplo"]
-            },
-            {
-            "ingles": "such as",
-            "español": ["como"]
-            },
-            {
-            "ingles": "apart from",
-            "español": ["aparte de"]
-            },
-            {
-                "ingles": "mostly",
-                "español": ["en su mayoría"]
-                },
-                {
-                "ingles": "that is to say",
-                "español": ["es decir"]
-                },
-                {
-                "ingles": "obviously",
-                "español": ["obviamente"]
-                },
-                {
-                "ingles": "definitely",
-                "español": ["definitivamente"]
-                },
-                {
-                "ingles": "above all",
-                "español": ["sobre todo"]
-                },
-                {
-                "ingles": "in short",
-                "español": ["en resumen"]
-                },
-                {
-                "ingles": "all in all",
-                "español": ["en general"]
-                }
-                
+  },
+  {
+    "ingles": "by the way",
+    "español": ["por cierto"]
+  },
+  {
+    "ingles": "that is to say",
+    "español": ["es decir"]
+  }
 ]
-
-

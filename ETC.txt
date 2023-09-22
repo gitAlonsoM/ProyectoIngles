@@ -1,6 +1,6 @@
 
-SE HAN REVISADO LOS ADJETIVOS, ADVERBIOS Y VERBOS EN PRESENTE
-
+SE HAN REVISADO LOS ADJETIVOS, ADVERBIOS, comunes, SUSTANTIVOS, VERBOS EN PRESENTE, 
+CONECTORES, preposiciones, 
 
 
 
@@ -66,7 +66,6 @@ SE HAN REVISADO LOS ADJETIVOS, ADVERBIOS Y VERBOS EN PRESENTE
 
 
 
-
 =============  ADJETIVOS ===============
   {
     "ingles": "unfaithful",
@@ -86,8 +85,36 @@ SE HAN REVISADO LOS ADJETIVOS, ADVERBIOS Y VERBOS EN PRESENTE
   },
 
 
+=========SUSTANTIVOS=========
+ {
+    "ingles": "dway",
+    "español": ["camino de entrada"]
+  },
+ {
+    "ingles": "trail",
+    "español": ["sendero"]
+  },
+   {
+    "ingles": "electric heater",
+    "español": ["estufa"]
+  },
 
 
 
 
+==== CONECTORES =========
 
+ {
+    "ingles": "second",
+    "español": ["segundo"]
+  },
+   {
+    "ingles": "likewise",
+    "español": ["igualmente"]
+  },
+
+   {
+    "ingles": "joined",
+    "español": ["unido"]
+  },
+ 

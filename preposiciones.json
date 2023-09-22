@@ -1,453 +1,475 @@
 [
-    {
-    "ingles": "of",
-    "español": ["de"]
-    },
-    {
-    "ingles": "to",
-    "español": ["a", "hacia"]
-    },
-    {
-    "ingles": "in",
-    "español": ["en"]
-    },
-    {
-    "ingles": "for",
-    "español": ["durante, por, para"]
-    },
-    {
-    "ingles": "on",
-    "español": ["sobre", "en"]
-    },
-    {
-    "ingles": "at",
-    "español": ["en"]
-    },
-    {
-    "ingles": "by",
-    "español": ["por", "cerca de"]
-    },
-    {
-    "ingles": "from",
-    "español": ["desde"]
-    },
-    {
-    "ingles": "with",
-    "español": ["con"]
-    },
-    {
-    "ingles": "about",
-    "español": ["sobre", "acerca de"]
-    },
-    {
-    "ingles": "as",
-    "español": ["como", "en calidad de"]
-    },
-    {
-    "ingles": "into",
-    "español": ["en", "dentro de"]
-    },
-    {
-    "ingles": "through",
-    "español": ["a través de", "por medio de"]
-    },
-    {
-    "ingles": "over",
-    "español": ["sobre", "por encima de"]
-    },
-    {
-    "ingles": "between",
-    "español": ["entre"]
-    },
-
-    
-    {
-    "ingles": "out",
-    "español": ["fuera de", "hacia afuera"]
-    },
-    {
-    "ingles": "against",
-    "español": ["contra"]
-    },
-    {
-    "ingles": "up",
-    "español": ["hacia arriba"]
-    },
-    {
-    "ingles": "down",
-    "español": ["hacia abajo"]
-    },
-    {
-    "ingles": "around",
-    "español": ["alrededor de"]
-    },
-    {
-    "ingles": "off",
-    "español": ["fuera de"]
-    },
-    {
-    "ingles": "on top of",
-    "español": ["encima de"]
-    },
-    {
-    "ingles": "onto",
-    "español": ["sobre"]
-    },
-    {
-    "ingles": "beneath",
-    "español": ["debajo de"]
-    },
-    {
-    "ingles": "beside",
-    "español": ["al lado de"]
-    },
-    {
-    "ingles": "behind",
-    "español": ["detrás de"]
-    },
-    {
-    "ingles": "below",
-    "español": ["debajo de"]
-    },
-    {
-    "ingles": "inside",
-    "español": ["dentro de"]
-    },
-    {
-    "ingles": "outside",
-    "español": ["afuera de"]
-    },
-    {
-    "ingles": "near",
-    "español": ["cerca de"]
-    },
-    {
-    "ingles": "far",
-    "español": ["lejos de"]
-    },
-    {
+  {
     "ingles": "before",
     "español": ["antes de"]
-    },
-    {
+  },
+  {
     "ingles": "after",
     "español": ["después de"]
-    },
+  },
+  {
+    "ingles": "during",
+    "español": ["durante"]
+  },
+  {
+    "ingles": "of",
+    "español": ["de"]
+  },
+  {
+    "ingles": "to",
+    "español": ["a", "hacia"]
+  },
+  {
+    "ingles": "in",
+    "español": ["en"]
+  },
+
+  {
+    "ingles": "on",
+    "español": ["sobre", "en"]
+  },
+  {
+    "ingles": "at",
+    "español": ["en", "a"]
+  },
+  {
+    "ingles": "by",
+    "español": ["para", "por", "cerca de"]
+  },
+  {
+    "ingles": "from",
+    "español": ["desde", "a"]
+  },
+  {
+    "ingles": "for",
+    "español": ["por, para"]
+  },
+  {
+    "ingles": "with",
+    "español": ["con"]
+  },
+  {
+    "ingles": "about",
+    "español": ["sobre", "acerca de"]
+  },
+  {
+    "ingles": "as",
+    "español": ["como", "en calidad de"]
+  },
+
+  {
+    "ingles": "through",
+    "español": ["a través de", "por medio de"]
+  },
+  {
+    "ingles": "over",
+    "español": ["sobre", "por encima de"]
+  },
+  {
+    "ingles": "above",
+    "español": ["encima de"]
+  },
+  {
+    "ingles": "on top of",
+    "español": ["encima de", "sobre"]
+  },
   
-    {
+  {
+    "ingles": "onto",
+    "español": ["sobre"]
+  },
+  {
+    "ingles": "between",
+    "español": ["entre"]
+  },
+  {
+    "ingles": "among",
+    "español": ["entre"]
+  },
+
+  {
+    "ingles": "out",
+    "español": ["fuera de", "hacia afuera"]
+  },
+  {
+    "ingles": "against",
+    "español": ["contra"]
+  },
+  {
+    "ingles": "up",
+    "español": ["hacia arriba"]
+  },
+  {
+    "ingles": "down",
+    "español": ["hacia abajo"]
+  },
+  
+  {
+    "ingles": "off",
+    "español": ["fuera de", "apagado"]
+  },
+
+  {
+    "ingles": "next to",
+    "español": ["junto a"]
+  },
+  {
+    "ingles": "beside",
+    "español": ["al lado de"]
+  },
+  {
+    "ingles": "behind",
+    "español": ["detrás de"]
+  },
+  {
+    "ingles": "below",
+    "español": ["debajo de"]
+  },
+  {
+    "ingles": "into",
+    "español": ["en", "dentro de"]
+  },
+  {
+    "ingles": "inside",
+    "español": ["dentro de"]
+  },
+  {
+    "ingles": "outside",
+    "español": ["afuera de"]
+  },
+  {
+    "ingles": "near",
+    "español": ["cerca de"]
+  },
+  {
+    "ingles": "far",
+    "español": ["lejos de"]
+  },
+
+  {
     "ingles": "since",
     "español": ["desde"]
-    },
-    {
+  },
+  {
     "ingles": "till",
     "español": ["hasta"]
-    },
-    {
+  },
+  {
     "ingles": "until",
     "español": ["hasta"]
-    },
-    {
-        "ingles": "despite",
-        "español": ["a pesar de"]
-        },
-    {
-        "ingles": "above",
-        "español": ["encima de"]
-        },
-        {
-        "ingles": "across",
-        "español": ["a través de"]
-        },
-        {
-        "ingles": "along",
-        "español": ["a lo largo de"]
-        },
-        {
-        "ingles": "close to",
-        "español": ["cerca de"]
-        },
-        {
-        "ingles": "in front of",
-        "español": ["delante de"]
-        },
-        {
-        "ingles": "opposite",
-        "español": ["enfrente de"]
-        },
-        {
-        "ingles": "under",
-        "español": ["debajo de"]
-        },
-        {
-        "ingles": "underneath",
-        "español": ["debajo de"]
-        },
-        {
-        "ingles": "upon",
-        "español": ["sobre"]
-        },
-        {
-        "ingles": "beyond",
-        "español": ["más allá de"]
-        },
-        {
-        "ingles": "during",
-        "español": ["durante"]
-        },
-        {
-        "ingles": "throughout",
-        "español": ["a lo largo de"]
-        },
-        {
-        "ingles": "away from",
-        "español": ["lejos de"]
-        },
-        {
-        "ingles": "out of",
-        "español": ["fuera de"]
-        },
-        {
-        "ingles": "past",
-        "español": ["más allá de, pasado"]
-        },
-        {
-        "ingles": "towards",
-        "español": ["hacia"]
-        },
-        {
-        "ingles": "ago",
-        "español": ["hace"]
-        },
-        {
-            "ingles": "second",
-            "español": ["segundo"]
-            },
-            {
-            "ingles": "then",
-            "español": ["entonces"]
-            },
-            {
-            "ingles": "next",
-            "español": ["siguiente"]
-            },
-            {
-            "ingles": "also",
-            "español": ["también"]
-            },
-            {
-            "ingles": "too",
-            "español": ["también"]
-            },
-            {
-            "ingles": "in fact",
-            "español": ["de hecho"]
-            },
-            {
-            "ingles": "actually",
-            "español": ["en realidad"]
-            },
-            {
-            "ingles": "anyway",
-            "español": ["de todas maneras"]
-            },
-            {
-            "ingles": "besides",
-            "español": ["además"]
-            },
-            {
-            "ingles": "by the way",
-            "español": ["por cierto"]
-            },
-            {
-            "ingles": "in other words",
-            "español": ["en otras palabras"]
-            },
-            {
-            "ingles": "that is to say",
-            "español": ["es decir"]
-            },
-            {
-            "ingles": "in addition",
-            "español": ["además"]
-            },
-            {
-            "ingles": "such as",
-            "español": ["como"]
-            },
-            {
-            "ingles": "like",
-            "español": ["como"]
-            },
-            {
-            "ingles": "above all",
-            "español": ["sobre todo"]
-            },
-            {
-            "ingles": "or rather",
-            "español": ["o más bien"]
-            },
-            {
-            "ingles": "however",
-            "español": ["sin embargo"]
-            },
-            {
-            "ingles": "even so",
-            "español": ["aún así"]
-            },
-            {
-            "ingles": "still",
-            "español": ["todavía"]
-            },
-            {
-            "ingles": "instead",
-            "español": ["en cambio"]
-            },
-            {
-            "ingles": "while",
-            "español": ["mientras"]
-            },
-            {
-            "ingles": "on the contrary",
-            "español": ["al contrario"]
-            },
-            {
-        "ingles": "in other matters",
-        "español": ["en otro asuntos"]
-        },
-        {
-        "ingles": "because of",
-        "español": ["porque", "debido a"]
-        },
-        {
-            "ingles": "than",
-            "español": ["más que"]
-            },
-            {
-                "ingles": "aboard",
-                "español": ["a bordo"]
-                },
-                {
-                "ingles": "amid",
-                "español": ["en medio de"]
-                },
-                {
-                "ingles": "as far as",
-                "español": ["tan lejos como"]
-                },
-                {
-                "ingles": "on account of",
-                "español": ["debido a"]
-                },
-                {
-                "ingles": "round",
-                "español": ["alrededor de"]
-                },
-                {
-                "ingles": "unlike",
-                "español": ["a diferencia de"]
-                },
-                {
-                "ingles": "with regard to",
-                "español": ["con respecto a"]
-                },
-                {
-                "ingles": "considering",
-                "español": ["considerando"]
-                },
-                {
-                "ingles": "except",
-                "español": ["excepto"]
-                },
-                {
-                "ingles": "following",
-                "español": ["siguiente", "después de"]
-                },
-                {
-                "ingles": "regarding",
-                "español": ["con respecto a", "en relación con"]
-                },
-                {
-                "ingles": "according to",
-                "español": ["según"]
-                },
-                {
-                "ingles": "ahead of",
-                "español": ["delante de"]
-                },
-                {
-                "ingles": "along with",
-                "español": ["junto con"]
-                },
-                {
-                "ingles": "apart from",
-                "español": ["aparte de"]
-                },
-                {
-                "ingles": "aside from",
-                "español": ["aparte de"]
-                },
-                {
-                "ingles": "away of",
-                "español": ["lejos de"]
-                },
-                {
-                "ingles": "by means of",
-                "español": ["por medio de"]
-                },
-                {
-                "ingles": "due to",
-                "español": ["debido a"]
-                },
-                {
-                "ingles": "except for",
-                "español": ["excepto por"]
-                },
-                {
-                "ingles": "in accordance with",
-                "español": ["de acuerdo con"]
-                },
-                {
-                "ingles": "in addition to",
-                "español": ["además de"]
-                },
-                {
-                "ingles": "in case of",
-                "español": ["en caso de"]
-                },
-                {
-                "ingles": "in place of",
-                "español": ["en lugar de"]
-                },
-                {
-                "ingles": "in spite of",
-                "español": ["a pesar de"]
-                },
-                {
-                "ingles": "inside of",
-                "español": ["dentro de"]
-                },
-                {
-                "ingles": "instead of",
-                "español": ["en lugar de"]
-                },
-                {
-                "ingles": "near to",
-                "español": ["cerca de"]
-                },
-                {
-                "ingles": "next to",
-                "español": ["junto a"]
-                },
-                {
-                "ingles": "opposite of",
-                "español": ["enfrente de"]
-                },
-                {
-                "ingles": "prior to",
-                "español": ["antes de"]
-                }
+  },
+  {
+    "ingles": "despite",
+    "español": ["a pesar de"]
+  },
 
-    ]
+  {
+    "ingles": "across",
+    "español": ["a través de"]
+  },
+  {
+    "ingles": "along",
+    "español": ["a lo largo de"]
+  },
 
-        
-    
+  {
+    "ingles": "opposite",
+    "español": ["enfrente de"]
+  },
+  {
+    "ingles": "under",
+    "español": ["debajo de"]
+  },
+  {
+    "ingles": "underneath",
+    "español": ["debajo de"]
+  },
+  {
+    "ingles": "upon",
+    "español": ["sobre"]
+  },
+  {
+    "ingles": "beyond",
+    "español": ["más allá de"]
+  },
+  
+  {
+    "ingles": "past",
+    "español": ["más allá de", "pasado"]
+  },
+
+  {
+    "ingles": "throughout",
+    "español": ["a lo largo de", "en todo"]
+  },
+
+  {
+    "ingles": "towards",
+    "español": ["hacia"]
+  },
+  {
+    "ingles": "ago",
+    "español": ["hace"]
+  },
+  {
+    "ingles": "second",
+    "español": ["segundo"]
+  },
+  {
+    "ingles": "too",
+    "español": ["también"]
+  },
+ 
+
+  {
+    "ingles": "actually",
+    "español": ["en realidad"]
+  },
+  {
+    "ingles": "anyway",
+    "español": ["de todas maneras"]
+  },
+  {
+    "ingles": "besides",
+    "español": ["además de"]
+  },
+
+  {
+    "ingles": "like",
+    "español": ["como"]
+  },
+
+  {
+    "ingles": "however",
+    "español": ["sin embargo"]
+  },
+
+  {
+    "ingles": "still",
+    "español": ["todavía"]
+  },
+  {
+    "ingles": "instead",
+    "español": ["en cambio", "en su lugar"]
+  },
+  {
+    "ingles": "while",
+    "español": ["mientras que"]
+  },
+  {
+    "ingles": "than",
+    "español": ["más que"]
+  },
+  {
+    "ingles": "aboard",
+    "español": ["a bordo de"]
+  },
+  {
+    "ingles": "amid",
+    "español": ["en medio de"]
+  },
+  {
+    "ingles": "around",
+    "español": ["alrededor de", "en torno a"]
+  },
+  {
+    "ingles": "unlike",
+    "español": ["a diferencia de","al contrario que"]
+  },
+  {
+    "ingles": "considering",
+    "español": ["considerando"]
+  },
+  {
+    "ingles": "except",
+    "español": ["excepto", "salvo"]
+  },
+
+  {
+    "ingles": "regarding",
+    "español": ["con respecto a", "en relación con"]
+  },
+  
+  {
+    "ingles": "then",
+    "español": ["entonces"]
+  },
+  {
+    "ingles": "next",
+    "español": ["siguiente"]
+  },
+  {
+    "ingles": "also",
+    "español": ["también"]
+  },
+  {
+    "ingles": "according to",
+    "español": ["según"]
+  },
+  {
+    "ingles": "because of",
+    "español": ["porque", "debido a"]
+  },
+
+  {
+    "ingles": "ahead of",
+    "español": ["delante de"]
+  },
+  {
+    "ingles": "along with",
+    "español": ["junto con"]
+  },
+  {
+    "ingles": "apart from",
+    "español": ["aparte de"]
+  },
+  {
+    "ingles": "aside from",
+    "español": ["aparte de"]
+  },
+  {
+    "ingles": "away of",
+    "español": ["lejos de"]
+  },
+  
+  {
+    "ingles": "in view of",
+    "español": ["en vista de"]
+  },
+  {
+    "ingles": "due to",
+    "español": ["debido a"]
+  },
+  {
+    "ingles": "except for",
+    "español": ["excepto por"]
+  },
+  {
+    "ingles": "inside of",
+    "español": ["dentro de"]
+  },
+  {
+    "ingles": "instead of",
+    "español": ["en lugar de"]
+  },
+ 
+  {
+    "ingles": "opposite of",
+    "español": ["enfrente de"]
+  },
+  {
+    "ingles": "prior to",
+    "español": ["antes de"]
+  },
+  {
+    "ingles": "near",
+    "español": ["cerca de"]
+  },
+  {
+    "ingles": "close to",
+    "español": ["cerca de"]
+  },
+  {
+    "ingles": "away from",
+    "español": ["lejos de"]
+  },
+  {
+    "ingles": "out of",
+    "español": ["fuera de"]
+  },
+  {
+    "ingles": "in fact",
+    "español": ["de hecho"]
+  },
+  {
+    "ingles": "in addition",
+    "español": ["además"]
+  },
+  {
+    "ingles": "such as",
+    "español": ["como"]
+  },
+  {
+    "ingles": "even so",
+    "español": ["aún así"]
+  },
+
+  {
+    "ingles": "in other matters",
+    "español": ["en otro asuntos"]
+  },
+
+  {
+    "ingles": "as far as",
+    "español": ["tan lejos como"]
+  },
+  {
+    "ingles": "on account of",
+    "español": ["debido a"]
+  },
+
+  {
+    "ingles": "with regard to",
+    "español": ["con respecto a"]
+  },
+
+  {
+    "ingles": "by means of",
+    "español": ["por medio de"]
+  },
+
+  {
+    "ingles": "in accordance with",
+    "español": ["de acuerdo con"]
+  },
+  {
+    "ingles": "in addition to",
+    "español": ["además de"]
+  },
+  {
+    "ingles": "in case of",
+    "español": ["en caso de"]
+  },
+  {
+    "ingles": "in place of",
+    "español": ["en lugar de"]
+  },
+  {
+    "ingles": "in spite of",
+    "español": ["a pesar de"]
+  },
+
+  
+
+  {
+    "ingles": "in front of",
+    "español": ["delante de"]
+  },
+
+  {
+    "ingles": "by the way",
+    "español": ["por cierto"]
+  },
+  {
+    "ingles": "in other words",
+    "español": ["en otras palabras"]
+  },
+  {
+    "ingles": "that is to say",
+    "español": ["es decir"]
+  },
+
+  {
+    "ingles": "above all",
+    "español": ["sobre todo"]
+  },
+  {
+    "ingles": "or rather",
+    "español": ["o más bien"]
+  },
+
+  {
+    "ingles": "on the contrary",
+    "español": ["al contrario"]
+  }
+]

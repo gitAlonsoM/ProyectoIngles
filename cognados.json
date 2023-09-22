@@ -1,322 +1,309 @@
 [
-    {
-      "ingles": "Animal",
-      "español": ["Animal"]
-    },
-    {
-      "ingles": "Chocolate",
-      "español": ["Chocolate"]
-    },
-    {
-      "ingles": "Hospital",
-      "español": ["Hospital"]
-    },
-    {
-      "ingles": "Radio",
-      "español": ["Radio"]
-    },
-    {
-      "ingles": "Idea",
-      "español": ["Idea"]
-    },
-    {
-      "ingles": "Solar",
-      "español": ["Solar"]
-    },
-    {
-      "ingles": "Normal",
-      "español": ["Normal"]
-    },
-    {
-      "ingles": "Simple",
-      "español": ["Simple"]
-    },
-    {
-      "ingles": "Universal",
-      "español": ["Universal"]
-    },
-    {
-      "ingles": "Modern",
-      "español": ["Moderno"]
-    },
-    {
-      "ingles": "Cultural",
-      "español": ["Cultural"]
-    },
-    {
-      "ingles": "Radical",
-      "español": ["Radical"]
-    },
-    {
-      "ingles": "Fatal",
-      "español": ["Fatal"]
-    },
-    {
-      "ingles": "Liberal",
-      "español": ["Liberal"]
-    },
-    {
-      "ingles": "Real",
-      "español": ["Real"]
-    },
-    {
-      "ingles": "Criminal",
-      "español": ["Criminal"]
-    },
-    {
-      "ingles": "Total",
-      "español": ["Total"]
-    },
-    {
-      "ingles": "Musical",
-      "español": ["Musical"]
-    },
-    {
-      "ingles": "Mental",
-      "español": ["Mental"]
-    },
-    {
-      "ingles": "Actual",
-      "español": ["Actual"]
-    },
-    {
-      "ingles": "National",
-      "español": ["Nacional"]
-    },
-    {
-      "ingles": "Digital",
-      "español": ["Digital"]
-    },
-    {
-      "ingles": "Final",
-      "español": ["Final"]
-    },
-    {
-      "ingles": "Natural",
-      "español": ["Natural"]
-    },
-    {
-      "ingles": "Personal",
-      "español": ["Personal"]
-    },
-    {
-      "ingles": "Accident",
-      "español": ["Accidente"]
-    },
-    {
-      "ingles": "Balance",
-      "español": ["Balance"]
-    },
-    {
-      "ingles": "Candidate",
-      "español": ["Candidato/a"]
-    },
-    {
-      "ingles": "Drama",
-      "español": ["Drama"]
-    },
-    {
-      "ingles": "Education",
-      "español": ["Educación"]
-    },
-  
-    {
-      "ingles": "Generous",
-      "español": ["Generoso/a"]
-    },
-    {
-      "ingles": "Heroic",
-      "español": ["Heroico/a"]
-    },
-    {
-      "ingles": "Information",
-      "español": ["Información"]
-    },
-    {
-      "ingles": "Memory",
-      "español": ["Memoria"]
-    },
-    {
-      "ingles": "Nationality",
-      "español": ["Nacionalidad"]
-    },
-    {
-      "ingles": "Operation",
-      "español": ["Operación"]
-    },
-    {
-      "ingles": "Passion",
-      "español": ["Pasión"]
-    },
-    {
-      "ingles": "Religion",
-      "español": ["Religión"]
-    },
-  
-    {
-      "ingles": "Technology",
-      "español": ["Tecnología"]
-    },
-    {
-      "ingles": "Universe",
-      "español": ["Universo"]
-    },
-    {
-      "ingles": "Valid",
-      "español": ["Válido/a"]
-    },
-    {
-      "ingles": "Zone",
-      "español": ["Zona"]
-    },
-    {
-      "ingles": "Admire",
-      "español": ["Admirar"]
-    },
-    {
-      "ingles": "Celebrate",
-      "español": ["Celebrar"]
-    },
-    {
-      "ingles": "Different",
-      "español": ["Diferente"]
-    },
-    {
-      "ingles": "Agenda",
-      "español": ["Agenda"]
-    },
-    {
-      "ingles": "Algebra",
-      "español": ["Álgebra"]
-    },
-    {
-      "ingles": "Ambition",
-      "español": ["Ambición"]
-    },
-    {
-      "ingles": "Ancestor",
-      "español": ["Ancestro/a"]
-    },
-    
-    {
-      "ingles": "Angel",
-      "español": ["Ángel"]
-    },
-    {
-      "ingles": "Apathy",
-      "español": ["Apatía"]
-    },
-    {
-      "ingles": "Apparent",
-      "español": ["Aparente"]
-    },
-    {
-      "ingles": "Appetite",
-      "español": ["Apetito"]
-    },
-    {
-      "ingles": "Aquarium",
-      "español": ["Acuario"]
-    },
-    {
-      "ingles": "Archetype",
-      "español": ["Arquetipo"]
-    },
-    {
-      "ingles": "Arctic",
-      "español": ["Ártico/a"]
-    },
-    {
-      "ingles": "Armadillo",
-      "español": ["Armadillo"]
-    },
-    {
-      "ingles": "Artisan",
-      "español": ["Artesano/a"]
-    },
-    {
-      "ingles": "Aspect",
-      "español": ["Aspecto"]
-    },
-    {
-      "ingles": "Aspirin",
-      "español": ["Aspirina"]
-    },
-    {
-      "ingles": "Asteroid",
-      "español": ["Asteroide"]
-    },
-    {
-      "ingles": "Athlete",
-      "español": ["Atleta"]
-    },
-    {
-      "ingles": "Atmosphere",
-      "español": ["Atmósfera"]
-    },
-    {
-      "ingles": "Ballet",
-      "español": ["Ballet"]
-    },
-    {
-      "ingles": "Bicycle",
-      "español": ["Bicicleta"]
-    },
-    {
-      "ingles": "Anniversary",
-      "español": ["Aniversario"]
-    },
-    {
-      "ingles": "Baby",
-      "español": ["Bebé"]
-    },
-    {
-      "ingles": "Comfort",
-      "español": ["Confort"]
-    },
-    {
-      "ingles": "Delicate",
-      "español": ["Delicado/a"]
-    },
-    {
-      "ingles": "Energy",
-      "español": ["Energía"]
-    },
-    {
-      "ingles": "Experience",
-      "español": ["Experiencia"]
-    },
-    {
-      "ingles": "Flexible",
-      "español": ["Flexible"]
-    },
-    {
-      "ingles": "Hotel",
-      "español": ["Hotel"]
-    },
-    {
-      "ingles": "Important",
-      "español": ["Importante"]
-    },
-    {
-      "ingles": "Interest",
-      "español": ["Interés"]
-    },
-    {
-      "ingles": "Intelligent",
-      "español": ["Inteligente"]
-    },
-    {
-      "ingles": "Language",
-      "español": ["Lenguaje"]
-    },
-    {
-      "ingles": "Machine",
-      "español": ["Máquina"]
-    },
-    {    "ingles": "Master",    
-    "español": ["Maestro/a"]
+  {
+    "ingles": "Animal",
+    "español": ["Animal"]
   },
+  {
+    "ingles": "Chocolate",
+    "español": ["Chocolate"]
+  },
+  {
+    "ingles": "Hospital",
+    "español": ["Hospital"]
+  },
+  {
+    "ingles": "Radio",
+    "español": ["Radio"]
+  },
+  {
+    "ingles": "Idea",
+    "español": ["Idea"]
+  },
+  {
+    "ingles": "Normal",
+    "español": ["Normal"]
+  },
+  {
+    "ingles": "Simple",
+    "español": ["Simple"]
+  },
+  {
+    "ingles": "Universal",
+    "español": ["Universal"]
+  },
+  {
+    "ingles": "Modern",
+    "español": ["Moderno"]
+  },
+  {
+    "ingles": "Cultural",
+    "español": ["Cultural"]
+  },
+  {
+    "ingles": "Radical",
+    "español": ["Radical"]
+  },
+  {
+    "ingles": "Fatal",
+    "español": ["Fatal"]
+  },
+  {
+    "ingles": "Liberal",
+    "español": ["Liberal"]
+  },
+  {
+    "ingles": "Real",
+    "español": ["Real"]
+  },
+  {
+    "ingles": "Criminal",
+    "español": ["Criminal"]
+  },
+  {
+    "ingles": "Total",
+    "español": ["Total"]
+  },
+  {
+    "ingles": "Musical",
+    "español": ["Musical"]
+  },
+  {
+    "ingles": "Mental",
+    "español": ["Mental"]
+  },
+  {
+    "ingles": "Actual",
+    "español": ["Actual"]
+  },
+  {
+    "ingles": "National",
+    "español": ["Nacional"]
+  },
+  {
+    "ingles": "Digital",
+    "español": ["Digital"]
+  },
+  {
+    "ingles": "Final",
+    "español": ["Final"]
+  },
+  {
+    "ingles": "Natural",
+    "español": ["Natural"]
+  },
+  {
+    "ingles": "Personal",
+    "español": ["Personal"]
+  },
+
+  {
+    "ingles": "Balance",
+    "español": ["Balance"]
+  },
+  {
+    "ingles": "Candidate",
+    "español": ["Candidato"]
+  },
+  {
+    "ingles": "Drama",
+    "español": ["Drama"]
+  },
+  {
+    "ingles": "Education",
+    "español": ["Educación"]
+  },
+
+  {
+    "ingles": "Generous",
+    "español": ["Generoso"]
+  },
+  {
+    "ingles": "Heroic",
+    "español": ["Heroico"]
+  },
+  {
+    "ingles": "Information",
+    "español": ["Información"]
+  },
+  {
+    "ingles": "Memory",
+    "español": ["Memoria"]
+  },
+  {
+    "ingles": "Nationality",
+    "español": ["Nacionalidad"]
+  },
+  {
+    "ingles": "Operation",
+    "español": ["Operación"]
+  },
+  {
+    "ingles": "Passion",
+    "español": ["Pasión"]
+  },
+  {
+    "ingles": "Religion",
+    "español": ["Religión"]
+  },
+  {
+    "ingles": "Universe",
+    "español": ["Universo"]
+  },
+  {
+    "ingles": "Valid",
+    "español": ["Válido"]
+  },
+  {
+    "ingles": "Zone",
+    "español": ["Zona"]
+  },
+  {
+    "ingles": "Admire",
+    "español": ["Admirar"]
+  },
+  {
+    "ingles": "Celebrate",
+    "español": ["Celebrar"]
+  },
+  {
+    "ingles": "Different",
+    "español": ["Diferente"]
+  },
+  {
+    "ingles": "Agenda",
+    "español": ["Agenda"]
+  },
+  {
+    "ingles": "Algebra",
+    "español": ["Álgebra"]
+  },
+  {
+    "ingles": "Ambition",
+    "español": ["Ambición"]
+  },
+  {
+    "ingles": "Ancestor",
+    "español": ["Ancestro"]
+  },
+
+  {
+    "ingles": "Angel",
+    "español": ["Ángel"]
+  },
+  {
+    "ingles": "Apathy",
+    "español": ["Apatía"]
+  },
+  {
+    "ingles": "Apparent",
+    "español": ["Aparente"]
+  },
+  {
+    "ingles": "Appetite",
+    "español": ["Apetito"]
+  },
+  {
+    "ingles": "Aquarium",
+    "español": ["Acuario"]
+  },
+  {
+    "ingles": "Archetype",
+    "español": ["Arquetipo"]
+  },
+  {
+    "ingles": "Arctic",
+    "español": ["Ártico"]
+  },
+  {
+    "ingles": "Armadillo",
+    "español": ["Armadillo"]
+  },
+  {
+    "ingles": "Artisan",
+    "español": ["Artesano"]
+  },
+  {
+    "ingles": "Aspect",
+    "español": ["Aspecto"]
+  },
+  {
+    "ingles": "Aspirin",
+    "español": ["Aspirina"]
+  },
+  {
+    "ingles": "Asteroid",
+    "español": ["Asteroide"]
+  },
+  {
+    "ingles": "Athlete",
+    "español": ["Atleta"]
+  },
+  {
+    "ingles": "Atmosphere",
+    "español": ["Atmósfera"]
+  },
+  {
+    "ingles": "Ballet",
+    "español": ["Ballet"]
+  },
+  {
+    "ingles": "Bicycle",
+    "español": ["Bicicleta"]
+  },
+  {
+    "ingles": "Anniversary",
+    "español": ["Aniversario"]
+  },
+  {
+    "ingles": "Baby",
+    "español": ["Bebé"]
+  },
+  {
+    "ingles": "Comfort",
+    "español": ["Confort"]
+  },
+  {
+    "ingles": "Delicate",
+    "español": ["Delicado"]
+  },
+  {
+    "ingles": "Energy",
+    "español": ["Energía"]
+  },
+  {
+    "ingles": "Experience",
+    "español": ["Experiencia"]
+  },
+  {
+    "ingles": "Flexible",
+    "español": ["Flexible"]
+  },
+  {
+    "ingles": "Hotel",
+    "español": ["Hotel"]
+  },
+  {
+    "ingles": "Important",
+    "español": ["Importante"]
+  },
+  {
+    "ingles": "Interest",
+    "español": ["Interés"]
+  },
+  {
+    "ingles": "Intelligent",
+    "español": ["Inteligente"]
+  },
+  {
+    "ingles": "Language",
+    "español": ["Lenguaje"]
+  },
+  {
+    "ingles": "Machine",
+    "español": ["Máquina"]
+  },
+  { "ingles": "Master", 
+  "español": ["Maestro"] },
   {
     "ingles": "Method",
     "español": ["Método"]
@@ -327,19 +314,19 @@
   },
   {
     "ingles": "Monster",
-    "español": ["Monstruo/a"]
+    "español": ["Monstruo"]
   },
   {
     "ingles": "Air",
     "español": ["Aire"]
-    },
+  },
   {
     "ingles": "Mountain",
     "español": ["Montaña"]
   },
   {
     "ingles": "Musician",
-    "español": ["Músico/a"]
+    "español": ["Músico"]
   },
   {
     "ingles": "Nature",
@@ -347,7 +334,7 @@
   },
   {
     "ingles": "Nervous",
-    "español": ["Nervioso/a"]
+    "español": ["Nervioso"]
   },
   {
     "ingles": "Novel",
@@ -367,7 +354,7 @@
   },
   {
     "ingles": "President",
-    "español": ["Presidente/a"]
+    "español": ["Presidente"]
   },
   {
     "ingles": "Student",
@@ -379,11 +366,11 @@
   },
   {
     "ingles": "Abstract",
-    "español": ["Abstracto/a"]
+    "español": ["Abstracto"]
   },
   {
     "ingles": "Absurd",
-    "español": ["Absurdo/a"]
+    "español": ["Absurdo"]
   },
   {
     "ingles": "Adjective",
@@ -395,11 +382,11 @@
   },
   {
     "ingles": "Adult",
-    "español": ["Adulto/a"]
+    "español": ["Adulto"]
   },
   {
     "ingles": "Alcoholic",
-    "español": ["Alcohólico/a"]
+    "español": ["Alcohólico"]
   },
   {
     "ingles": "Allergy",
@@ -421,9 +408,8 @@
     "ingles": "Antenna",
     "español": ["Antena"]
   },
-  {  "ingles": "Anxiety",    
-    "español": ["Ansiedad"]
-  },
+  { "ingles": "Anxiety", 
+  "español": ["Ansiedad"] },
   {
     "ingles": "Architecture",
     "español": ["Arquitectura"]
@@ -434,7 +420,7 @@
   },
   {
     "ingles": "Artistic",
-    "español": ["Artístico/a"]
+    "español": ["Artístico"]
   },
   {
     "ingles": "Assignment",
@@ -446,7 +432,7 @@
   },
   {
     "ingles": "Authentic",
-    "español": ["Auténtico/a"]
+    "español": ["Auténtico"]
   },
   {
     "ingles": "Autobiography",
@@ -454,19 +440,16 @@
   },
   {
     "ingles": "Automatic",
-    "español": ["Automático/a"]
+    "español": ["Automático"]
   },
-  {
-    "ingles": "Basic",
-    "español": ["Básico/a"]
-  },
+
   {
     "ingles": "Biology",
     "español": ["Biología"]
   },
   {
     "ingles": "Academic",
-    "español": ["Académico/a"]
+    "español": ["Académico"]
   },
   {
     "ingles": "Area",
@@ -478,7 +461,7 @@
   },
   {
     "ingles": "Author",
-    "español": ["Autor/a"]
+    "español": ["Autor"]
   },
   {
     "ingles": "Audience",
@@ -515,254 +498,230 @@
   {
     "ingles": "Decision",
     "español": ["Decisión"]
-    },
-    {
+  },
+  {
     "ingles": "Demonstration",
     "español": ["Demostración"]
-    },
-    {
+  },
+  {
     "ingles": "Dependent",
     "español": ["Dependiente"]
-    },
-    {
+  },
+  {
     "ingles": "Dialogue",
     "español": ["Diálogo"]
-    },
-    {
+  },
+  {
     "ingles": "Director",
-    "español": ["Director/a"]
-    },
-    {
-    "ingles": "Electric",
-    "español": ["Eléctrico/a"]
-    },
-    {
+    "español": ["Director"]
+  },
+  
+  {
     "ingles": "Energetic",
-    "español": ["Energético/a"]
-    },
-    {
+    "español": ["Energético"]
+  },
+  {
     "ingles": "Essential",
     "español": ["Esencial"]
-    },
-    {
+  },
+  {
     "ingles": "Family",
     "español": ["Familia"]
-    },
-    {
+  },
+  {
     "ingles": "Assist",
     "español": ["Asistir"]
-    },
-    {
+  },
+  {
     "ingles": "Attractive",
-    "español": ["Atractivo/a"]
-    },
-    {
+    "español": ["Atractivo"]
+  },
+  {
     "ingles": "Character",
     "español": ["Carácter"]
-    },
-    {
+  },
+  {
     "ingles": "Communication",
     "español": ["Comunicación"]
-    },
-    {
+  },
+  {
     "ingles": "Continent",
     "español": ["Continente"]
-    },
-    {
+  },
+  {
     "ingles": "Economic",
-    "español": ["Económico/a"]
-    },
-    {
+    "español": ["Económico"]
+  },
+  {
     "ingles": "Exact",
-    "español": ["Exacto/a"]
-    },
-    {
+    "español": ["Exacto"]
+  },
+  {
     "ingles": "Exotic",
-    "español": ["Exótico/a"]
-    },
-    {
+    "español": ["Exótico"]
+  },
+  {
     "ingles": "Expression",
     "español": ["Expresión"]
-    },
-    {
+  },
+  {
     "ingles": "Famous",
-    "español": ["Famoso/a"]
-    },
-    {
+    "español": ["Famoso"]
+  },
+  {
     "ingles": "Flower",
     "español": ["Flor"]
-    },
-    {
+  },
+  {
     "ingles": "Formal",
     "español": ["Formal"]
-    },
-    {
+  },
+  {
     "ingles": "Frequent",
     "español": ["Frecuente"]
-    },
-    {
+  },
+  {
     "ingles": "Giant",
     "español": ["Gigante"]
-    },
-    {
+  },
+  {
     "ingles": "Historic",
-    "español": ["Histórico/a"]
-    },
-    {
+    "español": ["Histórico"]
+  },
+  {
     "ingles": "Human",
-    "español": ["Humano/a"]
-    },
-    {
+    "español": ["Humano"]
+  },
+  {
     "ingles": "Innovation",
     "español": ["Innovación"]
-    },
-    {
-      "ingles": "Interesting",
-      "español": ["Interesante"]
-      },
-      {
-      "ingles": "International",
-      "español": ["Internacional"]
-      },
-      {
-      "ingles": "Investment",
-      "español": ["Inversión"]
-      },
-      {
-      "ingles": "Location",
-      "español": ["Localización"]
-      },
-      {
-      "ingles": "Medication",
-      "español": ["Medicación"]
-      },
-      {
-      "ingles": "Negotiation",
-      "español": ["Negociación"]
-      },
-      {
-      "ingles": "Obvious",
-      "español": ["Obvio/a"]
-      },
-      {
-      "ingles": "Passionate",
-      "español": ["Apasionado/a"]
-      },
-      {
-      "ingles": "Attention",
-      "español": ["Atención"]
-      },
-      {
-      "ingles": "Benefit",
-      "español": ["Beneficio"]
-      },
-      {
-      "ingles": "Contribution",
-      "español": ["Contribución"]
-      },
-      {
-      "ingles": "Culture",
-      "español": ["Cultura"]
-      },
-      {
-      "ingles": "Emotion",
-      "español": ["Emoción"]
-      },
-      {
-      "ingles": "Event",
-      "español": ["Evento"]
-      },
-      {
-      "ingles": "Image",
-      "español": ["Imagen"]
-      },
-      {
-      "ingles": "Inevitable",
-      "español": ["Inevitable"]
-      },
-      {
-      "ingles": "Influence",
-      "español": ["Influencia"]
-      },
-      {
-      "ingles": "Linguistic",
-      "español": ["Lingüístico/a"]
-      },
-      {
-      "ingles": "Melody",
-      "español": ["Melodía"]
-      },
-      {
-      "ingles": "Migration",
-      "español": ["Migración"]
-      },
-      {
-      "ingles": "Mystery",
-      "español": ["Misterio"]
-      },
-      {
-      "ingles": "Necessary",
-      "español": ["Necesario/a"]
-      },
-      {
-      "ingles": "Organic",
-      "español": ["Orgánico/a"]
-      },
-      {
-      "ingles": "Panic",
-      "español": ["Pánico"]
-      },
-      {
-      "ingles": "Philosophy",
-      "español": ["Filosofía"]
-      },
-      {
-      "ingles": "Photography",
-      "español": ["Fotografía"]
-      },
-      {    "ingles": "Political",    
-      "español": ["Político/a"]
   },
   {
-    "ingles": "Population",
-    "español": ["Población"]
+    "ingles": "Interesting",
+    "español": ["Interesante"]
   },
   {
-    "ingles": "Position",
-    "español": ["Posición"]
+    "ingles": "International",
+    "español": ["Internacional"]
   },
+  {
+    "ingles": "Investment",
+    "español": ["Inversión"]
+  },
+  {
+    "ingles": "Location",
+    "español": ["Localización"]
+  },
+  {
+    "ingles": "Medication",
+    "español": ["Medicación"]
+  },
+  {
+    "ingles": "Negotiation",
+    "español": ["Negociación"]
+  },
+  {
+    "ingles": "Obvious",
+    "español": ["Obvio"]
+  },
+  {
+    "ingles": "Passionate",
+    "español": ["Apasionado"]
+  },
+  {
+    "ingles": "Attention",
+    "español": ["Atención"]
+  },
+  {
+    "ingles": "Benefit",
+    "español": ["Beneficio"]
+  },
+  {
+    "ingles": "Contribution",
+    "español": ["Contribución"]
+  },
+  {
+    "ingles": "Culture",
+    "español": ["Cultura"]
+  },
+  {
+    "ingles": "Emotion",
+    "español": ["Emoción"]
+  },
+  {
+    "ingles": "Event",
+    "español": ["Evento"]
+  },
+  {
+    "ingles": "Image",
+    "español": ["Imagen"]
+  },
+  {
+    "ingles": "Inevitable",
+    "español": ["Inevitable"]
+  },
+  {
+    "ingles": "Influence",
+    "español": ["Influencia"]
+  },
+  {
+    "ingles": "Linguistic",
+    "español": ["Lingüístico"]
+  },
+  {
+    "ingles": "Melody",
+    "español": ["Melodía"]
+  },
+  {
+    "ingles": "Migration",
+    "español": ["Migración"]
+  },
+  {
+    "ingles": "Mystery",
+    "español": ["Misterio"]
+  },
+  {
+    "ingles": "Necessary",
+    "español": ["Necesario"]
+  },
+  {
+    "ingles": "Organic",
+    "español": ["Orgánico"]
+  },
+  {
+    "ingles": "Panic",
+    "español": ["Pánico"]
+  },
+  {
+    "ingles": "Philosophy",
+    "español": ["Filosofía"]
+  },
+  {
+    "ingles": "Photography",
+    "español": ["Fotografía"]
+  },
+  
+
   {
     "ingles": "Positive",
-    "español": ["Positivo/a"]
+    "español": ["Positivo"]
   },
   {
     "ingles": "Possible",
     "español": ["Posible"]
   },
-  {
-    "ingles": "Potential",
-    "español": ["Potencial"]
-  },
+ 
   {
     "ingles": "Professional",
     "español": ["Profesional"]
   },
-  {
-    "ingles": "Progress",
-    "español": ["Progreso"]
-  },
-  {
-    "ingles": "Psychology",
-    "español": ["Psicología"]
-  },
+
+
   {
     "ingles": "Reaction",
     "español": ["Reacción"]
   },
-  {
-    "ingles": "Realistic",
-    "español": ["Realista"]
-  },
+ 
   {
     "ingles": "Recreation",
     "español": ["Recreación"]
@@ -771,10 +730,7 @@
     "ingles": "Relaxation",
     "español": ["Relajación"]
   },
-  {
-    "ingles": "Relationship",
-    "español": ["Relación"]
-  },
+ 
   {
     "ingles": "Reputation",
     "español": ["Reputación"]
@@ -804,7 +760,7 @@
     "ingles": "Superior",
     "español": ["Superior"]
   },
- 
+
   {
     "ingles": "Temperature",
     "español": ["Temperatura"]
@@ -821,22 +777,22 @@
     "ingles": "Tradition",
     "español": ["Tradición"]
   },
- 
+
   {
     "ingles": "Transportation",
     "español": ["Transporte"]
   },
   {
     "ingles": "Typical",
-    "español": ["Típico/a"]
+    "español": ["Típico"]
   },
   {
     "ingles": "Ultimate",
-    "español": ["Último/a"]
+    "español": ["Último"]
   },
   {
     "ingles": "Urban",
-    "español": ["Urbano/a"]
+    "español": ["Urbano"]
   },
 
   {
@@ -860,13 +816,10 @@
     "ingles": "Volunteer",
     "español": ["Voluntario"]
   },
-  {
-    "ingles": "Photography",
-    "español": ["Fotografía"]
-  },
+
   {
     "ingles": "Political",
-    "español": ["Político/a"]
+    "español": ["Político"]
   },
   {
     "ingles": "Population",
@@ -876,14 +829,7 @@
     "ingles": "Position",
     "español": ["Posición"]
   },
-  {
-    "ingles": "Positive",
-    "español": ["Positivo/a"]
-  },
-  {
-    "ingles": "Possible",
-    "español": ["Posible"]
-  },
+
   {
     "ingles": "Potential",
     "español": ["Potencial"]
@@ -897,10 +843,7 @@
     "ingles": "Psychology",
     "español": ["Psicología"]
   },
-  {
-    "ingles": "Reaction",
-    "español": ["Reacción"]
-  },
+
   {
     "ingles": "Realistic",
     "español": ["Realista"]
@@ -910,7 +853,6 @@
     "español": ["Reconocimiento"]
   },
 
- 
   {
     "ingles": "Responsibility",
     "español": ["Responsabilidad"]
@@ -921,11 +863,11 @@
   },
   {
     "ingles": "Romantic",
-    "español": ["Romántico/a"]
+    "español": ["Romántico"]
   },
   {
     "ingles": "Scientific",
-    "español": ["Científico/a"]
+    "español": ["Científico"]
   },
   {
     "ingles": "Selection",
@@ -962,174 +904,168 @@
     "ingles": "Television",
     "español": ["Televisión"]
   },
- 
+
   {
     "ingles": "Territory",
     "español": ["Territorio"]
   },
- 
+
   {
     "ingles": "Translation",
     "español": ["Traducción"]
   },
-
-  {
-    "ingles": "Urban",
-    "español": ["Urbano/a"]
-  },
   {
     "ingles": "Variety",
     "español": ["Variedad"]
-    },
-  
-    {
+  },
+
+  {
     "ingles": "Verbal",
     "español": ["Verbal"]
-    },
-    {
+  },
+  {
     "ingles": "Accident",
     "español": ["Accidente"]
-    },
-    {
+  },
+  {
     "ingles": "Actor",
     "español": ["Actor"]
-    },
-    {
+  },
+  {
     "ingles": "Alarm",
     "español": ["Alarma"]
-    },
-    {
+  },
+  {
     "ingles": "Apartment",
     "español": ["Apartamento"]
-    },
-    {
+  },
+  {
     "ingles": "Artist",
     "español": ["Artista"]
-    },
-    {
+  },
+  {
     "ingles": "Bar",
     "español": ["Bar"]
-    },
-    {
+  },
+  {
     "ingles": "Basic",
     "español": ["Básico"]
-    },
-    {
+  },
+  {
     "ingles": "Camera",
     "español": ["Cámara"]
-    },
-    {
+  },
+  {
     "ingles": "Capital",
     "español": ["Capital"]
-    },
-    {
+  },
+  {
     "ingles": "Classic",
     "español": ["Clásico"]
-    },
-    {
+  },
+  {
     "ingles": "Comedy",
     "español": ["Comedia"]
-    },
-    {
+  },
+  {
     "ingles": "Compact",
     "español": ["Compacto"]
-    },
-    {
+  },
+  {
     "ingles": "Complex",
     "español": ["Complejo"]
-    },
-    {
+  },
+  {
     "ingles": "Contact",
     "español": ["Contacto"]
-    },
-    {
+  },
+  {
     "ingles": "Contract",
     "español": ["Contrato"]
-    },
-    {
+  },
+  {
     "ingles": "Control",
     "español": ["Control"]
-    },
-    {
+  },
+  {
     "ingles": "Debate",
     "español": ["Debate"]
-    },
-    {
+  },
+  {
     "ingles": "Delicious",
     "español": ["Delicioso"]
-    },
-    {
+  },
+  {
     "ingles": "Detail",
     "español": ["Detalle"]
-    },
-    {
+  },
+  {
     "ingles": "Direct",
     "español": ["Directo"]
-    },
-  
-    {
+  },
+
+  {
     "ingles": "Dynamic",
     "español": ["Dinámico"]
-    },
-    {
+  },
+  {
     "ingles": "Electric",
     "español": ["Eléctrico"]
-    },
-    {
-      "ingles": "Elegant",
-      "español": ["Elegante"]
-      },
-      {
-      "ingles": "Element",
-      "español": ["Elemento"]
-      },
-      {
-      "ingles": "Enthusiasm",
-      "español": ["Entusiasmo"]
-      },
-      {
-      "ingles": "Equal",
-      "español": ["Igual"]
-      },
-      {
-      "ingles": "Evolution",
-      "español": ["Evolución"]
-      },
-      {
-      "ingles": "Exclusive",
-      "español": ["Exclusivo"]
-      },
-      {
-      "ingles": "Expert",
-      "español": ["Experto"]
-      },
-      {
-      "ingles": "Extreme",
-      "español": ["Extremo"]
-      },
-      {
-      "ingles": "Fantastic",
-      "español": ["Fantástico"]
-      },
-      {
-      "ingles": "Festival",
-      "español": ["Festival"]
-      },
-      {
-      "ingles": "Flexibility",
-      "español": ["Flexibilidad"]
-      },
-      {
-      "ingles": "Global",
-      "español": ["Global"]
-      },
-      {
-      "ingles": "Harmony",
-      "español": ["Armonía"]
-      },
-      {
-      "ingles": "Industry",
-      "español": ["Industria"]
-      }
-    
+  },
+  {
+    "ingles": "Elegant",
+    "español": ["Elegante"]
+  },
+  {
+    "ingles": "Element",
+    "español": ["Elemento"]
+  },
+  {
+    "ingles": "Enthusiasm",
+    "español": ["Entusiasmo"]
+  },
+  {
+    "ingles": "Equal",
+    "español": ["Igual"]
+  },
+  {
+    "ingles": "Evolution",
+    "español": ["Evolución"]
+  },
+  {
+    "ingles": "Exclusive",
+    "español": ["Exclusivo"]
+  },
+  {
+    "ingles": "Expert",
+    "español": ["Experto"]
+  },
+  {
+    "ingles": "Extreme",
+    "español": ["Extremo"]
+  },
+  {
+    "ingles": "Fantastic",
+    "español": ["Fantástico"]
+  },
+  {
+    "ingles": "Festival",
+    "español": ["Festival"]
+  },
+  {
+    "ingles": "Flexibility",
+    "español": ["Flexibilidad"]
+  },
+  {
+    "ingles": "Global",
+    "español": ["Global"]
+  },
+  {
+    "ingles": "Harmony",
+    "español": ["Armonía"]
+  },
+  {
+    "ingles": "Industry",
+    "español": ["Industria"]
+  }
 ]

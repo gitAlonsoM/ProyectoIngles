@@ -1,636 +1,615 @@
-
 [
   {
-  "ingles": "the",
-  "español": ["el, la, los, las"]
+    "ingles": "the",
+    "español": ["el, la, los, las"]
   },
   {
-  "ingles": "be",
-  "español": ["ser, estar"]
+    "ingles": "be",
+    "español": ["ser, estar"]
   },
   {
-  "ingles": "to",
-  "español": ["a", "hacia"]
+    "ingles": "to",
+    "español": ["a", "hacia"]
   },
   {
-  "ingles": "of",
-  "español": ["de"]
+    "ingles": "of",
+    "español": ["de"]
   },
   {
-  "ingles": "and",
-  "español": ["y"]
+    "ingles": "and",
+    "español": ["y"]
   },
   {
-  "ingles": "a",
-  "español": ["un", "una"]
+    "ingles": "a",
+    "español": ["un", "una"]
   },
   {
-  "ingles": "in",
-  "español": ["en"]
+    "ingles": "in",
+    "español": ["en"]
   },
   {
-  "ingles": "have",
-  "español": ["tener"]
+    "ingles": "have",
+    "español": ["tener"]
   },
   {
-  "ingles": "I",
-  "español": ["yo"]
+    "ingles": "I",
+    "español": ["yo"]
   },
   {
-  "ingles": "it",
-  "español": ["él, eso, esto(cosa, animal)"]
+    "ingles": "it",
+    "español": ["él, eso, esto(cosa, animal)"]
   },
   {
-  "ingles": "for",
-  "español": ["por, para"]
+    "ingles": "for",
+    "español": ["por, para"]
   },
   {
-  "ingles": "not",
-  "español": ["no"]
+    "ingles": "not",
+    "español": ["no"]
   },
   {
-  "ingles": "on",
-  "español": ["en"]
+    "ingles": "on",
+    "español": ["en"]
   },
   {
-  "ingles": "need",
-  "español": ["necesitar"]
+    "ingles": "need",
+    "español": ["necesitar"]
   },
   {
-  "ingles": "with",
-  "español": ["con"]
+    "ingles": "with",
+    "español": ["con"]
   },
   {
-  "ingles": "happy",
-  "español": ["feliz"]
+    "ingles": "happy",
+    "español": ["feliz"]
   },
   {
-  "ingles": "always",
-  "español": ["siempre"]
+    "ingles": "always",
+    "español": ["siempre"]
   },
   {
-  "ingles": "way",
-  "español": ["camino", "manera"]
+    "ingles": "way",
+    "español": ["camino", "manera"]
   },
   {
-  "ingles": "he",
-  "español": ["él"]
+    "ingles": "he",
+    "español": ["él"]
   },
   {
-  "ingles": "as",
-  "español": ["como"]
+    "ingles": "as",
+    "español": ["como"]
   },
   {
-  "ingles": "you",
-  "español": ["tú", "usted"]
+    "ingles": "you",
+    "español": ["tú", "usted"]
   },
   {
-  "ingles": "a lot",
-  "español": ["mucho", "un monton"]
+    "ingles": "a lot",
+    "español": ["mucho", "un monton"]
   },
   {
-  "ingles": "power",
-  "español": ["poder"]
+    "ingles": "power",
+    "español": ["poder"]
   },
   {
-  "ingles": "at",
-  "español": ["en, a"]
+    "ingles": "at",
+    "español": ["en, a"]
   },
   {
-  "ingles": "this",
-  "español": ["esto/a"]
+    "ingles": "this",
+    "español": ["esto/a"]
   },
   {
-  "ingles": "but",
-  "español": ["pero"]
+    "ingles": "but",
+    "español": ["pero"]
   },
   {
     "ingles": "his",
     "español": ["su ♂"]
-    },
-    {
-      "ingles": "him",
-      "español": ["él"]
-      },
+  },
+  {
+    "ingles": "him",
+    "español": ["él"]
+  },
 
-    {
+  {
     "ingles": "from",
     "español": ["de, desde"]
-    },
-    {
+  },
+  {
     "ingles": "they",
     "español": ["ellos", "ellas"]
-    },
-    {
+  },
+  {
     "ingles": "truth",
     "español": ["verdad"]
-    },
-    {
+  },
+  {
     "ingles": "we",
     "español": ["nosotros(as)"]
-    },
-    {
+  },
+  {
     "ingles": "say",
     "español": ["decir"]
-    },
-    {
+  },
+  {
     "ingles": "her",
-    "español": ["su ♀︎", "ella"]
-    },
-    {
+    "español": ["su ♀︎"]
+  },
+  {
     "ingles": "go",
     "español": ["ir"]
-    },
-    {
+  },
+  {
     "ingles": "come",
     "español": ["venir"]
-    },
-    {
+  },
+  {
     "ingles": "see",
-    "español": ["ver"]
-    },
-    {
+    "español": ["ver", "comprender"]
+  },
+  {
     "ingles": "get",
     "español": ["obtener", "conseguir"]
-    },
-    {
+  },
+  {
     "ingles": "give",
     "español": ["dar"]
-    },
-    {
+  },
+  {
     "ingles": "make",
     "español": ["hacer"]
-    },
-    {
+  },
+  {
     "ingles": "know",
     "español": ["saber"]
-    },
-    {
+  },
+  {
     "ingles": "first",
     "español": ["primero"]
-    },
-    {
+  },
+  {
     "ingles": "think",
     "español": ["pensar"]
-    },
-    {
+  },
+  {
     "ingles": "tell",
     "español": ["decir", "contar"]
-    },
-    {
+  },
+  {
     "ingles": "then",
     "español": ["entonces", "luego"]
-    },
-    {
+  },
+  {
     "ingles": "ask",
     "español": ["preguntar"]
-    },
-    {
+  },
+  {
     "ingles": "carry",
     "español": ["llevar"]
-    },
-    {
+  },
+  {
     "ingles": "work",
     "español": ["trabajar"]
-    },
-    {
+  },
+  {
     "ingles": "look",
     "español": ["mirar", "ver"]
-    },
-    {
+  },
+  {
     "ingles": "all",
     "español": ["todo"]
-    },
-    {
+  },
+  {
     "ingles": "also",
     "español": ["también", "además"]
-    },
-    {
+  },
+  {
     "ingles": "an",
     "español": ["un"]
-    },
-      {
-      "ingles": "even",
-      "español": ["incluso", "aunque"]
-      },
-      {
-      "ingles": "any",
-      "español": ["algun(a)", "ningun(a)"]
-      },
-      {
-      "ingles": "pay",
-      "español": ["pagar"]
-      },
-      {
-      "ingles": "are",
-      "español": ["son", "estan"]
-      },
-      {
-      "ingles": "because",
-      "español": ["porque"]
-      },
-      {
-      "ingles": "by",
-      "español": ["por"]
-      },
-      {
-      "ingles": "use",
-      "español": ["usar"]
-      },
-      {
-      "ingles": "can",
-      "español": ["poder"]
-      },
-      {
-      "ingles": "wait",
-      "español": ["esperar"]
-      },
-      {
-      "ingles": "walk",
-      "español": ["caminar"]
-      },
-      {
-      "ingles": "day",
-      "español": ["día"]
-      },
-      {
-      "ingles": "do",
-      "español": ["hacer"]
-      },
-      {
-      "ingles": "find",
-      "español": ["encontrar"]
-      },
-      {
-      "ingles": "pass",
-      "español": ["pasar"]
-      },
-      {
-      "ingles": "never",
-      "español": ["nunca"]
-      },
-      {
-      "ingles": "speak",
-      "español": ["hablar"]
-      },
-      {
-      "ingles": "play",
-      "español": ["jugar"]
-      },
-      {
-      "ingles": "had",
-      "español": ["había", "tenía"]
-      },
-      {
-      "ingles": "word",
-      "español": ["palabra"]
-      },
-      {
-      "ingles": "listen",
-      "español": ["escuchar"]
-      },
-      {
-      "ingles": "what",
-      "español": ["qué (pregunta)"]
-      },
-      
-      
-      {
-        "ingles": "search",
-        "español": ["buscar"]
-        },
-        {
-        "ingles": "just",
-        "español": ["sólo"]
-        },
-        {
-        "ingles": "time",
-        "español": ["tiempo"]
-        },
-        {
-        "ingles": "take",
-        "español": ["tomar"]
-        },
-        {
-        "ingles": "put",
-        "español": ["poner"]
-        },
-        {
-        "ingles": "people",
-        "español": ["personas"]
-        },
-        {
-        "ingles": "into",
-        "español": ["en"]
-        },
-        {
-        "ingles": "year",
-        "español": ["año"]
-        },
-        {
-        "ingles": "your",
-        "español": ["tu", "su"]
-        },
-        {
-        "ingles": "good",
-        "español": ["bueno"]
-        },
-        {
-        "ingles": "some",
-        "español": ["alguno(s)", "alguna(s)"]
-        },
-        {
-        "ingles": "could",
-        "español": ["podría"]
-        },
-        {
-        "ingles": "them",
-        "español": ["ellos", "ellas"]
-        },
-        {
-        "ingles": "if",
-        "español": ["si"]
-        },
-        {
-        "ingles": "about",
-        "español": ["sobre, acerca de"]
-        },
-        {
-        "ingles": "who",
-        "español": ["quién", "que(personas)"]
-        },
-        {
-        "ingles": "which",
-        "español": ["cuál"]
-        },
-        {
-        "ingles": "when",
-        "español": ["cuándo"]
-        },
-        {
-        "ingles": "out",
-        "español": ["afuera"]
-        },
-        {
-        "ingles": "so",
-        "español": ["tan, así"]
-        },
-        {
-        "ingles": "one",
-        "español": ["uno"]
-        },
-        {
-        "ingles": "had",
-        "español": ["había"]
-        },
-        {
-        "ingles": "what",
-        "español": ["qué"]
-        },
-        {
-        "ingles": "or",
-        "español": ["o"]
-        },
-        {
-          "ingles": "love",
-          "español": ["amor"]
-          },
-          {
-          "ingles": "new",
-          "español": ["nuevo"]
-          },
-          {
-          "ingles": "like",
-          "español": ["gustar"]
-          },
-          {
-          "ingles": "it",
-          "español": ["él", "ella", "ello"]
-          },
-          {
-          "ingles": "us",
-          "español": ["nosotros"]
-          },
-          {
-          "ingles": "most",
-          "español": ["la mayoría"]
-          },
-          {
-          "ingles": "these",
-          "español": ["estos", "estas"]
-          },
-          {
-          "ingles": "want",
-          "español": ["querer"]
-          },
-          {
-          "ingles": "well",
-          "español": ["bien"]
-          },
-          {
-          "ingles": "our",
-          "español": ["nuestro(a)", "nuestros(a)"]
-          },
-          {
-          "ingles": "how",
-          "español": ["cómo"]
-          },
-          {
-          "ingles": "two",
-          "español": ["dos"]
-          },
-          {
-          "ingles": "after",
-          "español": ["después"]
-          },
-          {
-          "ingles": "back",
-          "español": ["espalda", "atrás"]
-          },
-          {
-          "ingles": "over",
-          "español": ["sobre", "encima de"]
-          },
-          {
-          "ingles": "that",
-          "español": ["eso", "que(cosas o animal)"]
-          },
-          {
-          "ingles": "its",
-          "español": ["su", "sus"]
-          },
-          {
-          "ingles": "only",
-          "español": ["sólo"]
-          },
-          {
-          "ingles": "now",
-          "español": ["ahora"]
-          },
-          {
-          "ingles": "than",
-          "español": ["que (comparar)"]
-          },
-          {
-          "ingles": "other",
-          "español": ["otro(a)", "otros(a)"]
-          },
-          {
-          "ingles": "me",
-          "español": ["me", "mí"]
-          },
-          {
-          "ingles": "up",
-          "español": ["arriba"]
-          },
-          {
-          "ingles": "their",
-          "español": ["su", "sus"]
-          },
-          {
-            "ingles": "my",
-            "español": ["mi", "mis"]
-            },
-            {
-            "ingles": "world",
-            "español": ["mundo"]
-            },
-            {
-            "ingles": "she",
-            "español": ["ella"]
-            },      
-            {
-            "ingles": "man",
-            "español": ["hombre"]
-            },
-            {
-            "ingles": "men",
-            "español": ["hombres"]
-            },
-            {
-            "ingles": "life",
-            "español": ["vida"]
-            },
-            {
-            "ingles": "hand",
-            "español": ["mano"]
-            },
-            {
-            "ingles": "part",
-            "español": ["parte"]
-            },
-            {
-            "ingles": "child",
-            "español": ["niño", "niña"]
-            },
-            {
-            "ingles": "children",
-            "español": ["niños", "niñas"]
-            },
-            {
-            "ingles": "eye",
-            "español": ["ojo"]
-            },
-            {
-            "ingles": "woman",
-            "español": ["mujer"]
-            },
-            {
-            "ingles": "women",
-            "español": ["mujeres"]
-            },
-            {
-            "ingles": "place",
-            "español": ["lugar"]
-            },
-            {
-            "ingles": "week",
-            "español": ["semana"]
-            },
-            {
-            "ingles": "point",
-            "español": ["punto"]
-            },
-            {
-            "ingles": "government",
-            "español": ["gobierno"]
-            },
-            {
-            "ingles": "company",
-            "español": ["empresa", "compañía"]
-            },
-            {
-            "ingles": "there",
-            "español": ["allí" , "ahí"]
-            },
-            {
-              "ingles": "little",
-              "español": ["pequeño"]
-            },
-            {
-              "ingles": "own",
-              "español": ["propio"]
-            },
-            {
-              "ingles": "same",
-              "español": ["igual"]
-            },
-            {
-              "ingles": "end",
-              "español": ["final"]
-            },
-            {
-              "ingles": "different",
-              "español": ["diferente"]
-            },
-            {
-              "ingles": "high",
-              "español": ["alto"]
-            },
-            {
-              "ingles": "old",
-              "español": ["viejo"]
-            },
-            {
-              "ingles": "large",
-              "español": ["grande"]
-            },
-            {
-              "ingles": "next",
-              "español": ["siguiente"]
-            },
-            {
-              "ingles": "feel",
-              "español": ["sentir"]
-            },
-            {
-              "ingles": "right",
-              "español": ["correcto"]
-            },
-            {
-              "ingles": "few",
-              "español": ["pocos"]
-            },
-            {
-              "ingles": "small",
-              "español": ["pequeño"]
-            },
-            {
-              "ingles": "last",
-              "español": ["último"]
-            },
-            {
-              "ingles": "try",
-              "español": ["intentar"]
-            },
-            {
-              "ingles": "group",
-              "español": ["grupo"]
-            },
-            {
-              "ingles": "country",
-              "español": ["país"]
-            }
-            
-              
-        ]
+  },
+  {
+    "ingles": "even",
+    "español": ["incluso", "aunque"]
+  },
+  {
+    "ingles": "any",
+    "español": ["alguno", "ninguno", "cualquiera"]
+  },
+  {
+    "ingles": "pay",
+    "español": ["pagar"]
+  },
+  {
+    "ingles": "are",
+    "español": ["son", "estan"]
+  },
+  {
+    "ingles": "because",
+    "español": ["porque"]
+  },
+  {
+    "ingles": "by",
+    "español": ["por"]
+  },
+  {
+    "ingles": "use",
+    "español": ["usar"]
+  },
+  {
+    "ingles": "can",
+    "español": ["poder"]
+  },
+  {
+    "ingles": "wait",
+    "español": ["esperar"]
+  },
+  {
+    "ingles": "walk",
+    "español": ["caminar"]
+  },
+  {
+    "ingles": "day",
+    "español": ["día"]
+  },
+  {
+    "ingles": "do",
+    "español": ["hacer"]
+  },
+  {
+    "ingles": "find",
+    "español": ["encontrar"]
+  },
+  {
+    "ingles": "pass",
+    "español": ["pasar"]
+  },
+  {
+    "ingles": "never",
+    "español": ["nunca"]
+  },
+  {
+    "ingles": "speak",
+    "español": ["hablar"]
+  },
+  {
+    "ingles": "play",
+    "español": ["jugar"]
+  },
+  {
+    "ingles": "had",
+    "español": ["había", "tenía"]
+  },
+  {
+    "ingles": "word",
+    "español": ["palabra"]
+  },
+  {
+    "ingles": "listen",
+    "español": ["escuchar"]
+  },
+  {
+    "ingles": "search",
+    "español": ["buscar"]
+  },
+  {
+    "ingles": "just",
+    "español": ["sólo", "justo"]
+  },
+  {
+    "ingles": "time",
+    "español": ["tiempo"]
+  },
+  {
+    "ingles": "take",
+    "español": ["tomar"]
+  },
+  {
+    "ingles": "put",
+    "español": ["poner"]
+  },
+  {
+    "ingles": "people",
+    "español": ["personas"]
+  },
+  {
+    "ingles": "into",
+    "español": ["en"]
+  },
+  {
+    "ingles": "year",
+    "español": ["año"]
+  },
+  {
+    "ingles": "your",
+    "español": ["tu", "su"]
+  },
+  {
+    "ingles": "good",
+    "español": ["bueno"]
+  },
+  {
+    "ingles": "some",
+    "español": ["alguno(s)", "alguna(s)"]
+  },
+  {
+    "ingles": "could",
+    "español": ["podría"]
+  },
+  {
+    "ingles": "them",
+    "español": ["ellos", "ellas"]
+  },
+  {
+    "ingles": "if",
+    "español": ["si"]
+  },
+  {
+    "ingles": "about",
+    "español": ["sobre, acerca de"]
+  },
+  {
+    "ingles": "who",
+    "español": ["quién", "que(personas)"]
+  },
+  {
+    "ingles": "which",
+    "español": ["cuál"]
+  },
+  {
+    "ingles": "when",
+    "español": ["cuándo"]
+  },
+  {
+    "ingles": "out",
+    "español": ["afuera"]
+  },
+  {
+    "ingles": "so",
+    "español": ["así que"]
+  },
+  {
+    "ingles": "one",
+    "español": ["uno"]
+  },
+  {
+    "ingles": "what",
+    "español": ["qué"]
+  },
+  {
+    "ingles": "or",
+    "español": ["o"]
+  },
+  {
+    "ingles": "love",
+    "español": ["amor"]
+  },
+  {
+    "ingles": "new",
+    "español": ["nuevo"]
+  },
+  {
+    "ingles": "like",
+    "español": ["gustar", "como"]
+  },
+  {
+    "ingles": "us",
+    "español": ["nosotros"]
+  },
+  {
+    "ingles": "most",
+    "español": ["la mayoría"]
+  },
+  {
+    "ingles": "these",
+    "español": ["estos", "estas"]
+  },
+  {
+    "ingles": "want",
+    "español": ["querer"]
+  },
+  {
+    "ingles": "well",
+    "español": ["bien"]
+  },
+  {
+    "ingles": "our",
+    "español": ["nuestro(a)", "nuestros(a)"]
+  },
+  {
+    "ingles": "how",
+    "español": ["cómo"]
+  },
+  {
+    "ingles": "after",
+    "español": ["después"]
+  },
+  {
+    "ingles": "back",
+    "español": ["espalda", "atrás"]
+  },
+  {
+    "ingles": "over",
+    "español": ["sobre", "encima de"]
+  },
+  {
+    "ingles": "that",
+    "español": ["eso", "ese"]
+  },
+  {
+    "ingles": "its",
+    "español": ["su", "sus"]
+  },
+  {
+    "ingles": "only",
+    "español": ["sólo"]
+  },
+  {
+    "ingles": "now",
+    "español": ["ahora"]
+  },
+  {
+    "ingles": "than",
+    "español": ["que (comparar)"]
+  },
+  {
+    "ingles": "other",
+    "español": ["otro(a)", "otros(a)"]
+  },
+  {
+    "ingles": "me",
+    "español": ["mí"]
+  },
+  {
+    "ingles": "up",
+    "español": ["arriba"]
+  },
+  {
+    "ingles": "their",
+    "español": ["su", "sus"]
+  },
+  {
+    "ingles": "my",
+    "español": ["mi", "mis"]
+  },
+  {
+    "ingles": "world",
+    "español": ["mundo"]
+  },
+  {
+    "ingles": "she",
+    "español": ["ella"]
+  },
+  {
+    "ingles": "man",
+    "español": ["hombre"]
+  },
+  {
+    "ingles": "men",
+    "español": ["hombres"]
+  },
+  {
+    "ingles": "life",
+    "español": ["vida"]
+  },
+  {
+    "ingles": "hand",
+    "español": ["mano"]
+  },
+  {
+    "ingles": "part",
+    "español": ["parte"]
+  },
+  {
+    "ingles": "child",
+    "español": ["niño", "niña"]
+  },
+  {
+    "ingles": "children",
+    "español": ["niños", "niñas"]
+  },
+  {
+    "ingles": "eye",
+    "español": ["ojo"]
+  },
+  {
+    "ingles": "woman",
+    "español": ["mujer"]
+  },
+  {
+    "ingles": "women",
+    "español": ["mujeres"]
+  },
+  {
+    "ingles": "place",
+    "español": ["lugar"]
+  },
+  {
+    "ingles": "week",
+    "español": ["semana"]
+  },
+  {
+    "ingles": "point",
+    "español": ["punto"]
+  },
+  {
+    "ingles": "government",
+    "español": ["gobierno"]
+  },
+  {
+    "ingles": "company",
+    "español": ["empresa", "compañía"]
+  },
+  {
+    "ingles": "there",
+    "español": ["allí", "ahí"]
+  },
+  {
+    "ingles": "little",
+    "español": ["pequeño", "poco"]
+  },
+  {
+    "ingles": "own",
+    "español": ["propio"]
+  },
+  {
+    "ingles": "same",
+    "español": ["igual"]
+  },
+  {
+    "ingles": "end",
+    "español": ["final"]
+  },
+  {
+    "ingles": "different",
+    "español": ["diferente"]
+  },
+  {
+    "ingles": "high",
+    "español": ["alto"]
+  },
+  {
+    "ingles": "old",
+    "español": ["viejo"]
+  },
+  {
+    "ingles": "large",
+    "español": ["grande"]
+  },
+  {
+    "ingles": "next",
+    "español": ["siguiente"]
+  },
+  {
+    "ingles": "feel",
+    "español": ["sentir"]
+  },
+  {
+    "ingles": "right",
+    "español": ["correcto", "derecha"]
+  },
+  {
+    "ingles": "few",
+    "español": ["pocos"]
+  },
+  {
+    "ingles": "small",
+    "español": ["pequeño"]
+  },
+  {
+    "ingles": "last",
+    "español": ["último"]
+  },
+  {
+    "ingles": "try",
+    "español": ["intentar"]
+  },
+  {
+    "ingles": "group",
+    "español": ["grupo"]
+  },
+  {
+    "ingles": "country",
+    "español": ["país"]
+  }
+]

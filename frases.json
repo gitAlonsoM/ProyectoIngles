@@ -1,915 +1,876 @@
 [
-    {
+  {
     "ingles": "How are you?",
     "español": ["¿Cómo estás?"]
-    },
-    
-    {
+  },
+
+  {
     "ingles": "I'm fine, thanks",
     "español": ["Estoy bien, gracias"]
-    },
-   
-    {
+  },
+
+  {
     "ingles": "I'm sorry",
     "español": ["Lo siento"]
-    },
-    {
-    "ingles": "No problem",
-    "español": ["No hay problema"]
-    },
-    {
-    "ingles": "That's okay",
-    "español": ["Está bien"]
-    },
-    {
-    "ingles": "It's nice to see you",
-    "español": ["Es agradable verte"]
-    },
-    
-    {
-      "ingles": "What's up?",
-      "español": ["¿Qué tal?"]
-      },
-      {
-          "ingles": "What's next?",
-          "español": ["¿Qué sigue?"]
-      },
-  
-      {
-          "ingles": "How about you?",
-          "español": ["¿Y tú?"]
-          },
-          {
-              "ingles": "Hey there",
-              "español": ["Hola"]
-              },
-              {
-                  "ingles": "How's work going?",
-                  "español": ["¿Cómo va el trabajo?"]
-                  },
-  
-  
-    {
-    "ingles": "Good morning",
-    "español": ["Buenos días"]
-    },
-    {
-    "ingles": "Good afternoon",
-    "español": ["Buenas tardes"]
-    },
-    {
-    "ingles": "Good evening",
-    "español": ["Buenas noches"]
-    },
-    {
-    "ingles": "See you later",
-    "español": ["Hasta luego"]
-    },
-    {
-    "ingles": "I'm busy",
-    "español": ["Estoy ocupado"]
-    },
-    {
-    "ingles": "I'm in a rush",
-    "español": ["Estoy apurado"]
-    },
-   
-    {
-    "ingles": "Excuse me",
-    "español": ["Perdón"]
-    },
-    {
-    "ingles": "Thank you",
-    "español": ["Gracias"]
-    },
-    
-    {
-    "ingles": "You're welcome",
-    "español": ["De nada"]
-    },
-    {
-    "ingles": "Of course",
-    "español": ["Por supuesto"]
-    },
-    {
-    "ingles": "I don't know",
-    "español": ["No lo sé"]
-    },
-    {
-    "ingles": "What's your name?",
-    "español": ["¿Cómo te llamas?"]
-    },
-    {
-    "ingles": "My name is ...",
-    "español": ["Me llamo ..."]
-    },
-    {
-    "ingles": "Not much, just chilling",
-    "español": ["No mucho, solo relajándome"]
-    },
-    {
-    "ingles": "Nice to meet you",
-    "español": ["Encantado de conocerte"]
-    },
-    {
-        "ingles": "How old are you?",
-        "español": ["¿Cuántos años tienes?"]
-        },
-        {
-        "ingles": "Where are you from?",
-        "español":[ "¿De dónde eres?"]
-        },
-        {
-        "ingles": "What do you do?",
-        "español": ["¿Qué haces?"]
-        },
-        {
-        "ingles": "What do you like to do?",
-        "español": ["¿Qué te gusta hacer?"]
-        },
-       
-        {
-        "ingles": "Have a good day",
-        "español":["Que tengas un buen día"]
-        },
-        {
-        "ingles": "Have a great weekend",
-        "español": ["Que tengas un buen fin de semana"]
-        },
-        {
-        "ingles": "Take care",
-        "español":["Cuídate"]
-        },
-        {
-        "ingles": "I'm hungry",
-        "español": ["Tengo hambre"]
-        },
-        {
-        "ingles": "I'm thirsty",
-        "español": ["Tengo sed"]
-        },
-        {
-        "ingles": "Can I help you?",
-        "español": ["¿Puedo ayudarte?"]
-        },
-        {
-    "ingles": "Can you help me?",
-    "español": ["¿Puedes ayudarme?"]
-    },
-    {
-    "ingles": "Do you have the time?",
-    "español": ["¿Tienes la hora?"]
-    },
-    {
-    "ingles": "What time is it?",
-    "español": ["¿Qué hora es?"]
-    },
-    {
-    "ingles": "Can I use your phone?",
-    "español": ["¿Puedo usar tu teléfono?"]
-    },
-    {
-    "ingles": "How much does it cost?",
-    "español": ["¿Cuánto cuesta?"]
-    },
-    {
-    "ingles": "Can you repeat that?",
-    "español": ["¿Puedes repetirlo?"]
-    },
-    {
-    "ingles": "I don't understand",
-    "español": ["No entiendo"]
-    },
-    {
-    "ingles": "Can you translate it?",
-    "español": ["¿Puedes traducirlo?"]
-    },
-    {
-    "ingles": "Can you write it down?",
-    "español": ["¿Puedes escribirlo?"]
-    },
-    {
-    "ingles": "What does that mean?",
-    "español": ["¿Qué significa eso?"]
-    },
-    {
-    "ingles": "What's going on?",
-    "español": ["¿Qué está pasando?"]
-    },
-    {
-    "ingles": "What's new?",
-    "español": ["¿Qué hay de nuevo?"]
-    },
-
-    {
-    "ingles": "Nothing much",
-    "español": ["No demasiado"]
-    },
-    {
-    "ingles": "How are you doing?",
-    "español": ["¿Cómo te va?"]
-    },
-    {
-    "ingles": "What's happening?",
-    "español": ["¿Qué está pasando?"]
-    },
-    {
-    "ingles": "What's going on?",
-    "español": ["¿Qué está sucediendo?"]
-    },
-    {
-    "ingles": "Let's go",
-    "español": ["Vamos"]
-    },
-    {
-    "ingles": "Come here",
-    "español": ["Ven aquí"]
-    },
-    {
-    "ingles": "Wait for me",
-    "español": ["Espera por mí"]
-    },
-    {
-    "ingles": "Hold on",
-    "español": ["Espera un momento"]
-    },
-    {
-    "ingles": "Sorry to hear that",
-    "español": ["Lo siento por escuchar eso"]
-    },
-    {
-    "ingles": "Can I get a drink?",
-    "español": ["¿Puedo tomar algo?"]
-    },
-    {
-    "ingles": "Can I have a look?",
-    "español": ["¿Puedo echar un vistazo?"]
-    },
-    {
-    "ingles": "Can I take a picture?",
-    "español": ["¿Puedo tomar una foto?"]
-    },
-    {
-    "ingles": "Can we talk?",
-    "español": ["¿Podemos hablar?"]
-    },
-    {
-    "ingles": "Can we meet later?",
-    "español": ["¿Podemos reunirnos más tarde?"]
-    },
-    {
-    "ingles": "Can we meet tomorrow?",
-    "español": ["¿Podemos reunirnos mañana?"]
-    },
-    {
-    "ingles": "Let's take a break",
-    "español": ["Tomemos un descanso"]
-    },
-    {
-    "ingles": "What's your phone number?",
-    "español": ["¿Cuál es tu número de teléfono?"]
-    },
-    {
-    "ingles": "What's your address?",
-    "español": ["¿Cuál es tu dirección?"]
-    },
-    {
-    "ingles": "What are you up to?",
-    "español": ["¿En qué andas?"]
-    },
-    {
-    "ingles": "What's your schedule like?",
-    "español": ["¿Cómo es tu horario?"]
-    },
-    {
-    "ingles": "No worries",
-    "español": ["No te preocupes"]
-    },
-    {
-    "ingles": "My pleasure",
-    "español": ["De nada"]
-    },
-    {
-    "ingles": "What's the matter?",
-    "español": ["¿Qué pasa?"]
-    },
-    {
-    "ingles": "What's the problem?",
-    "español": ["¿Cuál es el problema?"]
-    },
-    {
-    "ingles": "How's it going?",
-    "español": ["¿Cómo va todo?"]
-    },
-    {
-    "ingles": "What's up with you?",
-    "español": ["¿Qué te pasa?"]
-    },
-    {
-    "ingles": "What's the weather like?",
-    "español": ["¿Qué tiempo hace?"]
-    },
-    {
-    "ingles": "How's your day?",
-    "español": ["¿Cómo te va el día?"]
-    },
-    {
-    "ingles": "Can you explain it to me?",
-    "español": ["¿Puedes explicármelo?"]
-    },
-    {
-    "ingles": "Can I ask you a question?",
-    "español": ["¿Puedo hacerte una pregunta?"]
-    },
-    {
-    "ingles": "Can you tell me more about that?",
-    "español": ["¿Puedes decirme más sobre eso?"]
-    },
-    {
-    "ingles": "Can you give me a hand?",
-    "español": ["¿Puedes ayudarme?"]
-    },
-    {
-    "ingles": "What's your background?",
-    "español": ["¿Cuál es tu historial?"]
-    },
-    {
-    "ingles": "How's your family?",
-    "español": ["¿Cómo está tu familia?"]
-    },
-    {
-    "ingles": "How do you spell it?",
-    "español": ["¿Cómo se escribe?"]
-    },
-    {
-    "ingles": "Can you speak slower?",
-    "español": ["¿Puedes hablar más despacio?"]
-    },
-    {
-    "ingles": "How long will it take?",
-    "español": ["¿Cuánto tiempo va a tomar?"]
-    },
-    {
-    "ingles": "That's insane",
-    "español": ["Eso es loco"]
-    },
-    {
-    "ingles": "That's awesome",
-    "español": ["Eso es impresionante"]
-    },
-    {
-    "ingles": "That's not fair",
-    "español": ["Eso no es justo"]
-    },
-    {
-    "ingles": "That's great",
-    "español": ["Eso es genial"]
-    },
-    
-         {
-         "ingles": "Is there anything else?",
-         "español": ["¿Hay algo más?"]
-         },
-         {
-         "ingles": "What do you recommend?",
-         "español": ["¿Qué recomiendas?"]
-         },
-         {
-         "ingles": "Is everything okay?",
-         "español": ["¿Está todo bien?"]
-         },
-         {
-         "ingles": "Is there anything I can do?",
-         "español": ["¿Hay algo que pueda hacer?"]
-         },
-         {
-         "ingles": "Are you sure?",
-         "español": ["¿Estás seguro?"]
-         },
-         {
-         "ingles": "What else?",
-         "español": ["¿Qué más?"]
-         },
-         {
-         "ingles": "Pretty good, thanks",
-         "español": ["Bastante bien, gracias"]
-         },
-         {
-         "ingles": "Long time no see",
-         "español": ["Hace mucho tiempo que no nos vemos"]
-         },
-         {
-         "ingles": "How have you been?",
-         "español": ["¿Cómo has estado?"]
-         },
-         {
-         "ingles": "I've been good, thanks",
-         "español": ["He estado bien, gracias"]
-         },
-         {
-            "ingles": "When were you born?",
-            "español": ["¿Cuándo naciste?"]
-            },
-            {
-            "ingles": "What's your birth year?",
-            "español": ["¿Cuál es tu año de nacimiento?"]
-            },
-            {
-            "ingles": "Where were you born?",
-            "español": ["¿Dónde naciste?"]
-            },
-            {
-            "ingles": "What's your hometown?",
-            "español": ["¿Cuál es tu ciudad natal?"]
-            },
-            {
-            "ingles": "What's your age?",
-            "español": ["¿Cuál es tu edad?"]
-            },
-            {
-            "ingles": "What city were you born in?",
-            "español": ["¿En qué ciudad naciste?"]
-            },
-            {
-            "ingles": "What's your birth month?",
-            "español": ["¿Cuál es tu mes de nacimiento?"]
-            },
-            {
-            "ingles": "Where did you grow up?",
-            "español": ["¿Dónde creciste?"]
-            },
-            {
-            "ingles": "Are you from here?",
-            "español": ["¿Eres de aquí?"]
-            },
-            {
-            "ingles": "When is your birthday?",
-            "español": ["¿Cuándo es tu cumpleaños?"]
-            },
-            {
-            "ingles": "I was born on July 22nd, 1995.",
-            "español": ["Nací el 22 de julio de 1995."]
-            },
-            {
-            "ingles": "My birth year is 1995.",
-            "español": ["Mi año de nacimiento es 1995."]
-            },
-            {
-            "ingles": "I was born in New York City.",
-            "español": ["Nací en Nueva York."]
-            },
-            {
-            "ingles": "My hometown is Miami.",
-            "español": ["Mi ciudad natal es Miami."]
-            },
-            {
-            "ingles": "I was born in Los Angeles.",
-            "español": ["Nací en Los Ángeles."]
-            },
-            {
-            "ingles": "I grew up in Seattle.",
-            "español": ["Crecí en Seattle."]
-            },
-            {
-                "ingles": "No, I am not from here.",
-                "español": ["No, no soy de aquí."]
-                },
-                {
-                "ingles": "My birthday is on July 22nd.",
-                "español": ["Mi cumpleaños es el 22 de julio."]
-                },
-                {
-                "ingles": "I was born on July 22nd, 1995.",
-                "español": ["Nací el 22 de julio de 1995."]
-                },
-                {
-                "ingles": "My birth year is 1995.",
-                "español": ["Mi año de nacimiento es 1995."]
-                },
-                {
-                "ingles": "My hometown is Austin.",
-                "español": ["Mi ciudad natal es Austin."]
-                },
-                {
-                "ingles": "I am 28 years old.",
-                "español": ["Tengo 28 años."]
-                },
-                {
-                "ingles": "I was born in June 1995.",
-                "español": ["Nací en junio de 1995."]
-                },
-                {
-                "ingles": "My birth month is June.",
-                "español": ["Mi mes de nacimiento es junio."]
-                },
-                {
-                "ingles": "No, I am originally from Dallas.",
-                "español": ["No, soy originalmente de Dallas."]
-                },
-                {
-                "ingles": "My birthday is in July.",
-                "español": ["Mi cumpleaños es en julio."]
-                },
-                {
-                "ingles": "Yes, I am available.",
-                "español": ["Sí, estoy disponible."]
-                },
-                {
-                "ingles": "No, I am not interested.",
-                "español": ["No, no estoy interesado."]
-                },
-                {
-                "ingles": "Of course, I would love to.",
-                "español": ["Por supuesto, me encantaría."]
-                },
-                {
-                "ingles": "Sorry, I cannot make it.",
-                "español": ["Lo siento, no puedo hacerlo."]
-                },
-                {
-                "ingles": "I am feeling good, thanks.",
-                "español": ["Me siento bien, gracias."]
-                },
-                {
-                "ingles": "I am sorry, I do not have that information.",
-                "español": ["Lo siento, no tengo esa información."]
-                },
-                {
-                "ingles": "I am currently busy.",
-                "español": ["Actualmente estoy ocupado."]
-                },
-                {
-                "ingles": "I am on my way.",
-                "español": ["Estoy en camino."]
-                },
-                {
-                "ingles": "That sounds great.",
-                "español": ["Eso suena genial."]
-                },
-                {
-                    "ingles": "I would prefer not to say.",
-                    "español": ["Prefiero no decir."]
-                    },
-                    {
-                    "ingles": "That is a good question.",
-                    "español": ["Eso es una buena pregunta."]
-                    },
-                    {
-                    "ingles": "I am not sure, let me check.",
-                    "español": ["No estoy seguro, déjame revisar."]
-                    },
-                    {
-                    "ingles": "Thank you for asking.",
-                    "español": ["Gracias por preguntar."]
-                    },
-                    {
-                    "ingles": "I would like to decline.",
-                    "español": ["Me gustaría declinar."]
-                    },
-                    {
-                    "ingles": "Yes, I will be there.",
-                    "español": ["Sí, estaré allí."]
-                    },
-                    {
-                    "ingles": "No, I am not available.",
-                    "español": ["No, no estoy disponible."]
-                    },
-                    {
-                    "ingles": "I am open to suggestions.",
-                    "español": ["Estoy abierto a sugerencias."]
-                    },
-                    {
-                    "ingles": "I am feeling okay.",
-                    "español": ["Me siento bien."]
-                    },
-                    {
-                    "ingles": "That is a private matter.",
-                    "español": ["Eso es un asunto privado."]
-                    },
-                    {
-                    "ingles": "I am happy to hear that.",
-                    "español": ["Me alegra escuchar eso."]
-                    },
-                    {
-                    "ingles": "I have been to Europe.",
-                    "español": ["He estado en Europa."]
-                    },
-                    {
-                    "ingles": "I am a good listener.",
-                    "español": ["Soy un buen oyente."]
-                    },
-                    {
-                    "ingles": "Yes, I agree.",
-                    "español": ["Sí, estoy de acuerdo."]
-                    },
-                    {
-                    "ingles": "No, I disagree.",
-                    "español": ["No, no estoy de acuerdo."]
-                    },
-                    {
-                    "ingles": "What do you do for a living?",
-                    "español": ["¿Qué haces para ganarte la vida?"]
-                    },
-                    {
-                    "ingles": "I work as a ...",
-                    "español": ["Trabajo como ..."]
-                    },
-                    {
-                    "ingles": "What are your hobbies?",
-                    "español": ["¿Cuáles son tus pasatiempos?"]
-                    },
-                    {
-                    "ingles": "My hobbies are...",
-                    "español": ["Mis pasatiempos son..."]
-                    },
-                    {
-                        "ingles": "Do you have any plans for the weekend?",
-                        "español": ["¿Tienes algún plan para el fin de semana?"]
-                        },
-                        {
-                        "ingles": "Yes, I have plans.",
-                        "español": ["Sí, tengo planes."]
-                        },
-                        {
-                        "ingles": "No, I don't have any plans.",
-                        "español": ["No, no tengo planes."]
-                        },
-                        {
-                        "ingles": "Have a nice day.",
-                        "español": ["Que tengas un buen día."]
-                        },
-                        {
-                        "ingles": "What kind of music do you like?",
-                        "español": ["¿Qué tipo de música te gusta?"]
-                        },
-                        {
-                        "ingles": "Do you like sports?",
-                        "español": ["¿Te gustan los deportes?"]
-                        },
-                        {
-                        "ingles": "What's your favorite food?",
-                        "español": ["¿Cuál es tu comida favorita?"]
-                        },
-                        {
-                        "ingles": "Are you married?",
-                        "español": ["¿Estás casado?"]
-                        },
-                        {
-                        "ingles": "Do you have children?",
-                        "español": ["¿Tienes hijos?"]
-                        },
-                        {
-                        "ingles": "What is your favorite movie?",
-                        "español": ["¿Cuál es tu película favorita?"]
-                        },
-                        {
-                            "ingles": "My favorite movie is 'The Godfather.",
-                            "español": ["Mi película favorita es 'El Padrino."]
-                            },
-                       
-                        {
-                        "ingles": "What is your favorite book?",
-                        "español": ["¿Cuál es tu libro favorito?"]
-                        },
-                        {
-                            "ingles": "My favorite book is 'To Kill a Mockingbird.'",
-                            "español": ["Mi libro favorito es 'Matar a un ruiseñor.'" ]
-                            },
-                        
-                        {
-                        "ingles": "Do you like to travel?",
-                        "español": ["¿Te gusta viajar?"]
-                        },
-                        {
-                        "ingles": "Yes, I do.",
-                        "español": ["Sí, lo hago."]
-                        },
-                        {
-                        "ingles": "Do you have any hobbies?",
-                        "español": ["¿Tienes algún pasatiempo?"]
-                        },
-                        {
-                        "ingles": "I enjoy reading.",
-                        "español": ["Me gusta leer."]
-                        },
-
-                        {
-                        "ingles": "Can you speak English?",
-                        "español": ["¿Puedes hablar inglés?"]
-                        },
-                        {
-                        "ingles": "Yes, I can speak English fluently.",
-                        "español": ["Sí, puedo hablar inglés con fluidez."]
-                        },
-                        {
-                        "ingles": "Can you tell me about yourself?",
-                        "español": ["¿Me puedes hablar sobre ti mismo?"]
-                        },
-                        {
-                        "ingles": "Why did you leave your last job?",
-                        "español": ["¿Por qué dejaste tu último trabajo?"]
-                        },
-                        {
-                        "ingles": "I resigned for personal reasons",
-                        "español": ["Renuncié por razones personales."]
-                        },
-                        {
-                        "ingles": "What are your greatest strengths?",
-                        "español": ["¿Cuáles son tus mayores fortalezas?"]
-                        },
-                        {
-                        "ingles": "What are your weaknesses?",
-                        "español": ["¿Cuáles son tus debilidades?"]
-                        },
-                        {
-                        "ingles": "Where is the nearest pharmacy?",
-                        "español": ["¿Dónde está la farmacia más cercana?"]
-                        },
-                        {
-                        "ingles": "Two blocks away.",
-                        "español": ["A dos cuadras de aquí."]
-                        },
-                        {
-                        "ingles": "How much is this?",
-                        "español": ["¿Cuánto cuesta esto?"]
-                        },
-                        {
-                        "ingles": "Can you help me find a hotel?",
-                        "español": ["¿Me puede ayudar a encontrar un hotel?"]
-                        },
-                        {
-                        "ingles": "Where is the bathroom?",
-                        "español": ["¿Dónde está el baño?"]
-                        },
-                        {
-                            "ingles": "What time does the store open and close?",
-                            "español": ["¿A qué hora abre y cierra la tienda?"]
-                            },
-                            {
-                            "ingles": "The store opens at 9 AM and closes at 6 PM.",
-                            "español": ["La tienda abre a las 9 AM y cierra a las 6 PM."]
-                            },
-                            {
-                            "ingles": "How much does the bus cost to downtown?",
-                            "español": ["¿Cuánto cuesta el autobús para el centro de la ciudad?"]
-                            },
-                            {
-                            "ingles": "The bus fare to downtown is $2 per trip",
-                            "español": ["El precio del autobús para el centro de la ciudad es de $2 por viaje."]
-                            },
-                            {
-                            "ingles": "Take it easy.",
-                            "español": ["Tómalo con calma."]
-                            },
-                            {
-                            "ingles": "No way.",
-                            "español": ["De ninguna manera."]
-                            },
-                            {
-                            "ingles": "It's a deal.",
-                            "español": ["Está hecho."]
-                            },
-                            {
-                            "ingles": "That's enough.",
-                            "español": ["Eso es suficiente."]
-                            },
-                            {
-                            "ingles": "Let's do it.",
-                            "español": ["Hagámoslo."]
-                            },
-                            {
-                            "ingles": "Let's roll.",
-                            "español": ["Vamos a ello."]
-                            },
-                            {
-                            "ingles": "You're kidding me.",
-                            "español": ["Me estás tomando el pelo."]
-                            },
-                            {
-                                "ingles": "What is your favorite book?",
-                                "español": ["¿Cuál es tu libro favorito?"]
-                                },
-                                {
-                                "ingles": "My favorite book is 'To Kill a Mockingbird.'",
-                                "español": ["Mi libro favorito es 'Matar a un ruiseñor.'" ]
-                                },
-                                {
-                                "ingles": "Do you like to travel?",
-                                "español": ["¿Te gusta viajar?"]
-                                },
-                                {
-                                "ingles": "Yes, I do.",
-                                "español": ["Sí, lo hago."]
-                                },
-                                {
-                                "ingles": "Do you have any hobbies?",
-                                "español": ["¿Tienes algún pasatiempo?"]
-                                },
-                                {
-                                "ingles": "I enjoy reading.",
-                                "español": ["Me gusta leer."]
-                                },
-                                {
-                                "ingles": "It's a small world.",
-                                "español": ["Es un mundo pequeño."]
-                                },
-                                {
-                                "ingles": "Don't give up.",
-                                "español": ["No te rindas."]
-                                },
-                                {
-                                "ingles": "Take your time.",
-                                "español": ["Tómate tu tiempo."]
-                                },
-                                {
-                                "ingles": "Let's get started.",
-                                "español": ["Empecemos."]
-                                },
-                                {
-                                "ingles": "I'm on it.",
-                                "español": ["Estoy en ello."]
-                                },
-                                {
-                                "ingles": "It's all good.",
-                                "español": ["Todo está bien."]
-                                },
-                                {
-                                "ingles": "Don't worry.",
-                                "español": ["No te preocupes."]
-                                },
-                                {
-                                "ingles": "Get out of here",
-                                "español": ["Sal de aquí"]
-                                },
-                                {
-                                "ingles": "Get on with it",
-                                "español": ["Continúa con eso"]
-                                },
-                                {
-                                "ingles": "Let's get together later.",
-                                "español": ["Vamos a juntarnos más tarde."]
-                                },
-                                {
-                                "ingles": "Can you get the door?",
-                                "español": ["¿Puedes abrir la puerta?"]
-                                },
-                                {
-                                "ingles": "I have to get my car fixed.",
-                                "español": ["Tengo que arreglar mi auto."]
-                                },
-                                {    "ingles": "Did the food taste good?",    "español": ["¿La comida estaba buena?"]
   },
   {
-    "ingles": "Yes, it was delicious.",
-    "español": ["Sí, estaba deliciosa."]
+    "ingles": "No problem",
+    "español": ["No hay problema"]
+  },
+  {
+    "ingles": "That's okay",
+    "español": ["Está bien"]
+  },
+  {
+    "ingles": "It's nice to see you",
+    "español": ["Es agradable verte"]
+  },
+
+  {
+    "ingles": "What's up?",
+    "español": ["¿Qué tal?"]
+  },
+  {
+    "ingles": "What's next?",
+    "español": ["¿Qué sigue?"]
+  },
+
+  {
+    "ingles": "How about you?",
+    "español": ["¿Y tú?"]
+  },
+  {
+    "ingles": "Hey there",
+    "español": ["Hola"]
+  },
+  {
+    "ingles": "How's work going?",
+    "español": ["¿Cómo va el trabajo?"]
+  },
+
+  {
+    "ingles": "Good morning",
+    "español": ["Buenos días"]
+  },
+  {
+    "ingles": "Good afternoon",
+    "español": ["Buenas tardes"]
+  },
+  {
+    "ingles": "Good evening",
+    "español": ["Buenas noches"]
+  },
+  {
+    "ingles": "See you later",
+    "español": ["Hasta luego"]
+  },
+  {
+    "ingles": "I'm busy",
+    "español": ["Estoy ocupado"]
+  },
+  {
+    "ingles": "I'm in a rush",
+    "español": ["Estoy apurado"]
+  },
+
+  {
+    "ingles": "Excuse me",
+    "español": ["Perdón"]
+  },
+  {
+    "ingles": "Thank you",
+    "español": ["Gracias"]
+  },
+
+  {
+    "ingles": "You're welcome",
+    "español": ["De nada"]
+  },
+  {
+    "ingles": "Of course",
+    "español": ["Por supuesto"]
+  },
+  {
+    "ingles": "I don't know",
+    "español": ["No lo sé"]
+  },
+  {
+    "ingles": "What's your name?",
+    "español": ["¿Cómo te llamas?"]
+  },
+  {
+    "ingles": "My name is ...",
+    "español": ["Me llamo ..."]
+  },
+  {
+    "ingles": "Not much, just chilling",
+    "español": ["No mucho, solo relajándome"]
+  },
+  {
+    "ingles": "Nice to meet you",
+    "español": ["Encantado de conocerte"]
+  },
+  {
+    "ingles": "How old are you?",
+    "español": ["¿Cuántos años tienes?"]
+  },
+  {
+    "ingles": "Where are you from?",
+    "español": ["¿De dónde eres?"]
+  },
+  {
+    "ingles": "What do you do?",
+    "español": ["¿Qué haces?"]
+  },
+  {
+    "ingles": "What do you like to do?",
+    "español": ["¿Qué te gusta hacer?"]
+  },
+
+  {
+    "ingles": "Have a good day",
+    "español": ["Que tengas un buen día"]
+  },
+  {
+    "ingles": "Have a great weekend",
+    "español": ["Que tengas un buen fin de semana"]
+  },
+  {
+    "ingles": "Take care",
+    "español": ["Cuídate"]
+  },
+  {
+    "ingles": "I'm hungry",
+    "español": ["Tengo hambre"]
+  },
+  {
+    "ingles": "I'm thirsty",
+    "español": ["Tengo sed"]
+  },
+  {
+    "ingles": "Can I help you?",
+    "español": ["¿Puedo ayudarte?"]
+  },
+  {
+    "ingles": "Can you help me?",
+    "español": ["¿Puedes ayudarme?"]
+  },
+  {
+    "ingles": "Do you have the time?",
+    "español": ["¿Tienes la hora?"]
+  },
+  {
+    "ingles": "What time is it?",
+    "español": ["¿Qué hora es?"]
+  },
+  {
+    "ingles": "Can I use your phone?",
+    "español": ["¿Puedo usar tu teléfono?"]
+  },
+  {
+    "ingles": "How much does it cost?",
+    "español": ["¿Cuánto cuesta?"]
+  },
+  {
+    "ingles": "Can you repeat that?",
+    "español": ["¿Puedes repetirlo?"]
+  },
+  {
+    "ingles": "I don't understand",
+    "español": ["No entiendo"]
+  },
+  {
+    "ingles": "Can you translate it?",
+    "español": ["¿Puedes traducirlo?"]
+  },
+  {
+    "ingles": "Can you write it down?",
+    "español": ["¿Puedes escribirlo?"]
+  },
+  {
+    "ingles": "What does that mean?",
+    "español": ["¿Qué significa eso?"]
+  },
+  {
+    "ingles": "What's going on?",
+    "español": ["¿Qué está pasando?"]
+  },
+  {
+    "ingles": "What's new?",
+    "español": ["¿Qué hay de nuevo?"]
+  },
+
+  {
+    "ingles": "Nothing much",
+    "español": ["No demasiado"]
+  },
+  {
+    "ingles": "How are you doing?",
+    "español": ["¿Cómo te va?"]
+  },
+  {
+    "ingles": "What's happening?",
+    "español": ["¿Qué está pasando?"]
+  },
+
+  {
+    "ingles": "Let's go",
+    "español": ["Vamos"]
+  },
+  {
+    "ingles": "Come here",
+    "español": ["Ven aquí"]
+  },
+  {
+    "ingles": "Wait for me",
+    "español": ["Espera por mí"]
+  },
+  {
+    "ingles": "Hold on",
+    "español": ["Espera un momento"]
+  },
+  {
+    "ingles": "Sorry to hear that",
+    "español": ["Siento oír eso"]
+  },
+  {
+    "ingles": "Can I get a drink?",
+    "español": ["¿Puedo beber algo?"]
+  },
+  {
+    "ingles": "Can I have a look?",
+    "español": ["¿Puedo echar un vistazo?"]
+  },
+  {
+    "ingles": "Can I take a picture?",
+    "español": ["¿Puedo tomar una foto?"]
+  },
+  {
+    "ingles": "Can we talk?",
+    "español": ["¿Podemos hablar?"]
+  },
+  {
+    "ingles": "Can we meet later?",
+    "español": ["¿Podemos reunirnos más tarde?"]
+  },
+  {
+    "ingles": "Can we meet tomorrow?",
+    "español": ["¿Podemos reunirnos mañana?"]
+  },
+  {
+    "ingles": "Let's take a break",
+    "español": ["Tomemos un descanso"]
+  },
+  {
+    "ingles": "What's your phone number?",
+    "español": ["¿Cuál es tu número de teléfono?"]
+  },
+  {
+    "ingles": "What's your address?",
+    "español": ["¿Cuál es tu dirección?"]
+  },
+
+  {
+    "ingles": "How is your schedule?",
+    "español": ["¿Cómo es tu horario?"]
+  },
+  {
+    "ingles": "No worries",
+    "español": ["No te preocupes"]
+  },
+  {
+    "ingles": "My pleasure",
+    "español": ["De nada"]
+  },
+
+  {
+    "ingles": "What's the problem?",
+    "español": ["¿Cuál es el problema?"]
+  },
+  {
+    "ingles": "How's it going?",
+    "español": ["¿Cómo va todo?"]
+  },
+  {
+    "ingles": "What's wrong with you?",
+    "español": ["¿Qué te pasa?"]
+  },
+  {
+    "ingles": "What's the weather like?",
+    "español": ["¿Qué tiempo hace?"]
+  },
+  {
+    "ingles": "How's your day going?",
+    "español": ["¿Cómo va el día?"]
+  },
+  {
+    "ingles": "Can you explain it to me?",
+    "español": ["¿Puedes explicármelo?"]
+  },
+  {
+    "ingles": "Can I ask you a question?",
+    "español": ["¿Puedo hacerte una pregunta?"]
+  },
+  {
+    "ingles": "Can you tell me more about that?",
+    "español": ["¿Puedes decirme más sobre eso?"]
+  },
+  {
+    "ingles": "Can you give me a hand?",
+    "español": ["¿Puedes echarme una mano?"]
+  },
+  {
+    "ingles": "What's your background?",
+    "español": ["¿Cuál es tu historial?"]
+  },
+  {
+    "ingles": "How's your family?",
+    "español": ["¿Cómo está tu familia?"]
+  },
+  {
+    "ingles": "How do you spell it?",
+    "español": ["¿Cómo se escribe?"]
+  },
+  {
+    "ingles": "Can you speak slower?", 
+    "español": ["¿Puedes hablar más despacio?"]
+  },
+  {
+    "ingles": "How long will it take?",
+    "español": ["¿Cuánto tiempo va a tomar?"]
+  },
+  {
+    "ingles": "That's crazy",
+    "español": ["Eso es loco"]
+  },
+  {
+    "ingles": "That's awesome",
+    "español": ["Eso es impresionante"]
+  },
+  {
+    "ingles": "That's not fair",
+    "español": ["Eso no es justo"]
+  },
+  {
+    "ingles": "That's great",
+    "español": ["Eso es genial"]
+  },
+
+  {
+    "ingles": "Is there anything else?",
+    "español": ["¿Hay algo más?"]
+  },
+  {
+    "ingles": "What do you recommend?",
+    "español": ["¿Qué recomiendas?"]
+  },
+  {
+    "ingles": "Is everything okay?",
+    "español": ["¿Está todo bien?"]
+  },
+  {
+    "ingles": "Is there anything I can do?",
+    "español": ["¿Hay algo que pueda hacer?"]
+  },
+  {
+    "ingles": "Are you sure?",
+    "español": ["¿Estás seguro?"]
+  },
+  {
+    "ingles": "What else?",
+    "español": ["¿Qué más?"]
+  },
+  {
+    "ingles": "Quite good, thank you",
+    "español": ["Bastante bien, gracias"]
+  },
+  {
+    "ingles": "Long time no see",
+    "español": ["Hace mucho tiempo que no nos vemos"]
+  },
+  {
+    "ingles": "How have you been?",
+    "español": ["¿Cómo has estado?"]
+  },
+  {
+    "ingles": "I've been good, thanks",
+    "español": ["He estado bien, gracias"]
+  },
+  {
+    "ingles": "When were you born?",
+    "español": ["¿Cuándo naciste?"]
+  },
+  {
+    "ingles": "What's your birth year?",
+    "español": ["¿Cuál es tu año de nacimiento?"]
+  },
+  {
+    "ingles": "Where were you born?",
+    "español": ["¿Dónde naciste?"]
+  },
+  {
+    "ingles": "What's your hometown?",
+    "español": ["¿Cuál es tu ciudad natal?"]
+  },
+  {
+    "ingles": "What's your age?",
+    "español": ["¿Cuál es tu edad?"]
+  },
+  {
+    "ingles": "What city were you born in?",
+    "español": ["¿En qué ciudad naciste?"]
+  },
+  {
+    "ingles": "What's your birth month?",
+    "español": ["¿Cuál es tu mes de nacimiento?"]
+  },
+  {
+    "ingles": "Where did you grow up?",
+    "español": ["¿Dónde creciste?"]
+  },
+  {
+    "ingles": "Are you from here?",
+    "español": ["¿Eres de aquí?"]
+  },
+  {
+    "ingles": "When is your birthday?",
+    "español": ["¿Cuándo es tu cumpleaños?"]
+  },
+  {
+    "ingles": "I was born on July 22nd, 1995",
+    "español": ["Nací el 22 de julio de 1995"]
+  },
+  {
+    "ingles": "I was born in New York City",
+    "español": ["Nací en Nueva York"]
+  },
+  {
+    "ingles": "My hometown is Miami",
+    "español": ["Mi ciudad natal es Miami"]
+  },
+  {
+    "ingles": "I was born in Los Angeles",
+    "español": ["Nací en Los Ángeles"]
+  },
+  {
+    "ingles": "I grew up in Seattle",
+    "español": ["Crecí en Seattle"]
+  },
+  {
+    "ingles": "No, I am not from here",
+    "español": ["No, no soy de aquí"]
+  },
+  {
+    "ingles": "My birthday is August 19",
+    "español": ["Mi cumpleaños es el 19 de Agosto"]
+  },
+
+  {
+    "ingles": "My birth year is 1994",
+    "español": ["Mi año de nacimiento es 1994"]
+  },
+  {
+    "ingles": "My hometown is Austin",
+    "español": ["Mi ciudad natal es Austin"]
+  },
+  {
+    "ingles": "I am 27 years old",
+    "español": ["Tengo 27 años"]
+  },
+  {
+    "ingles": "I was born in January 1999",
+    "español": ["Nací en enero de 1999"]
+  },
+  {
+    "ingles": "My birth month is March",
+    "español": ["Mi mes de nacimiento es marzo"]
+  },
+  {
+    "ingles": "No, I am originally from Dallas",
+    "español": ["No, soy originalmente de Dallas"]
+  },
+  {
+    "ingles": "Yes, I'm available",
+    "español": ["Sí, estoy disponible"]
+  },
+  {
+    "ingles": "No, I am not interested",
+    "español": ["No, no estoy interesado"]
+  },
+  {
+    "ingles": "Of course, I would love to",
+    "español": ["Por supuesto, me encantaría"]
+  },
+  {
+    "ingles": "I'm sorry, I can't do it",
+    "español": ["Lo siento, no puedo hacerlo"]
+  },
+  {
+    "ingles": "I feel good, thank you",
+    "español": ["Me siento bien, gracias"]
+  },
+  {
+    "ingles": "I don't have this information",
+    "español": ["No tengo esa información"]
+  },
+  {
+    "ingles": "I'm currently busy",
+    "español": ["Actualmente estoy ocupado"]
+  },
+  {
+    "ingles": "I'm on my way",
+    "español": ["Estoy en camino"]
+  },
+  {
+    "ingles": "That sounds great",
+    "español": ["Eso suena genial"]
+  },
+  {
+    "ingles": "I prefer not to say",
+    "español": ["Prefiero no decirlo"]
+  },
+  {
+    "ingles": "That's a good question",
+    "español": ["Eso es una buena pregunta"]
+  },
+  {
+    "ingles": "I'm not sure, let me check",
+    "español": ["No estoy seguro, déjame revisar"]
+  },
+  {
+    "ingles": "Thank you for asking",
+    "español": ["Gracias por preguntar"]
+  },
+  {
+    "ingles": "I would like to decline",
+    "español": ["Me gustaría declinar"]
+  },
+  {
+    "ingles": "Yes, I'll be there",
+    "español": ["Sí, estaré allí"]
+  },
+  {
+    "ingles": "No, I'm not available",
+    "español": ["No, no estoy disponible"]
+  },
+  {
+    "ingles": "I'm open to suggestions",
+    "español": ["Estoy abierto a sugerencias"]
+  },
+  {
+    "ingles": "I feel good",
+    "español": ["Me siento bien"]
+  },
+  {
+    "ingles": "That is a private matter",
+    "español": ["Eso es un asunto privado"]
+  },
+  {
+    "ingles": "I am glad to hear that",
+    "español": ["Me alegra escuchar eso"]
+  },
+  {
+    "ingles": "I have been to Europe",
+    "español": ["He estado en Europa"]
+  },
+  {
+    "ingles": "I'm a good listener",
+    "español": ["Soy un buen oyente"]
+  },
+  {
+    "ingles": "Yes, I agree",
+    "español": ["Sí, estoy de acuerdo"]
+  },
+  {
+    "ingles": "No, I don't agree",
+    "español": ["No, no estoy de acuerdo"]
+  },
+  {
+    "ingles": "What do you do for a living?",
+    "español": ["¿Qué haces para ganarte la vida?"]
+  },
+  {
+    "ingles": "I work as a ...",
+    "español": ["Trabajo como ..."]
+  },
+  {
+    "ingles": "What are your hobbies?",
+    "español": ["¿Cuáles son tus pasatiempos?"]
+  },
+  {
+    "ingles": "My hobbies are...",
+    "español": ["Mis pasatiempos son..."]
+  },
+  {
+    "ingles": "Do you have any plans for the weekend?",
+    "español": ["¿Tienes algún plan para el fin de semana?"]
+  },
+  {
+    "ingles": "Yes, I have plans",
+    "español": ["Sí, tengo planes"]
+  },
+  {
+    "ingles": "No, I don't have any plan",
+    "español": ["No, no tengo ningún plan"]
+  },
+  {
+    "ingles": "Have a nice day",
+    "español": ["Que tengas un buen día"]
+  },
+  {
+    "ingles": "What kind of music do you like?",
+    "español": ["¿Qué tipo de música te gusta?"]
+  },
+  {
+    "ingles": "Do you like sports?",
+    "español": ["¿Te gustan los deportes?"]
+  },
+  {
+    "ingles": "What's your favorite food?",
+    "español": ["¿Cuál es tu comida favorita?"]
+  },
+  {
+    "ingles": "Are you married?",
+    "español": ["¿Estás casado?"]
+  },
+  {
+    "ingles": "Do you have children?",
+    "español": ["¿Tienes hijos?"]
+  },
+  {
+    "ingles": "What is your favorite movie?",
+    "español": ["¿Cuál es tu película favorita?"]
+  },
+  {
+    "ingles": "My favorite movie is 'The Godfather'",
+    "español": ["Mi película favorita es 'El Padrino'"]
+  },
+
+  {
+    "ingles": "What is your favorite book?",
+    "español": ["¿Cuál es tu libro favorito?"]
+  },
+
+
+  {
+    "ingles": "Can you speak English?",
+    "español": ["¿Puedes hablar inglés?"]
+  },
+  {
+    "ingles": "Yes, I can speak English fluently",
+    "español": ["Sí, puedo hablar inglés fluidamente"]
+  },
+  {
+    "ingles": "Can you tell me about yourself?",
+    "español": ["¿Me puedes hablar sobre ti mismo?"]
+  },
+  {
+    "ingles": "Why did you leave your last job?",
+    "español": ["¿Por qué dejaste tu último trabajo?"]
+  },
+  {
+    "ingles": "I resigned for personal reasons",
+    "español": ["Renuncié por razones personales"]
+  },
+  {
+    "ingles": "What are your greatest strengths?",
+    "español": ["¿Cuáles son tus mayores fortalezas?"]
+  },
+  {
+    "ingles": "What are your weaknesses?",
+    "español": ["¿Cuáles son tus debilidades?"]
+  },
+  {
+    "ingles": "Where is the nearest pharmacy?",
+    "español": ["¿Dónde está la farmacia más cercana?"]
+  },
+  {
+    "ingles": "Two blocks away",
+    "español": ["A dos cuadras de aquí"]
+  },
+  {
+    "ingles": "How much is it?",
+    "español": ["¿Cuánto es?"]
+  },
+  {
+    "ingles": "Can you help me find a hotel?",
+    "español": ["¿Me puede ayudar a encontrar un hotel?"]
+  },
+
+  {
+    "ingles": "What time does it open?",
+    "español": ["¿A qué hora abre?"]
+  },
+  {
+    "ingles": "Where is the bathroom?",
+    "español": ["¿Dónde está el baño?"]
+  },
+  {
+    "ingles": "What time does the store open?",
+    "español": ["¿A qué hora abre la tienda?"]
+  },
+  {
+    "ingles": "The store opens at 9 AM",
+    "español": ["La tienda abre a las 9 AM"]
+  },
+
+  {
+    "ingles": "Take it easy",
+    "español": ["Tómalo con calma"]
+  },
+  {
+    "ingles": "No way",
+    "español": ["De ninguna manera"]
+  },
+  {
+    "ingles": "It's done",
+    "español": ["Está hecho"]
+  },
+  {
+    "ingles": "That's enough",
+    "español": ["Eso es suficiente"]
+  },
+  {
+    "ingles": "Let's do it",
+    "español": ["Hagámoslo"]
+  },
+
+  {
+    "ingles": "Are you kidding me?",
+    "español": ["¿Me estás tomando el pelo?"]
+  },
+
+  {
+    "ingles": "My favorite book is 'To Kill a Mockingbird'",
+    "español": ["Mi libro favorito es 'Matar a un ruiseñor'"]
+  },
+  {
+    "ingles": "Do you like to travel?",
+    "español": ["¿Te gusta viajar?"]
+  },
+  {
+    "ingles": "Yes, I do",
+    "español": ["Sí, lo hago"]
+  },
+  {
+    "ingles": "Do you have any hobbies?",
+    "español": ["¿Tienes algún pasatiempo?"]
+  },
+  {
+    "ingles": "I enjoy reading",
+    "español": ["Me gusta leer"]
+  },
+  {
+    "ingles": "Would you like to do it?",
+    "español": ["¿Te gustaría hacerlo?"]
+  },
+  {
+    "ingles": "Yes, I would like to do it",
+    "español": ["Sí, me gustaría hacerlo"]
+  },
+  {
+    "ingles": "It's a small world",
+    "español": ["Es un mundo pequeño"]
+  },
+  {
+    "ingles": "Don't give up",
+    "español": ["No te rindas"]
+  },
+  {
+    "ingles": "Take your time",
+    "español": ["Tómate tu tiempo"]
+  },
+  {
+    "ingles": "Let's start",
+    "español": ["Empecemos"]
+  },
+  {
+    "ingles": "I'm on it",
+    "español": ["Estoy en ello"]
+  },
+  {
+    "ingles": "Everything is fine",
+    "español": ["Todo está bien"]
+  },
+  {
+    "ingles": "Don't worry",
+    "español": ["No te preocupes"]
+  },
+  {
+    "ingles": "Get out of here",
+    "español": ["Sal de aquí"]
+  },
+  {
+    "ingles": "Continue with that",
+    "español": ["Continúa con eso"]
+  },
+  {
+    "ingles": "Let's meet later",
+    "español": ["Veámonos más tarde"]
+  },
+  {
+    "ingles": "Can you get the door?",
+    "español": ["¿Puedes abrir la puerta?"]
+  },
+  {
+    "ingles": "I have to fix my car",
+    "español": ["Tengo que arreglar mi auto"]
+  },
+  {
+    "ingles": "Was the food good?",
+    "español": ["¿La comida estaba buena?"]
+  },
+  {
+    "ingles": "Yes, it was delicious",
+    "español": ["Sí, estaba deliciosa"]
   },
   {
     "ingles": "Did the movie make you cry?",
     "español": ["¿La película te hizo llorar?"]
   },
   {
-    "ingles": "No, it was not that sad.",
-    "español": ["No, no fue tan triste."]
+    "ingles": "No, it wasn't so sad",
+    "español": ["No, no fue tan triste"]
   },
   {
     "ingles": "Did the book interest you?",
     "español": ["¿Te interesó el libro?"]
   },
   {
-    "ingles": "Yes, it was very engaging.",
-    "español": ["Sí, fue muy interesante."]
+    "ingles": "Yes, it was very engaging",
+    "español": ["Sí, fue muy interesante"]
   },
   {
     "ingles": "Where is the park?",
     "español": ["¿Dónde está el parque?"]
   },
   {
-    "ingles": "Sorry, I don't know.",
-    "español": ["Lo siento, no lo sé."]
+    "ingles": "Sorry, I don't know",
+    "español": ["Lo siento, no lo sé"]
   },
   {
     "ingles": "What time is the meeting?",
     "español": ["¿A qué hora es la reunión?"]
   },
   {
-    "ingles": "It starts at 3 PM.",
-    "español": ["Comienza a las 3 de la tarde."]
+    "ingles": "It starts at 3 PM",
+    "español": ["Comienza a las 3 de la tarde"]
   },
   {
     "ingles": "What movie did they watch?",
     "español": ["¿Qué película vieron?"]
   },
   {
-    "ingles": "I'm not sure, I wasn't there.",
-    "español": ["No estoy seguro, no estuve allí."]
+    "ingles": "I'm not sure, I wasn't there",
+    "español": ["No estoy seguro, no estuve allí"]
   },
   {
     "ingles": "What time is the concert?",
     "español": ["¿A qué hora es el concierto?"]
   },
   {
-    "ingles": "It starts at 8 PM.",
-    "español": ["Comienza a las 8 de la noche."]
+    "ingles": "It starts at 8 PM",
+    "español": ["Comienza a las 8 de la noche"]
   },
   {
     "ingles": "Who broke the vase?",
@@ -918,56 +879,45 @@
   {
     "ingles": "Who drinks coffee?",
     "español": ["¿Quién bebe café?"]
-    },
-    {
-    "ingles": "Sarah and Tom both drink coffee.",
-    "español": ["Sarah y Tom ambos beben café."]
-    },
-    {
+  },
+  {
+    "ingles": "Sarah and Tom drink coffee",
+    "español": ["Sarah y Tom beben café"]
+  },
+  {
     "ingles": "Who helps him?",
     "español": ["¿Quién le ayuda a él?"]
-    },
-    {
-    "ingles": "He usually does things by himself.",
-    "español": ["Él usualmente hace las cosas solo."]
-    },
-    {
-    "ingles": "Who stole my pen?",
-    "español": ["¿Quién me robó mi pluma?"]
-    },
-    {
+  },
+  {
+    "ingles": "He usually does things alone",
+    "español": ["Él usualmente hace las cosas solo"]
+  },
+  {
+    "ingles": "Who stole my pencil?",
+    "español": ["¿Quién me robó mi lapiz?"]
+  },
+  {
     "ingles": "What inspired them?",
     "español": ["¿Qué les inspiró?"]
-    },
-    {
-    "ingles": "They were inspired by a famous artist.",
-    "español": ["Se inspiraron en un famoso artista."]
-    },
-    {
+  },
+  {
+    "ingles": "They were inspired by a famous artist",
+    "español": ["Se inspiraron en un famoso artista"]
+  },
+  {
     "ingles": "What caused the problem?",
     "español": ["¿Qué causó el problema?"]
-    },
-    {
+  },
+  {
     "ingles": "What made her angry?",
     "español": ["¿Qué la hizo enojar?"]
-    },
-    {
-    "ingles": "What is making that noise?",
+  },
+  {
+    "ingles": "What's making that noise?",
     "español": ["¿Qué está haciendo ese ruido?"]
-    },
-    {
+  },
+  {
     "ingles": "What brought you to this city?",
     "español": ["¿Qué te trajo a esta ciudad?"]
-    }
-     ]
-
-
-
-
-
-
-
-        
-    
-    
-    
+  }
+]

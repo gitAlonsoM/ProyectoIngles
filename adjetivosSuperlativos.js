@@ -8,7 +8,7 @@ let data;
 
 const fetchData = async () => {
   try {
-    const res = await fetch('conectores.json');
+    const res = await fetch('adjetivosSuperlativos.json');
     data = await res.json();
     pintarCards(data);
   } catch (error) {
@@ -82,7 +82,7 @@ function speak(text) {
         locutor.text = text;
         locutor.voice = englishVoice;
         //locutor.voice.lang = 'en-US'; //forzar audio en en-US
-        locutor.rate = 0.5;; //velocidad audio
+        locutor.rate = 0.65; //velocidad audio
         locutor.pitch = 1.1; //tono de voz
         window.speechSynthesis.speak(locutor);
       } else {
@@ -234,7 +234,7 @@ document.addEventListener("click", function (e) {
 
 
 //Recorrer el .json y mostrar en consola nombres repetidos.
-fetch('conectores.json')
+fetch('adjetivosSuperlativos.json')
   .then((response) => response.json())
   .then((data) => {
     const nombresEnIngles = new Set();

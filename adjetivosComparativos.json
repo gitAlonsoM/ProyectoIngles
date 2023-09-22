@@ -42,12 +42,20 @@
     "español": ["más largo"]
   },
   {
+    "ingles": "larger",
+    "español": ["más grande"]
+  },
+  {
     "ingles": "younger",
     "español": ["más joven"]
   },
   {
     "ingles": "older",
     "español": ["más viejo"]
+  },
+  {
+    "ingles": "wiser",
+    "español": ["más sabio"]
   },
   {
     "ingles": "stronger",
@@ -65,6 +73,15 @@
     "ingles": "sadder",
     "español": ["más triste"]
   },
+  {
+    "ingles": "cuter",
+    "español": ["más bonito"]
+  },
+
+
+
+
+
   {
     "ingles": "richer",
     "español": ["más rico"]
@@ -96,6 +113,10 @@
   {
     "ingles": "colder",
     "español": ["más frio"]
+  },
+  {
+    "ingles": "warmer",
+    "español": ["más calientito"]
   },
   {
     "ingles": "thinner",
@@ -159,6 +180,10 @@
   {
     "ingles": "more beautiful",
     "español": ["más hermoso"]
+  },
+  {
+    "ingles": "more transparent",
+    "español": ["más transparente"]
   }
 
 ]

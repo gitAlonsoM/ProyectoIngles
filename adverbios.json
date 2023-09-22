@@ -21,6 +21,10 @@
     "español": ["antes"]
   },
   {
+    "ingles": "after",
+    "español": ["después"]
+  },
+  {
     "ingles": "even",
     "español": ["aún", "incluso"]
   },
@@ -29,15 +33,21 @@
     "ingles": "first",
     "español": ["primero"]
   },
+  {
+    "ingles": "second",
+    "español": ["segundo"]
+  },
+  
+  {
+    "ingles": "third",
+    "español": ["tercero"]
+  },
 
   {
     "ingles": "just",
     "español": ["solamente", "justo"]
   },
-  {
-    "ingles": "later",
-    "español": ["más tarde"]
-  },
+  
 
   {
     "ingles": "never",
@@ -47,20 +57,12 @@
     "ingles": "next",
     "español": ["siguiente"]
   },
-  {
-    "ingles": "occasionally",
-    "español": ["ocasionalmente"]
-  },
+  
   {
     "ingles": "often",
     "español": ["a menudo"]
   },
-
-  {
-    "ingles": "second",
-    "español": ["segundo"]
-  },
-
+ 
   {
     "ingles": "sometimes",
     "español": ["a veces"]
@@ -71,10 +73,6 @@
   },
 
   {
-    "ingles": "third",
-    "español": ["tercero"]
-  },
-  {
     "ingles": "today",
     "español": ["hoy"]
   },
@@ -82,22 +80,7 @@
     "ingles": "tomorrow",
     "español": ["mañana"]
   },
-  {
-    "ingles": "totally",
-    "español": ["totalmente"]
-  },
-  {
-    "ingles": "uniquely",
-    "español": ["únicamente"]
-  },
-  {
-    "ingles": "very",
-    "español": ["muy"]
-  },
-  {
-    "ingles": "usually",
-    "español": ["usualmente"]
-  },
+
   {
     "ingles": "ways",
     "español": ["formas"]
@@ -122,13 +105,14 @@
     "ingles": "tonight",
     "español": ["esta noche"]
   },
-  {
-    "ingles": "after",
-    "español": ["después"]
-  },
+ 
   {
     "ingles": "late",
     "español": ["tarde"]
+  },
+  {
+    "ingles": "later",
+    "español": ["más tarde"]
   },
   {
     "ingles": "since",
@@ -158,10 +142,7 @@
     "ingles": "less",
     "español": ["menos"]
   },
-  {
-    "ingles": "carefully",
-    "español": ["cuidadosamente"]
-  },
+  
   {
     "ingles": "around",
     "español": ["alrededor"]
@@ -198,14 +179,7 @@
     "ingles": "abroad",
     "español": ["en el extranjero"]
   },
-  {
-    "ingles": "absolutely",
-    "español": ["absolutamente"]
-  },
-  {
-    "ingles": "actually",
-    "español": ["en realidad"]
-  },
+  
   {
     "ingles": "almost",
     "español": ["casi"]
@@ -223,14 +197,7 @@
     "ingles": "forever",
     "español": ["para siempre"]
   },
-  {
-    "ingles": "honestly",
-    "español": ["honestamente"]
-  },
-  {
-    "ingles": "hopefully",
-    "español": ["con esperanza"]
-  },
+  
   {
     "ingles": "maybe",
     "español": ["quizás", "tal vez"]
@@ -239,47 +206,32 @@
     "ingles": "now",
     "español": ["ahora"]
   },
-  {
-    "ingles": "obviously",
-    "español": ["obviamente"]
-  },
+  
   {
     "ingles": "only",
     "español": ["sólo"]
   },
-  {
-    "ingles": "probably",
-    "español": ["probablemente"]
-  },
+  
   {
     "ingles": "quite",
     "español": ["bastante"]
   },
+    
   {
-    "ingles": "really",
-    "español": ["realmente", "de verdad"]
+    "ingles": "very",
+    "español": ["muy"]
   },
-  {
-    "ingles": "recently",
-    "español": ["recientemente"]
-  },
-  {
-    "ingles": "seriously",
-    "español": ["seriamente"]
-  },
- 
+  
+  
   {
     "ingles": "suddenly",
-    "español": ["de repente"]
+    "español": ["de repente" , "de pronto"]
   },
   {
     "ingles": "too",
     "español": ["demasiado"]
   },
-  {
-    "ingles": "unfortunately",
-    "español": ["desafortunadamente"]
-  },
+  
   {
     "ingles": "together",
     "español": ["juntos"]
@@ -301,122 +253,47 @@
     "ingles": "good",
     "español": ["bien"]
   },
- 
-  {
-    "ingles": "naturally",
-    "español": ["naturalmente"]
-  },
-  {
-    "ingles": "of course",
-    "español": ["por supuesto"]
-  },
+
   {
     "ingles": "surely",
     "español": ["ciertamente"]
   },
-  
-  {
-    "ingles": "ever since",
-    "español": ["desde entonces"]
-  },
-  {
-    "ingles": "for a while",
-    "español": ["por un rato"]
-  },
-  {
-    "ingles": "from now on",
-    "español": ["a partir de ahora"]
-  },
-  {
-    "ingles": "from the beginning",
-    "español": ["desde el principio"]
-  },
-  {
-    "ingles": "permanently",
-    "español": ["permanentemente"]
-  },
-  {
-    "ingles": "so far",
-    "español": ["hasta ahora"]
-  },
-  {
-    "ingles": "temporarily",
-    "español": ["temporalmente"]
-  },
-  {
-    "ingles": "the whole morning",
-    "español": ["toda la mañana"]
-  },
-  {
-    "ingles": "until now",
-    "español": ["hasta ahora"]
-  },
-  {
-    "ingles": "up to now",
-    "español": ["hasta ahora"]
-  },
-  {
-    "ingles": "annually",
-    "español": ["anualmente"]
-  },
+ 
+
   {
     "ingles": "daily",
     "español": ["diariamente"]
   },
-  {
-    "ingles": "from time to time",
-    "español": ["de vez en cuando"]
-  },
-  {
-    "ingles": "hardly ever",
-    "español": ["casi nunca"]
-  },
+ 
+  
   {
     "ingles": "hard",
     "español": ["dificil", "duro"]
   },
-  {
-    "ingles": "normally",
-    "español": ["normalmente"]
-  },
+ 
   {
     "ingles": "seldom",
-    "español": ["rara vez"]
+    "español": ["rara vez", "pocas veces"]
   },
-  {
-    "ingles": "weekly",
-    "español": ["semanalmente"]
-  },
-  {
-    "ingles": "mainly",
-    "español": ["principalmente"]
-  },
-  {
-    "ingles": "mostly",
-    "español": ["principalmente"]
-  },
- 
- 
+  
+  
   {
     "ingles": "pretty",
     "español": ["bastante"]
   },
   {
     "ingles": "rather",
-    "español": ["bastante"]
-  },
-  {
-    "ingles": "relatively",
-    "español": ["relativamente"]
+    "español": ["bastante", "más bien", "en lugar de"]
   },
   
+
   {
     "ingles": "ahead",
-    "español": ["adelante"]
+    "español": ["adelante", "delante"]
   },
   {
     "ingles": "away",
-    "español": ["lejos"]
+    "español": ["lejos", "fuera"]
   },
   {
     "ingles": "behind",
@@ -430,10 +307,7 @@
     "ingles": "opposite",
     "español": ["enfrente"]
   },
-  {
-    "ingles": "across from",
-    "español": ["enfrente"]
-  },
+  
   {
     "ingles": "across",
     "español": ["a través de"]
@@ -443,29 +317,17 @@
     "ingles": "out",
     "español": ["fuera"]
   },
-  {
-    "ingles": "at last",
-    "español": ["al fin"]
-  },
-  {
-    "ingles": "first of all",
-    "español": ["primero que nada"]
-  },
-  {
-    "ingles": "initially",
-    "español": ["inicialmente"]
-  },
-  {
-    "ingles": "lastly",
-    "español": ["por último"]
-  },
+ 
+  
+  
+
   {
     "ingles": "earlier",
     "español": ["más temprano"]
   },
   {
     "ingles": "early",
-    "español": ["temprano"]
+    "español": ["temprano", "pronto"]
   },
   {
     "ingles": "someday",
@@ -484,8 +346,129 @@
     "español": ["ya no"]
   },
   {
+    "ingles": "straight",
+    "español": ["derecho", "directamente"]
+  },
+
+
+
+  
+  {
+    "ingles": "at last",
+    "español": ["al fin"]
+  },
+  {
+    "ingles": "of course",
+    "español": ["por supuesto"]
+  },
+ {
+    "ingles": "ever since",
+    "español": ["desde entonces"]
+  },
+  {
+    "ingles": "for a while",
+    "español": ["por un rato"]
+  },
+  {
+    "ingles": "from now on",
+    "español": ["a partir de ahora"]
+  },
+  {
+    "ingles": "from the beginning",
+    "español": ["desde el principio"]
+  },
+  {
+    "ingles": "so far",
+    "español": ["hasta ahora"]
+  },
+ {
+    "ingles": "the whole morning",
+    "español": ["toda la mañana"]
+  },
+{
+    "ingles": "until now",
+    "español": ["hasta ahora"]
+  },
+ {
+    "ingles": "up to now",
+    "español": ["hasta ahora"]
+  },
+ {
+    "ingles": "from time to time",
+    "español": ["de vez en cuando"]
+  },
+{
+    "ingles": "hardly ever",
+    "español": ["casi nunca"]
+  },
+{
+    "ingles": "across from",
+    "español": ["enfrente"]
+  },
+{
+    "ingles": "first of all",
+    "español": ["primero que nada"]
+  },
+  {
+    "ingles": "lastly",
+    "español": ["por último"]
+  },
+  {
     "ingles": "concurrently",
     "español": ["concurrentemente"]
+  },
+  {
+    "ingles": "recently",
+    "español": ["recientemente"]
+  },
+{
+    "ingles": "seriously",
+    "español": ["seriamente"]
+  },
+{
+    "ingles": "unfortunately",
+    "español": ["desafortunadamente"]
+  },
+ {
+    "ingles": "naturally",
+    "español": ["naturalmente"]
+  },
+  
+{
+    "ingles": "permanently",
+    "español": ["permanentemente"]
+  },
+{
+    "ingles": "temporarily",
+    "español": ["temporalmente"]
+  },
+ {
+    "ingles": "annually",
+    "español": ["anualmente"]
+  },
+ {
+    "ingles": "normally",
+    "español": ["normalmente"]
+  },
+{
+    "ingles": "weekly",
+    "español": ["semanalmente"]
+  },
+{
+    "ingles": "mainly",
+    "español": ["principalmente"]
+  },
+{
+    "ingles": "mostly",
+    "español": ["principalmente"]
+  },
+{
+    "ingles": "relatively",
+    "español": ["relativamente"]
+  },
+{
+    "ingles": "initially",
+    "español": ["inicialmente"]
   },
   {
     "ingles": "continually",
@@ -499,6 +482,7 @@
     "ingles": "definitely",
     "español": ["definitivamente"]
   },
+ 
   {
     "ingles": "directly",
     "español": ["directamente"]
@@ -559,10 +543,7 @@
     "ingles": "quickly",
     "español": ["rápidamente"]
   },
-  {
-    "ingles": "straight",
-    "español": ["derecho", "recto"]
-  },
+  
   {
     "ingles": "quietly",
     "español": ["en silencio"]
@@ -599,6 +580,55 @@
   {
     "ingles": "secondly",
     "español": ["en segundo lugar"]
+  },
+  {
+    "ingles": "occasionally",
+    "español": ["ocasionalmente"]
+  },
+{
+    "ingles": "totally",
+    "español": ["totalmente"]
+  },
+{
+    "ingles": "uniquely",
+    "español": ["únicamente"]
+  },
+{
+    "ingles": "usually",
+    "español": ["usualmente"]
+  },
+{
+    "ingles": "carefully",
+    "español": ["cuidadosamente"]
+  },
+{
+    "ingles": "absolutely",
+    "español": ["absolutamente"]
+  },
+{
+    "ingles": "actually",
+    "español": ["en realidad"]
+  },
+{
+    "ingles": "honestly",
+    "español": ["honestamente"]
+  },
+{
+    "ingles": "hopefully",
+    "español": ["con esperanza"]
+  },
+{
+    "ingles": "obviously",
+    "español": ["obviamente"]
+  },
+
+{
+    "ingles": "probably",
+    "español": ["probablemente"]
+  },
+{
+    "ingles": "really",
+    "español": ["realmente", "de verdad"]
   },
   {
     "ingles": "separately",

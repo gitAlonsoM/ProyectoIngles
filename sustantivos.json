@@ -1,1465 +1,1487 @@
 [
-   
-    {
+  {
     "ingles": "book",
     "español": ["libro"]
-    },
-    {
+  },
+  {
     "ingles": "business",
     "español": ["negocio"]
-    },
+  },
 
-    {
-        "ingles": "brown",
-        "español": ["marrón, cafe"]
-        },
+  {
+    "ingles": "brown",
+    "español": ["marrón, cafe"]
+  },
 
-        {
-            "ingles": "gray",
-            "español": ["gris"]
-            },
-          
-    {
+  {
+    "ingles": "gray",
+    "español": ["gris"]
+  },
+
+  {
     "ingles": "case",
     "español": ["caso"]
-    },
-    {
+  },
+  {
     "ingles": "child",
     "español": ["niño", "niña"]
-    },
-    {
-    "ingles": "country",
-    "español": ["país"]
-    },
-    {
+  },
+  {
     "ingles": "cousin",
     "español": ["primo(a)"]
-    },
-    {
-        "ingles": " uncle",
-        "español": ["tío"]
-        },
-        {
-            "ingles": " aunt",
-            "español": ["tía"]
-            },
-            {
-                "ingles": " nephew",
-                "español": ["sobrino"]
-                },
-                {
-                    "ingles": " niece",
-                    "español": ["sobrina"]
-                    },
-            
-        
-    {
-    "ingles": "width",
-    "español": ["anchura"]
-    },
-    {
-    "ingles": "height",
-    "español": ["altura"]
-    },
-    {
-    "ingles": "depth",
-    "español": ["profundidad"]
-    },
-    {
+  },
+  {
+    "ingles": " uncle",
+    "español": ["tío"]
+  },
+  {
+    "ingles": " aunt",
+    "español": ["tía"]
+  },
+  {
+    "ingles": " nephew",
+    "español": ["sobrino"]
+  },
+  {
+    "ingles": " niece",
+    "español": ["sobrina"]
+  },
+
+  {
     "ingles": "day",
     "español": ["día"]
-    },
-    {
+  },
+  {
     "ingles": "problem",
     "español": ["problema"]
-    },
+  },
 
-  
-    {   
+  {
     "ingles": "hand",
     "español": ["mano"]
-    },
-    {
+  },
+  {
     "ingles": "arm",
     "español": ["brazo"]
-    },
-    {
+  },
+  {
     "ingles": "elbow",
     "español": ["codo"]
-    },
-    {
+  },
+  {
     "ingles": "finger",
     "español": ["dedo de la mano"]
-    },
-    {
+  },
+  {
     "ingles": "toe",
     "español": ["dedo del pie"]
-    },
-    {
+  },
+  {
     "ingles": "leg",
     "español": ["pierna"]
-    },
-    {
+  },
+  {
     "ingles": "knee",
     "español": ["rodilla"]
-    },
-    {
+  },
+  {
     "ingles": "ankle",
     "español": ["tobillo"]
-    },
-    {
+  },
+  {
     "ingles": "thigh",
     "español": ["muslo"]
-    },
-    {
-        "ingles": "stomach",
-        "español": ["estómago"]
-        },
-    {
+  },
+  {
+    "ingles": "stomach",
+    "español": ["estómago"]
+  },
+  {
     "ingles": "foot",
     "español": ["pie"]
-    },
-    {
+  },
+  {
     "ingles": "neck",
     "español": ["cuello"]
-    },
-    {
+  },
+  {
     "ingles": "shoulder",
     "español": ["hombro"]
-    },
-    {
+  },
+  {
     "ingles": "head",
     "español": ["cabeza"]
-    },
-    {
+  },
+  {
     "ingles": "eye",
     "español": ["ojo"]
-    },
-    {
+  },
+  {
     "ingles": "hair",
     "español": ["cabello"]
-    },
-    {
+  },
+  {
     "ingles": "ear",
     "español": ["oreja"]
-    },
-    {
+  },
+  {
     "ingles": "nose",
     "español": ["nariz"]
-    },
-    {
+  },
+  {
     "ingles": "mouth",
     "español": ["boca"]
-    },
-    {
+  },
+  {
     "ingles": "forehead",
     "español": ["frente"]
-    },
-    {
+  },
+  {
     "ingles": "cheek",
     "español": ["mejilla"]
-    },
-    {
+  },
+  {
     "ingles": "beard",
     "español": ["barba"]
-    },
-    {
+  },
+  {
     "ingles": "teeth",
     "español": ["dientes"]
-    },
-    {
+  },
+  
+  {
+    "ingles": "width",
+    "español": ["anchura"]
+  },
+  {
+    "ingles": "height",
+    "español": ["altura"]
+  },
+  {
+    "ingles": "depth",
+    "español": ["profundidad"]
+  },
+  {
     "ingles": "fear",
     "español": ["miedo"]
-    },
-    {
+  },
+  {
     "ingles": "family",
     "español": ["familia"]
-    },
-    {
-    "ingles": "group",
-    "español": ["grupo"]
-    },
-   
-    {
+  },
+ 
+
+  {
     "ingles": "home",
-    "español": ["casa"]
-    },
-    {
+    "español": ["casa", "hogar"]
+  },
+  {
     "ingles": "job",
     "español": ["trabajo"]
-    },
-    {
+  },
+  {
     "ingles": "life",
     "español": ["vida"]
-    },
-    {
+  },
+  {
     "ingles": "lot",
     "español": ["lote"]
-    },
-    {
+  },
+  {
     "ingles": "man",
     "español": ["hombre"]
-    },
-        {
-        "ingles": "money",
-        "español": ["dinero"]
-        },
-        
-        {
-        "ingles": "mother",
-        "español": ["madre"]
-        },
-        {
-        "ingles": "Mr.",
-        "español": ["Sr."]
-        },
-        {
-        "ingles": "Mrs.",
-        "español": ["Sra."]
-        },
-        {
-        "ingles": "miss",
-        "español": ["señorita"]
-        },
-      
-        {
-        "ingles": "number",
-        "español": ["número"]
-        },
-        {
-        "ingles": "part",
-        "español": ["parte"]
-        },
-        {
-        "ingles": "place",
-        "español": ["lugar"]
-        },
-        {
-        "ingles": "point",
-        "español": ["punto"]
-        },
-        {
-        "ingles": "program",
-        "español": ["programa"]
-        },
-        {
-        "ingles": "question",
-        "español": ["pregunta"]
-        },
-        {
-        "ingles": "thought",
-        "español": ["pensamieto"]
-        },
-        {
-        "ingles": "right",
-        "español": ["derecho", "correcto", "bueno"]
-        },
-        {
-        "ingles": "room",
-        "español": ["habitación"]
-        },
-        {
-        "ingles": "school",
-        "español": ["escuela"]
-        },
-      
-        {
-        "ingles": "state",
-        "español": ["estado"]
-        },
-        {
-            "ingles": "church",
-            "español": ["iglesia"]
-            },
-            {
-            "ingles": "foundation",
-            "español": ["fundación"]
-            },
-            {
-            "ingles": "union",
-            "español": ["sindicato"]
-            },
-            {
-            "ingles": "society",
-            "español": ["sociedad"]
-            },
-            {
-            "ingles": "partnership",
-            "español": ["sociedad"]
-            },
-            {
-            "ingles": "network",
-            "español": ["red"]
-            },
-            {
-            "ingles": "league",
-            "español": ["liga"]
-            },
-            {
-            "ingles": "guild",
-            "español": ["gremio"]
-            },
-        {
-        "ingles": "story",
-        "español": ["historia"]
-        },
-        {
-        "ingles": "student",
-        "español": ["estudiante"]
-        },
-        {
-        "ingles": "study",
-        "español": ["estudio"]
-        },
-        {
-        "ingles": "system",
-        "español": ["sistema"]
-        },
-        {
-        "ingles": "thing",
-        "español": ["cosa"]
-        },
-        {
-        "ingles": "time",
-        "español": ["tiempo"]
-        },
-        {
-        "ingles": "water",
-        "español": ["agua"]
-        },
-        {
-        "ingles": "way",
-        "español": ["camino", "manera"]
-        },
-        {
-        "ingles": "week",
-        "español": ["semana"]
-        },
-        {
-            "ingles": "month",
-            "español": ["mes"]
-            },
-            {
-                "ingles": "year",
-                "español": ["año"]
-                },
-                {
-                    "ingles": "night",
-                    "español": ["noche"]
-                    },
+  },
+  {
+    "ingles": "money",
+    "español": ["dinero"]
+  },
 
-                    {
-                        "ingles": "summer",
-                        "español": ["verano"]
-                        },
-                        {
-                        "ingles": "autumn",
-                        "español": ["otoño"]
-                        },
-                        {
-                        "ingles": "winter",
-                        "español": ["invierno"]
-                        },
-                        {
-                        "ingles": "spring",
-                        "español": ["primavera"]
-                        },
-                            {
-                            "ingles": "decade",
-                            "español": ["década"]
-                            },
-                            {
-                            "ingles": "century",
-                            "español": ["siglo"]
-                            },
-                            {
-                            "ingles": "morning",
-                            "español": ["mañana"]
-                            },
-                            {
-                            "ingles": "afternoon",
-                            "español": ["tarde"]
-                            },
-                            {
-                            "ingles": "evening",
-                            "español": ["noche"]
-                            },
-                            {
-                            "ingles": "season",
-                            "español": ["estación"]
-                            },
-                            {
-                            "ingles": "holiday",
-                            "español": ["vacaciones"]
-                            },
-                            {
-                            "ingles": "weekend",
-                            "español": ["fin de semana"]
-                            },
-                            {
-                            "ingles": "weekday",
-                            "español": ["día laborable"]
-                            },
-                            {
-                            "ingles": "sunrise",
-                            "español": ["amanecer"]
-                            },
-                            {
-                            "ingles": "sunset",
-                            "español": ["atardecer"]
-                            },
-                            {
-                            "ingles": "noon",
-                            "español": ["mediodía"]
-                            },
-                            {
-                            "ingles": "midnight",
-                            "español": ["medianoche"]
-                            },
-                            {
-                            "ingles": "dawn",
-                            "español": ["alba"]
-                            },               
+  {
+    "ingles": "mother",
+    "español": ["madre"]
+  },
+  {
+    "ingles": "Mr.",
+    "español": ["Sr."]
+  },
+  {
+    "ingles": "Mrs.",
+    "español": ["Sra."]
+  },
+  {
+    "ingles": "miss",
+    "español": ["señorita"]
+  },
 
-        {
-        "ingles": "woman",
-        "español": ["mujer"]
-        },
-        {
-        "ingles": "word",
-        "español": ["palabra"]
-        },
-        {
-        "ingles": "work",
-        "español": ["trabajo"]
-        },
-        {
-        "ingles": "world",
-        "español": ["mundo"]
-        },
-        
-        {
-        "ingles": "young",
-        "español": ["joven"]
-        },
-        {
-        "ingles": "man",
-        "español": ["hombre"]
-        },
-        {
-        "ingles": "company",
-        "español": ["empresa"]
-        },
-        {
-        "ingles": "government",
-        "español": ["gobierno"]
-        },
-        {
-        "ingles": "country",
-        "español": ["país"]
-        },
-        {
-        "ingles": "problem",
-        "español": ["problema"]
-        },
-        {
-        "ingles": "group",
-        "español": ["grupo"]
-        },
-        {
-        "ingles": "part",
-        "español": ["parte"]
-        },
-        {
+  {
+    "ingles": "number",
+    "español": ["número"]
+  },
+
+  {
+    "ingles": "place",
+    "español": ["lugar"]
+  },
+  {
+    "ingles": "point",
+    "español": ["punto"]
+  },
+  {
+    "ingles": "program",
+    "español": ["programa"]
+  },
+  {
+    "ingles": "question",
+    "español": ["pregunta"]
+  },
+  {
+    "ingles": "thought",
+    "español": ["pensamieto"]
+  },
+  {
+    "ingles": "right",
+    "español": ["derecho", "correcto"]
+  },
+  {
+    "ingles": "room",
+    "español": ["habitación"]
+  },
+  {
+    "ingles": "school",
+    "español": ["escuela"]
+  },
+
+  {
+    "ingles": "state",
+    "español": ["estado"]
+  },
+  {
+    "ingles": "church",
+    "español": ["iglesia"]
+  },
+  {
+    "ingles": "foundation",
+    "español": ["fundación"]
+  },
+  {
+    "ingles": "union",
+    "español": ["sindicato"]
+  },
+  {
+    "ingles": "society",
+    "español": ["sociedad"]
+  },
+  {
+    "ingles": "partnership",
+    "español": ["sociedad"]
+  },
+  {
+    "ingles": "network",
+    "español": ["red"]
+  },
+  {
+    "ingles": "league",
+    "español": ["liga"]
+  },
+  {
+    "ingles": "guild",
+    "español": ["gremio"]
+  },
+  {
+    "ingles": "story",
+    "español": ["historia"]
+  },
+  {
+    "ingles": "student",
+    "español": ["estudiante"]
+  },
+  {
+    "ingles": "study",
+    "español": ["estudio"]
+  },
+  {
+    "ingles": "system",
+    "español": ["sistema"]
+  },
+  {
+    "ingles": "thing",
+    "español": ["cosa"]
+  },
+  {
+    "ingles": "time",
+    "español": ["tiempo"]
+  },
+  {
+    "ingles": "water",
+    "español": ["agua"]
+  },
+  {
+    "ingles": "way",
+    "español": ["camino", "manera"]
+  },
+  {
+    "ingles": "week",
+    "español": ["semana"]
+  },
+  {
+    "ingles": "month",
+    "español": ["mes"]
+  },
+  {
+    "ingles": "year",
+    "español": ["año"]
+  },
+  {
+    "ingles": "night",
+    "español": ["noche"]
+  },
+
+  {
+    "ingles": "summer",
+    "español": ["verano"]
+  },
+  {
+    "ingles": "autumn",
+    "español": ["otoño"]
+  },
+  {
+    "ingles": "winter",
+    "español": ["invierno"]
+  },
+  {
+    "ingles": "spring",
+    "español": ["primavera"]
+  },
+  {
+    "ingles": "decade",
+    "español": ["década"]
+  },
+  {
+    "ingles": "century",
+    "español": ["siglo"]
+  },
+  {
+    "ingles": "morning",
+    "español": ["mañana"]
+  },
+  {
+    "ingles": "afternoon",
+    "español": ["tarde"]
+  },
+  {
+    "ingles": "evening",
+    "español": ["noche"]
+  },
+  {
+    "ingles": "season",
+    "español": ["estación"]
+  },
+  {
+    "ingles": "holiday",
+    "español": ["vacaciones"]
+  },
+  {
+    "ingles": "weekend",
+    "español": ["fin de semana"]
+  },
+  {
+    "ingles": "weekday",
+    "español": ["día laborable"]
+  },
+  {
+    "ingles": "sunrise",
+    "español": ["amanecer"]
+  },
+  {
+    "ingles": "sunset",
+    "español": ["atardecer"]
+  },
+  {
+    "ingles": "noon",
+    "español": ["mediodía"]
+  },
+  {
+    "ingles": "midnight",
+    "español": ["medianoche"]
+  },
+  {
+    "ingles": "dawn",
+    "español": ["alba", "amanecer"]
+  },
+
+  {
+    "ingles": "woman",
+    "español": ["mujer"]
+  },
+  {
+    "ingles": "word",
+    "español": ["palabra"]
+  },
+  {
+    "ingles": "work",
+    "español": ["trabajo"]
+  },
+  {
+    "ingles": "world",
+    "español": ["mundo"]
+  },
+
+  {
+    "ingles": "young",
+    "español": ["joven"]
+  },
+  
+  {
+    "ingles": "company",
+    "español": ["empresa"]
+  },
+  {
+    "ingles": "government",
+    "español": ["gobierno"]
+  },
+  {
+    "ingles": "country",
+    "español": ["país"]
+  },
+
+  {
+    "ingles": "group",
+    "español": ["grupo"]
+  },
+  {
+    "ingles": "part",
+    "español": ["parte"]
+  },
+  {
     "ingles": "food",
     "español": ["comida"]
-    },
-    {
+  },
+  {
+    "ingles": "meal",
+    "español": ["comida"]
+  },
+  {
     "ingles": "animal",
     "español": ["animal"]
-    },
-    {
+  },
+  {
     "ingles": "house",
     "español": ["casa"]
-    },
-    {
-    "ingles": "car",
-    "español": ["coche"]
-    },
-    {
+  },
+
+  {
     "ingles": "tree",
     "español": ["árbol"]
-    },
-    {
+  },
+  {
     "ingles": "flower",
     "español": ["flor"]
-    },
-    {
-    "ingles": "garden",
-    "español": ["jardín"]
-    },
-    {
+  },
+
+  {
     "ingles": "plant pot",
     "español": ["maceta"]
-    },
+  },
 
-    {
+  {
     "ingles": "table",
     "español": ["mesa"]
-    },
-    {
+  },
+  {
     "ingles": "chair",
     "español": ["silla"]
-    },
-    {
-    "ingles": "computer",
-    "español": ["computadora"]
-    },
-    {
+  },
+  {
+    "ingles": "seat",
+    "español": ["asiento"]
+  },
+
+  {
     "ingles": "phone",
     "español": ["teléfono"]
-    },
-    {
+  },
+  {
+    "ingles": "cell phone",
+    "español": ["celular"]
+  },
+  {
     "ingles": "television",
     "español": ["televisión"]
-    },
-    {
+  },
+  {
     "ingles": "music",
     "español": ["música"]
-    },
-    {
+  },
+  {
     "ingles": "art",
     "español": ["arte"]
-    },
-    {
+  },
+  {
     "ingles": "sport",
     "español": ["deporte"]
-    },
-    {
+  },
+  {
     "ingles": "game",
     "español": ["juego"]
-    },
-    {
+  },
+  {
     "ingles": "movie",
     "español": ["película"]
-    },
-    {
+  },
+  {
+    "ingles": "film",
+    "español": ["película"]
+  },
+  {
+    "ingles": "movie theater",
+    "español": ["cine"]
+  },
+  {
     "ingles": "theater",
     "español": ["teatro"]
-    },
-    {
+  },
+  {
     "ingles": "bookstore",
     "español": ["librería"]
-    },
-    {
+  },
+  {
     "ingles": "library",
     "español": ["biblioteca"]
-    },
-    {
+  },
+  {
     "ingles": "museum",
     "español": ["museo"]
-    },
-    {
+  },
+  {
     "ingles": "restaurant",
     "español": ["restaurante"]
-    },
-    {
+  },
+  {
     "ingles": "hotel",
     "español": ["hotel"]
-    },
-    {
+  },
+  {
     "ingles": "airport",
     "español": ["aeropuerto"]
-    },
-    {
+  },
+  {
     "ingles": "train station",
     "español": ["estación de tren"]
-    },
-    {
+  },
+  {
     "ingles": "bus station",
     "español": ["estación de autobuses"]
-    },
-    {
+  },
+  {
     "ingles": "post office",
     "español": ["oficina de correos"]
-    },
-    {
+  },
+  {
     "ingles": "bank",
     "español": ["banco"]
-    },
-    {
+  },
+  {
     "ingles": "store",
     "español": ["tienda"]
-    },
-    {
+  },
+  {
     "ingles": "office",
     "español": ["oficina"]
-    },
-    {
+  },
+  {
     "ingles": "mountain",
     "español": ["montaña"]
-    },
-    {
+  },
+  {
     "ingles": "hill",
     "español": ["colina"]
-    },
-    {
+  },
+  {
     "ingles": "landscape",
     "español": ["paisaje"]
-    },
+  },
 
-    {
+  {
     "ingles": "river",
     "español": ["río"]
-    },
-    {
+  },
+  {
     "ingles": "ocean",
     "español": ["océano"]
-    },
-    {
+  },
+  {
     "ingles": "lake",
     "español": ["lago"]
-    },
-    {
+  },
+  {
     "ingles": "island",
     "español": ["isla"]
-    },
-    {
+  },
+  {
     "ingles": "forest",
     "español": ["bosque"]
-    },
-    {
+  },
+  {
     "ingles": "desert",
     "español": ["desierto"]
-    },
-    {
+  },
+  {
     "ingles": "sky",
     "español": ["cielo"]
-    },
-    {
+  },
+  {
     "ingles": "sun",
     "español": ["sol"]
-    },
-    {
+  },
+  {
     "ingles": "moon",
     "español": ["luna"]
-    },
-    {
+  },
+  {
     "ingles": "star",
     "español": ["estrella"]
-    },
-    {
+  },
+  {
     "ingles": "cloud",
     "español": ["nube"]
-    },
-    {
+  },
+  {
     "ingles": "rain",
     "español": ["lluvia"]
-    },
-    {
+  },
+  {
     "ingles": "snow",
     "español": ["nieve"]
-    },
-    {
+  },
+  {
     "ingles": "ice",
     "español": ["hielo"]
-    },
-    {
+  },
+  {
     "ingles": "fire",
     "español": ["fuego"]
-    },
-    {
+  },
+  {
     "ingles": "wind",
     "español": ["viento"]
-    },
-    {
+  },
+  {
     "ingles": "earthquake",
     "español": ["terremoto"]
-    },
-    {
+  },
+  {
     "ingles": "hurricane",
     "español": ["huracán"]
-    },
-    {
+  },
+  {
     "ingles": "tornado",
     "español": ["tornado"]
-    },
-    {
+  },
+  {
     "ingles": "volcano",
     "español": ["volcán"]
-    },
-    {
+  },
+  {
     "ingles": "galaxy",
     "español": ["galaxia"]
-    },
-    {
+  },
+  {
     "ingles": "universe",
     "español": ["universo"]
-    },
-    {
+  },
+  {
     "ingles": "meteor",
     "español": ["meteoro"]
-    },
-    {
+  },
+  {
     "ingles": "comet",
     "español": ["cometa"]
-    },
-    {
+  },
+  {
     "ingles": "black hole",
     "español": ["agujero negro"]
-    },
-    {
+  },
+  {
     "ingles": "asteroid",
     "español": ["asteroide"]
-    },
-    {
+  },
+  {
     "ingles": "solar system",
     "español": ["sistema solar"]
-    },
-    {
+  },
+  {
     "ingles": "city",
     "español": ["ciudad"]
-    },
-    {
+  },
+  {
     "ingles": "town",
     "español": ["pueblo"]
-    },
-    {
+  },
+  {
     "ingles": "village",
     "español": ["aldea"]
-    },
-    {
+  },
+  {
     "ingles": "farm",
     "español": ["granja"]
-    },
-    {
+  },
+  {
     "ingles": "factory",
     "español": ["fábrica"]
-    },
-    {
+  },
+  {
     "ingles": "warehouse",
     "español": ["almacén", "(edificio industrial)"]
-    },
-    {
+  },
+  {
     "ingles": "building",
     "español": ["edificio"]
-    },
-    {
+  },
+  {
     "ingles": "bridge",
     "español": ["puente"]
-    },
-    {
+  },
+  {
     "ingles": "tunnel",
     "español": ["túnel"]
-    },
-    {
+  },
+  {
     "ingles": "road",
     "español": ["carretera"]
-    },
-    {
+  },
+  {
     "ingles": "street",
     "español": ["calle"]
-    },
-    {
-    "ingles": "way",
-    "español": ["camino"]
-    },
-
-    {
+  },
+  {
+    "ingles": "traffic",
+    "español": ["tráfico"]
+  },
+  {
     "ingles": "streetlights",
     "español": ["farolas"]
-    },
-    {
+  },
+  {
     "ingles": "wiring",
     "español": ["cableado"]
-    },
-    {
+  },
+  {
     "ingles": "traffic light",
     "español": ["luz de tráfico"]
-    },
-    {
+  },
+  {
     "ingles": "crosswalk",
     "español": ["paso de cebra"]
-    },
-    {  
+  },
+  {
     "ingles": "avenue",
     "español": ["avenida"]
-    },
-    {
+  },
+  {
     "ingles": "alley",
     "español": ["callejón"]
-    },
-    {
-    "ingles": "dway",
-    "español": ["camino de entrada"]
-    },
-    {
+  },
+  {
+    "ingles": "side",
+    "español": ["lado", "lateral"]
+  },
+ 
+  {
     "ingles": "sidewalk",
     "español": ["aceras"]
-    },
-    {
+  },
+  {
     "ingles": "path",
     "español": ["camino"]
-    },
-    {
-    "ingles": "trail",
-    "español": ["sendero"]
-    },
-    {
+  },
+ 
+  {
     "ingles": "park",
     "español": ["parque"]
-    },
-    {
+  },
+  {
     "ingles": "garden",
     "español": ["jardín"]
-    },
-    {
+  },
+  {
     "ingles": "playground",
     "español": ["parque infantil"]
-    },
-    {
+  },
+  {
     "ingles": "pool",
     "español": ["piscina"]
-    },
-    {
+  },
+  {
     "ingles": "gym",
     "español": ["gimnasio"]
-    },
-    {
+  },
+  {
     "ingles": "college",
     "español": ["colegio"]
-    },
-    {
+  },
+  {
     "ingles": "university",
     "español": ["universidad"]
-    },
-    {
+  },
+  {
     "ingles": "hospital",
     "español": ["hospital"]
-    },
-    {
+  },
+  {
     "ingles": "clinic",
     "español": ["clínica"]
-    },
-    {
+  },
+  {
     "ingles": "pharmacy",
     "español": ["farmacia"]
-    },
-    {
+  },
+  {
     "ingles": "dental office",
     "español": ["consultorio dental"]
-    },
-    
-    {
+  },
+
+  {
     "ingles": "police station",
     "español": ["comisaría"]
-    },
-    {
+  },
+  {
     "ingles": "police officer",
     "español": ["carabinero"]
-    },
-    {
+  },
+  {
     "ingles": "fire station",
     "español": ["estación de bomberos"]
-    },
-    {
+  },
+  {
     "ingles": "firefighter",
     "español": ["bombero"]
-    },
-    {
+  },
+  {
     "ingles": "teacher",
     "español": ["profesor(a)"]
-    },
-    {
+  },
+  {
     "ingles": "driver",
     "español": ["conductor(a)"]
-    },
-    {
+  },
+  {
     "ingles": "kitchen",
     "español": ["cocina"]
-    },
-    {
+  },
+  {
     "ingles": "stove",
     "español": ["cocina (alimentos)"]
-    },
-    {
+  },
+  {
     "ingles": "refrigerator",
     "español": ["refrigerador"]
-    },
-    {
+  },
+  {
     "ingles": "microwave",
     "español": ["microonda"]
-    },
-    {
+  },
+  {
     "ingles": "dishwasher",
     "español": ["lava platos"]
-    },
-    {
+  },
+  {
     "ingles": "bread",
     "español": ["pan"]
-    },
-    {
+  },
+  {
     "ingles": "sugar",
     "español": ["azúcar"]
-    },
-    {
+  },
+  {
     "ingles": "salt",
     "español": ["sal"]
-    },
-    {
+  },
+  {
     "ingles": "milk",
     "español": ["leche"]
-    },
-    {
+  },
+  {
     "ingles": "cheese",
     "español": ["queso"]
-    },
-    {
+  },
+  {
     "ingles": "butter",
     "español": ["mantequilla"]
-    },
-    {
+  },
+  {
     "ingles": "jam",
     "español": ["mermelada"]
-    },
-    {
+  },
+  {
     "ingles": "eggs",
     "español": ["huevos"]
-    },
-    {
+  },
+  {
     "ingles": "orange",
     "español": ["naranja"]
-    },
-    {
+  },
+  {
     "ingles": "lemon",
     "español": ["limon"]
-    },
-    {
+  },
+  {
     "ingles": "vinegar",
     "español": ["vinagre"]
-    },
-    {
+  },
+  {
     "ingles": "peach",
     "español": ["durazno"]
-    },
-    {
+  },
+  {
     "ingles": "avocado",
     "español": ["palta"]
-    },
-    {
+  },
+  {
     "ingles": "pear",
     "español": ["pera"]
-    },
-    {
+  },
+  {
     "ingles": "apple",
     "español": ["manzana"]
-    },
-    {
+  },
+  {
     "ingles": "banana",
     "español": ["plátano"]
-    },
-    {
+  },
+  {
     "ingles": "grape",
     "español": ["uva"]
-    },
-    {
+  },
+  {
     "ingles": "potato",
     "español": ["papa"]
-    },
-    {
+  },
+  {
     "ingles": "oats",
     "español": ["avena"]
-    },
-    {
+  },
+  {
     "ingles": "beer",
     "español": ["cerveza"]
-    },
-    {
+  },
+  {
     "ingles": "wine",
     "español": ["vino"]
-    },
-    {
+  },
+  {
     "ingles": "glass",
     "español": ["vaso"]
-    },
-    {
+  },
+  {
     "ingles": "cup",
     "español": ["tasa"]
-    },
-    {
+  },
+  {
     "ingles": "plate",
     "español": ["plato"]
-    },
-    {
+  },
+  {
     "ingles": "fork",
     "español": ["tenedor"]
-    },
-    {
+  },
+  {
     "ingles": "spoon",
     "español": ["cuchara"]
-    },
-    {
+  },
+  {
     "ingles": "knife",
     "español": ["cuchillo"]
-    },
-    {
+  },
+  {
     "ingles": "desk",
     "español": ["escritorio"]
-    },
-    {
+  },
+  {
     "ingles": "monitor",
     "español": ["monitor"]
-    },
-    {
+  },
+  {
     "ingles": "keyboard",
     "español": ["teclado"]
-    },
-    {
+  },
+  {
     "ingles": "computer",
     "español": ["computadora"]
-    },
-    {
+  },
+  {
     "ingles": "bedroom",
     "español": ["dormitorio"]
-    },
+  },
 
-    {
+  {
     "ingles": "mattress",
     "español": ["colchón"]
-    },
-    {
+  },
+  {
     "ingles": "bed",
     "español": ["cama"]
-    },
-    {
+  },
+  {
     "ingles": "bed frame",
-    "español": ["somier"]
-    },
-    {
+    "español": ["somier", "marco de cama"]
+  },
+  {
     "ingles": "sofa",
     "español": ["sofá"]
-    },
-    {
+  },
+  {
     "ingles": "carpet",
     "español": ["alfombra (grande)"]
-    },
-    {
+  },
+  {
     "ingles": "rug",
-    "español": ["alfombra (pequeña)"]
-    },
-    {
+    "español": ["tapete", "alfombra (pequeña)"]
+  },
+  {
     "ingles": "sheets",
     "español": ["sábanas"]
-    },
-    {
+  },
+  {
     "ingles": "blankets",
     "español": ["frazada", "colcha"]
-    },
-    {
+  },
+  {
     "ingles": "closet",
     "español": ["armario"]
-    },
-    {
+  },
+  {
     "ingles": "shower",
     "español": ["ducha"]
-    },
-    {
+  },
+  {
     "ingles": "washing machine",
     "español": ["lavadora"]
-    },
-    {
+  },
+  {
     "ingles": "tub",
     "español": ["tina"]
-    },
-    {
+  },
+  {
     "ingles": "bathroom",
     "español": ["baño"]
-    },
-    {
+  },
+  {
     "ingles": "sink",
     "español": ["lava manos"]
-    },
-    {
+  },
+  {
     "ingles": "toilet",
     "español": ["inodoro"]
-    },
-    {
+  },
+  {
     "ingles": "conditioner",
     "español": ["acondicionador"]
-    },
-    {
+  },
+  {
     "ingles": "soap",
     "español": ["jabón"]
-    },
-    {
+  },
+  {
     "ingles": "cream",
     "español": ["crema"]
-    },
-    {
+  },
+  {
     "ingles": "sunblock",
     "español": ["bloqueador solar"]
-    },
-    {
+  },
+  {
     "ingles": "towel",
     "español": ["toalla"]
-    },
-    {
+  },
+  {
     "ingles": "t-shirt",
     "español": ["polera"]
-    },
-    {
+  },
+  {
     "ingles": "shirt",
     "español": ["camisa"]
-    },
-    {
+  },
+  {
     "ingles": "pants",
     "español": ["pantalón"]
-    },
-    {
+  },
+  {
     "ingles": "sneakers",
     "español": ["zapatillas deportivas"]
-    },
-    {
+  },
+  {
     "ingles": "slipper",
     "español": ["zapato suave y cómodo"]
-    },
-    {
+  },
+  {
     "ingles": "shoes",
     "español": ["zapatos de cualquier tipo"]
-    },
-    {
+  },
+  {
     "ingles": "dress",
     "español": ["vestido"]
-    },
-    {
+  },
+  {
     "ingles": "skirt",
     "español": ["falda"]
-    },
-    {
+  },
+  {
     "ingles": "jacket",
     "español": ["chaqueta"]
-    },
-    {
+  },
+  {
     "ingles": "dining room",
     "español": ["comedor"]
-    },
-    {
-        "ingles": "vase",
-        "español": ["jarron"]
-        },
-        {
-        "ingles": "furniture",
-        "español": ["mueble"]
-        },
-        {
-        "ingles": "painting",
-        "español": ["cuadro"]
-        },
-        {
-        "ingles": "lamp",
-        "español": ["lámpara"]
-        },
-        {
-        "ingles": "light bulb",
-        "español": ["ampolleta"]
-        },
-        {
-        "ingles": "fan",
-        "español": ["ventilador"]
-        },
-        {
-        "ingles": "electric heater",
-        "español": ["estufa"]
-        },
-                           
-    {
+  },
+  {
+    "ingles": "vase",
+    "español": ["jarron"]
+  },
+  {
+    "ingles": "furniture",
+    "español": ["mueble"]
+  },
+  {
+    "ingles": "painting",
+    "español": ["cuadro"]
+  },
+  {
+    "ingles": "lamp",
+    "español": ["lámpara"]
+  },
+  {
+    "ingles": "light bulb",
+    "español": ["ampolleta"]
+  },
+  {
+    "ingles": "fan",
+    "español": ["ventilador"]
+  },
+ 
+  {
     "ingles": "pillow",
     "español": ["almohada"]
-    },
-    
-    {
+  },
+
+  {
     "ingles": "door",
     "español": ["puerta"]
-    },
-    {
+  },
+  {
     "ingles": "stairs",
     "español": ["escalera"]
-    },
-    {
+  },
+  {
     "ingles": "wall",
     "español": ["pared"]
-    },
-     {
+  },
+  {
     "ingles": "balcony",
     "español": ["balcón"]
-    },
-    
-    {
-        "ingles": "hallway",
-        "español": ["pasillo"]
-        },
-     {
-        "ingles": "living room",
-        "español": ["sala de estar"]
-        },
-     {
+  },
+
+  {
+    "ingles": "hallway",
+    "español": ["pasillo"]
+  },
+  {
+    "ingles": "living room",
+    "español": ["sala de estar"]
+  },
+  {
     "ingles": "patio",
     "español": ["patio"]
-    },
-    {
+  },
+  {
     "ingles": "yard",
     "español": ["patio"]
-    },
-    {
+  },
+  {
     "ingles": "chimney",
     "español": ["chimenea"]
-    },
-    {
+  },
+  {
     "ingles": "roof",
-    "español": ["techo (en general)"]
-    },
-    {
+    "español": ["techo exterior"]
+  },
+  {
     "ingles": "ceiling",
-    "español": ["techo (específico)"]
-    },
-    {
-    "ingles": "windows",
-    "español": ["ventanas"]
-    },
-    {
+    "español": ["cielo" , "techo interior"]
+  },
+ 
+  {
     "ingles": "floor",
     "español": ["piso"]
-    },
-    
-    
-    {
-    "ingles": "telephone",
-    "español": ["teléfono"]
-    },
-    {
+  },
+
+  {
     "ingles": "window",
     "español": ["ventana"]
-    },
-    {
+  },
+  {
     "ingles": "bag",
     "español": ["bolsa, bolso, etc"]
-    },     
-    {
+  },
+  {
     "ingles": "wallet",
     "español": ["billetera"]
-    },
-    {
+  },
+  {
     "ingles": "backpack",
     "español": ["mochila"]
-    },
-    {
+  },
+  {
     "ingles": "purse",
     "español": ["bolso"]
-    },
-    {
+  },
+  {
     "ingles": "suitcase",
     "español": ["maleta"]
-    },
-    {
+  },
+  {
     "ingles": "watch",
-    "español": ["reloj"]
-    },
-    {
+    "español": ["reloj de pulsera "]
+  },
+  {
+    "ingles": "clock",
+    "español": ["reloj de pared"]
+  },
+  {
     "ingles": "parrot",
     "español": ["loro"]
-    },
-    {
+  },
+  {
+    "ingles": "bird",
+    "español": ["pájaro"]
+  },
+  {
     "ingles": "dog",
     "español": ["perro"]
-    },
-    {
+  },
+  {
     "ingles": "cat",
     "español": ["gato"]
-    },
-    {
+  },
+  {
     "ingles": "horse",
     "español": ["caballo"]
-    },
-    {
+  },
+  {
     "ingles": "pig",
     "español": ["chancho"]
-    },
-    {
+  },
+  {
     "ingles": "sheep",
     "español": ["oveja"]
-    },
-    {
+  },
+  {
     "ingles": "goat",
     "español": ["cabra"]
-    },
-    {
+  },
+  {
     "ingles": "donkey",
     "español": ["burro"]
-    },
-    {
+  },
+  {
     "ingles": "cow",
     "español": ["vaca"]
-    },
-    {
+  },
+  {
     "ingles": "bear",
     "español": ["oso"]
-    },
-    {
+  },
+  {
     "ingles": "fox",
     "español": ["zorro"]
-    },
-    {
+  },
+  {
     "ingles": "hen",
     "español": ["gallina"]
-    },
-    {
+  },
+  {
     "ingles": "eagle",
     "español": ["aguila"]
-    },
-    {
+  },
+  {
+    "ingles": "turtle",
+    "español": ["tortuga"]
+  },
+  {
+    "ingles": "rabbit",
+    "español": ["conejo"]
+  },
+  {
+    "ingles": "fish",
+    "español": ["pez"]
+  },
+  {
+    "ingles": "elephant",
+    "español": ["elefante"]
+  },
+  {
+    "ingles": "lion",
+    "español": ["leon"]
+  },
+  {
+    "ingles": "snake",
+    "español": ["serpiente"]
+  },
+  {
+    "ingles": "dolphin",
+    "español": ["delfin"]
+  },
+  {
+    "ingles": "tiger",
+    "español": ["tigre"]
+  },
+  {
+    "ingles": "bee",
+    "español": ["abeja"]
+  },
+  {
+    "ingles": "cockroach",
+    "español": ["cucaracha"]
+  },
+  {
     "ingles": "garage",
     "español": ["cochera"]
-    },
-    {
+  },
+  {
     "ingles": "car",
     "español": ["auto"]
-    },
-    {
+  },
+  {
     "ingles": "truck",
     "español": ["camión"]
-    },
-    {
+  },
+  {
     "ingles": "microbus",
     "español": ["micro"]
-    },
-    {
+  },
+  {
     "ingles": "bus",
     "español": ["autobús"]
-    },
-    {
+  },
+  {
     "ingles": "motorcycle",
     "español": ["moto"]
-    },
-    {
+  },
+  {
     "ingles": "bicycle",
     "español": ["bicicleta"]
-    },
-    {
+  },
+  {
     "ingles": "airplane",
     "español": ["avión"]
-    },
-    {
+  },
+  {
     "ingles": "helicopter",
     "español": ["helicóptero"]
-    },
-    {
+  },
+  {
     "ingles": "sea",
     "español": ["mar"]
-    },
-    {
+  },
+  {
     "ingles": "beach",
     "español": ["playa"]
-    },
-    {
+  },
+  {
     "ingles": "sand",
     "español": ["arena"]
-    },
-    {
+  },
+  {
     "ingles": "dock",
     "español": ["muelle"]
-    },
-    {
+  },
+  {
     "ingles": "boat",
     "español": ["bote"]
-    },
-    {
+  },
+  {
     "ingles": "ship",
     "español": ["barco"]
-    },
-  
-    {
-        "ingles": "gold",
-        "español": ["dorado"]
-        },
-        {
-            "ingles": "silver",
-            "español": ["plateado"]
-            },
-        
-                
-                {
-                    "ingles": "freedom",
-                    "español": ["libertad"]
-                },
-                {
-                    "ingles": "luck",
-                    "español": ["suerte"]
-                },
-                {
-                    "ingles": "happiness",
-                    "español": ["felicidad"]
-                },
-                {
-                    "ingles": "justice",
-                    "español": ["justicia"]
-                },
-                {
-                    "ingles": "knowledge",
-                    "español": ["conocimiento"]
-                },
-                {
-                    "ingles": "hope",
-                    "español": ["esperanza"]
-                },
-                {
-                    "ingles": "faith",
-                    "español": ["fe"]
-                },
-                {
-                    "ingles": "trust",
-                    "español": ["confianza"]
-                },
-                {
-                    "ingles": "courage",
-                    "español": ["valentía"]
-                },
-                {
-                    "ingles": "integrity",
-                    "español": ["integridad"]
-                },
-                {
-                    "ingles": "equality",
-                    "español": ["igualdad"]
-                },
-                {
-                    "ingles": "meeting",
-                    "español": ["reunión"]
-                    },
-                    {
-                        "ingles": "party",
-                        "español": ["fiesta"]
-                        },
-                        {
-                            "ingles": "concert",
-                            "español": ["concierto"]
-                            },
-                            {
-                                "ingles": "performance",
-                                "español": ["actuación"]
-                                },
-                                {
-                                    "ingles": "race",
-                                    "español": ["carrera"]
-                                    },
+  },
 
-                                    {
-                                        "ingles": "matter",
-                                        "español": ["asunto", "materia"]
-                                        }
-        
-    
+  {
+    "ingles": "gold",
+    "español": ["dorado"]
+  },
+  {
+    "ingles": "silver",
+    "español": ["plateado"]
+  },
+
+  {
+    "ingles": "freedom",
+    "español": ["libertad"]
+  },
+  {
+    "ingles": "luck",
+    "español": ["suerte"]
+  },
+  {
+    "ingles": "happiness",
+    "español": ["felicidad"]
+  },
+  {
+    "ingles": "justice",
+    "español": ["justicia"]
+  },
+  {
+    "ingles": "knowledge",
+    "español": ["conocimiento"]
+  },
+  {
+    "ingles": "hope",
+    "español": ["esperanza"]
+  },
+  {
+    "ingles": "faith",
+    "español": ["fe"]
+  },
+  {
+    "ingles": "trust",
+    "español": ["confianza"]
+  },
+  {
+    "ingles": "courage",
+    "español": ["valentía"]
+  },
+  {
+    "ingles": "integrity",
+    "español": ["integridad"]
+  },
+  {
+    "ingles": "equality",
+    "español": ["igualdad"]
+  },
+  {
+    "ingles": "meeting",
+    "español": ["reunión"]
+  },
+  {
+    "ingles": "party",
+    "español": ["fiesta"]
+  },
+  {
+    "ingles": "concert",
+    "español": ["concierto"]
+  },
+  {
+    "ingles": "performance",
+    "español": ["actuación"]
+  },
+  {
+    "ingles": "race",
+    "español": ["carrera"]
+  },
+
+  {
+    "ingles": "matter",
+    "español": ["asunto", "materia"]
+  }
 ]
 
-        
 
-        
+

@@ -197,24 +197,63 @@ document.getElementById('dark-mode-button').addEventListener('click', function()
 
 
 
-/* MENU DESPLEGABLE VERBOS CAMBIANDO UN DISPLAY DE NONE A BLOCK */
-document.querySelector(".dropdown-btn").addEventListener("click", function(e) {
-  // Prevenimos que el evento siga propagándose
-  e.stopPropagation();
-  // Obtenemos el elemento con clase "dropdown-content"
-  var dropdownContent = document.querySelector(".dropdown-content");
-  // Se evalua, esta en block, cambia a none, sino, a block
-  if (dropdownContent.style.display === "block") {
-    dropdownContent.style.display = "none";
-  } else {
-    dropdownContent.style.display = "block";
+// Busca todos los elementos con la clase "dropdown-btn"
+const dropdownButtons = document.querySelectorAll(".dropdown-btn");
+
+// Agrega el evento a cada elemento encontrado
+dropdownButtons.forEach((button) => {
+  button.addEventListener("click", function (e) {
+    // Prevenimos que el evento siga propagándose
+    e.stopPropagation();
+    // Obtenemos el elemento con clase "dropdown-content" más cercano al botón clicado
+    const dropdownContent = button.closest(".dropdown").querySelector(".dropdown-content");
+    // Se evalua, esta en block, cambia a none, sino, a block
+    if (dropdownContent.style.display === "block") {
+      dropdownContent.style.display = "none";
+    } else {
+      dropdownContent.style.display = "block";
+    }
+  });
+});
+
+
+
+// Agrega el evento al documento para cerrar el menú cuando se hace clic fuera de él
+document.addEventListener("click", function (e) {
+  // Verifica si el clic no ocurrió en el menú o en uno de sus descendientes
+  if (!e.target.closest(".dropdown")) {
+    // Si el clic fue fuera del menú, oculta el menú
+    const dropdownContents = document.querySelectorAll(".dropdown-content");
+    dropdownContents.forEach(function (dropdownContent) {
+      dropdownContent.style.display = "none";
+    });
   }
 });
-/* AL HACER CLICK FUERA DEL MENU, ESTE SE CIERRA */
-document.querySelector("body").addEventListener("click", function(e) {
-  // Si el elemento clicado no es el mismo que el elemento "dropdown-btn" ni un descendiente del mismo
-  if (!e.target.closest(".dropdown-btn")) {
-    // Ocultamos el menú desplegable
-    document.querySelector(".dropdown-content").style.display = "none";
-  }
-});
+
+
+
+
+//Recorrer el .json y mostrar en consola nombres repetidos.
+fetch('verbos.json')
+  .then((response) => response.json())
+  .then((data) => {
+    const nombresEnIngles = new Set();
+    const nombresRepetidos = [];
+
+    data.forEach((element) => {
+      if (nombresEnIngles.has(element.ingles)) {
+        nombresRepetidos.push(element.ingles);
+      } else {
+        nombresEnIngles.add(element.ingles);
+      }
+    });
+
+    if (nombresRepetidos.length > 0) {
+      console.log("Nombres en inglés repetidos:");
+      console.log(nombresRepetidos);
+    } else {
+      console.log("No hay nombres en inglés repetidos.");
+    }
+  })
+  .catch((error) => console.error(error));
+

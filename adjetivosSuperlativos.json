@@ -29,9 +29,14 @@
     "español": ["el más bonito"]
   },
   {
-    "ingles": "cutest",
-    "español": ["el más sabio"]
+    "ingles": "warmest",
+    "español": ["el más calientito"]
   },
+  {
+    "ingles": "coldest",
+    "español": ["el más frio"]
+  },
+
   {
     "ingles": "largest",
     "español": ["el más largo"]
@@ -48,6 +53,13 @@
     "ingles": "biggest",
     "español": ["el más grande"]
   },
+  {
+    "ingles": "wisest",
+    "español": ["el más sabio"]
+  },
+
+
+
   {
     "ingles": "happiest",
     "español": ["el más feliz"]
